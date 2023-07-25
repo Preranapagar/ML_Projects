@@ -12,3 +12,5 @@ Machine Learning Projects
 4.Road Traffic Severity Classification
 
 5.Dynamic Pricing Strategy
+
+6.Loan Approval Prediction
