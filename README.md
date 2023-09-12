@@ -20,3 +20,5 @@
 5.Dynamic Pricing Strategy
 
 6.Loan Approval Prediction
+
+7.World Data
