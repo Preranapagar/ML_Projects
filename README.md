@@ -24,3 +24,7 @@
 7.World Data
 
 8.Diamond Price Prediction
+
+9.Diabetes Prediction
+
+10.Credit Card Fraud Detection
