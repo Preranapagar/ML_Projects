@@ -1,5 +1,11 @@
+*Steps for Machine Learning Project :
+
+#Exploratory Data Analysis (EDA)
+
+#Feature Engineering
+
+#Modeling
 # ML_Projects
-Machine Learning Projects
 
 1.Titanic
 
