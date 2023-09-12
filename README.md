@@ -22,3 +22,5 @@
 6.Loan Approval Prediction
 
 7.World Data
+
+8.Diamond Price Prediction
