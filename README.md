@@ -28,3 +28,5 @@
 9.Diabetes Prediction
 
 10.Credit Card Fraud Detection
+
+11. Iris Flower CaseStudy
