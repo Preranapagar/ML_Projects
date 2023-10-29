@@ -14,7 +14,7 @@ OUTPUT_PATH = "breast-cancer-wisconsin.csv"
 ###########################################################################
 # Headers
 ###########################################################################
-HEADERS = ['CodeNumber','ClumpThickness','UniformityCellSize','UnifromityCellShape','MarginalAdhesion','SingleEpithelialCellSize',
+HEADERS = ['CodeNumber','ClumpThickness','UniformityCellSize','UniformityCellShape','MarginalAdhesion','SingleEpithelialCellSize',
            'BareNuclei','BlandChromatin','NormalNucleoli','Mitoses','CancerType']
 
 ###########################################################################
@@ -59,7 +59,7 @@ def add_headers(dataset, headers):
 ###########################################################################
 def data_file_to_csv():
     #Headers
-    headers = ['CodeNumber','ClumpThickness','UniformityCellSize','UnifromityCellShape','MarginalAdhesion','SingleEpithelialCellSize',
+    headers = ['CodeNumber','ClumpThickness','UniformityCellSize','UniformityCellShape','MarginalAdhesion','SingleEpithelialCellSize',
            'BareNuclei','BlandChromatin','NormalNucleoli','Mitoses','CancerType']
     #load the dataset into pandas dataframe
     dataset = read_data(INPUT_PATH)
@@ -149,8 +149,8 @@ def main():
         print("Actual outcome :: {} and Predicted outcome ::{}".format(list(y_test)[i],predictions[i]))
     
     print("Train Accuracy :", accuracy_score(y_train, trained_model.predict(X_train)))
-    print("Test Accuracy :", accuracy_score(X_test, predictions))
-    print("Confusion Matrix :\n", confusion_matrix(X_test, predictions))
+    print("Test Accuracy :", accuracy_score(y_test, predictions))
+    print("Confusion Matrix :\n", confusion_matrix(y_test, predictions))
 
 ###########################################################################
 #Application starter
