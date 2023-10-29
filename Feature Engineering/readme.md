@@ -3,6 +3,9 @@
 Task Details :
 
 1. Handling Missing Values :
+        * Detecting Missing Values
+        * Visualizing Missing Values
+        * Finding reason for missing values
 
 2. Handling Imbalance Datasets :
 
