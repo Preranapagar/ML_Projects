@@ -36,6 +36,65 @@ Task Details :
 
 3. Feature Encoding :
 
+        - One Hot Encoding
+
+        - Label Encoding
+
+        - Ordinal Encoding
+
+        - Helmert Encoding
+
+        - Binary Encoding
+
+        - Frequency Encoder
+
+        - Mean Encoding
+
+        - Weight of Evidence Encoding
+
+        - Probability Ration Encoding
+
+        - M-estimator Encoding
+
+        - Thermometer Encoder
+
 4. Dimensionality Reduction :
 
-5. Outlier Detection :
+        - Linear Methods :
+
+                * PCA
+
+                * LDA
+
+                * Truncated SVD
+
+        - Non-linear Methods :
+
+                * Kerner PCA
+
+                * t-SNE
+
+                * MultiDimentional Scaling
+
+                * Isomatric Mapping
+
+        - Backward Elimination
+
+        - Forward Selection
+
+
+5. Outlier Detection & Removal :
+
+        - Discover outlier with visualization tool:
+
+                * Boxplot
+
+                * Scatterplot
+
+        - Discover outlier with mathemtical function:
+
+                * Z-score
+
+                * IQR score
+
+        - Removing Outliers
