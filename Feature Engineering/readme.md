@@ -3,9 +3,10 @@
 Task Details :
 
 1. Handling Missing Values :
-        * Detecting Missing Values
-        * Visualizing Missing Values
-        * Finding reason for missing values
+        1. Detecting Missing Values
+        2. Visualizing Missing Values
+        3. Finding reason for missing values using heatmap
+        4. Inputing with constant
 
 2. Handling Imbalance Datasets :
 
