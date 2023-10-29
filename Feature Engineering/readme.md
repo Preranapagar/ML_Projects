@@ -14,6 +14,26 @@ Task Details :
 
 2. Handling Imbalance Datasets :
 
+        - The Metric Trap
+
+        - Resampling:
+
+                * Random Under-sampling
+
+                * Random Over-sampling
+
+        - Python Imbalance-learn module
+
+                * Random under-sampling and over-sampling using imbalance learn
+
+        - Under-sampling using Tomek link
+
+        - Under-sampling using cluster centroids
+
+        - Over-sampling using SMOTE
+
+        - Over-sampling followed by under-sampling
+
 3. Feature Encoding :
 
 4. Dimensionality Reduction :
