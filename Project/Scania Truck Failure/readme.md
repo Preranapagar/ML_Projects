@@ -6,5 +6,6 @@ Project Name : APS Failure at Scania Trucks
 
     1.Import required libraries
     2.Import Data
+        2.1.Combine train & test data
 
 
