@@ -18,4 +18,12 @@
         3.6.Handling Outliers
         3.7.Correlations
 
+    4.Handle imbalance dataset
+
+    5.Feature Scaling
+
+    6.Model Building
+        6.1.Function for model training and evaluation
+    
+
 
