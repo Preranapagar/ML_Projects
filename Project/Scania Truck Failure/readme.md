@@ -14,5 +14,8 @@
         3.2.Datatypes
         3.3.Check Duplicates
         3.4.Handling null values
+        3.5.Graphical Analysis
+        3.6.Handling Outliers
+        3.7.Correlations
 
 
