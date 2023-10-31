@@ -23,7 +23,24 @@
     5.Feature Scaling
 
     6.Model Building
+        Model Training with Algorithms :
+            - Logistic Regression
+            - Support Vector Classifier
+            - Decision Tree Classifier
+            - Random Forest Classifier
+            - Baggin Classifier
+            - Extra Tree Classifier
+            - AdaBoost Classifier
+            - Gradient Boost Classifier
+            - XG Boost Classifier
+
         6.1.Function for model training and evaluation
+            - Accuracy
+            - Precision
+            - Recall
+            - Roc_Auc_Score
+            
+        6.2.Hyperparameter Tunning
     
 
 
