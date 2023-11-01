@@ -1,6 +1,8 @@
 * Steps for Machine Learning Project :
 
 # Exploratory Data Analysis (EDA)
+1. 11 Key Code Blocks for EDA - Regression Task
+2. 13 Key Code Blocks for EDA - Classification Task
 
 # Feature Engineering
 
