@@ -44,4 +44,7 @@ Task Performed :
         6.2.Hyperparameter Tunning
     
 # Project 2 :
+Task Performed:
+
+    1. Import Required Libraries
 
