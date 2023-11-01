@@ -1,12 +1,12 @@
 *Steps for Machine Learning Project :
 
-#Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 
-#Feature Engineering
+# Feature Engineering
 
-#Modeling
+# Modeling
 
-# ML_Projects
+# Project
 
 1. Titanic
 
