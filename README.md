@@ -1,4 +1,4 @@
-*Steps for Machine Learning Project :
+** Steps for Machine Learning Project : **
 
 # Exploratory Data Analysis (EDA)
 
