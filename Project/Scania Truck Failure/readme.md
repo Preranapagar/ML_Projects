@@ -3,7 +3,7 @@
 ![Alt text](image.png)
 
 # Project 1 :
-* Task Performed :
+Task Performed :
 
     1.Import required libraries
 
