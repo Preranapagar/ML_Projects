@@ -14,4 +14,5 @@ Task Performed
     - Check null values
     - Convert dtypes of columns
     - Combine features
-    - Graphical Representation
+    - Data Distribution
+    - Check & Handle Outliers
