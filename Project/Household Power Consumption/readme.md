@@ -16,3 +16,9 @@ Task Performed
     - Combine features
     - Data Distribution
     - Check & Handle Outliers
+
+4. Model Building
+    - Train test split dataset
+    - Standardization
+    - Modeling
+    - Hyperparameter Tunning
