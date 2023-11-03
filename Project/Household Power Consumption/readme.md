@@ -9,4 +9,8 @@ Task Performed
     - Take sample of data
 
 3. Exploratory Data Analysis
-    - 
+    - Check any special characters and handle them
+    - Check dupliacte values
+    - Check null values
+    - Convert dtypes of columns
+    - Combine features
