@@ -22,3 +22,4 @@ Task Performed
     - Standardization
     - Modeling
     - Hyperparameter Tunning
+    - Bagging Regressor
