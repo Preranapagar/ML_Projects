@@ -1,5 +1,9 @@
 * Steps for Machine Learning Project :
 
+# Data Gathering
+
+1. Handlin messy csv file
+
 # Exploratory Data Analysis (EDA)
 
 1. 11 Key Code Blocks for EDA - Regression Task
