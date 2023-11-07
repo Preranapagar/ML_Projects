@@ -16,6 +16,6 @@ Task Performed :
 
     - Top 10 resturant chains
     - Establishment Types
-    
+    - Highlights wordcloud
 
 
