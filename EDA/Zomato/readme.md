@@ -15,5 +15,7 @@ Task Performed :
 🥫 Exploratory Data Analysis (EDA)
 
     - Top 10 resturant chains
+    - Establishment Types
+    
 
 
