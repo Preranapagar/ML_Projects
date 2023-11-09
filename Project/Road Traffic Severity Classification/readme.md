@@ -26,3 +26,12 @@ Task Performed :
     - XGBClassifier
     - Random Forest Classifier
     - Extra Tree Classifier
+
+# Project 2
+
+* Second attempt with same dataset
+
+* Task Performed :
+
+1. Import Libraries
+2. Import Data
