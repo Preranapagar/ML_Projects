@@ -35,3 +35,7 @@ Task Performed :
 
 1. Import Libraries
 2. Import Data
+3. Exploratory Data Analysis
+4. Preprocessing
+5. Baseline Modelling
+6. Hyperparameter Tuning
