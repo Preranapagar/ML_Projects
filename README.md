@@ -12,6 +12,8 @@
 
 3. Zomato EDA
 
+4. Data Analysis
+
 # Feature Engineering
 
 1. Handling Missing Values
