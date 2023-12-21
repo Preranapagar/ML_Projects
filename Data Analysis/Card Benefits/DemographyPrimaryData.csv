@@ -1,0 +1,1351 @@
+First Name,Last Name,Gender,Age,Phone,Education,Occupation,Marital Status,Number of Children,Address,Caste,YojanaCardBenefits,YojanaCardBenefitsBankAccountLinked,YojanaCardBenefitsUniqueQRCode,YojanaCardBenefitsBookServiceWithHaqdarshaks,YojanaCardBenefitsSchemeApplicationSupport,YojanaCardBenefitsDigiLockerAccount,YojanaCardBenefitsOffersCashbacks,YojanaCardInterestedInYojanaCardStatus,YojanaCardFeatureBenefitInformation,YojanaCardFeatureBenefitSubsidySchemeInfo,YojanaCardFeatureBenefitAccessToBankingServices,YojanaCardFeatureBenefitYojanaKendra,YojanaCardFeatureBenefitHQHelpline,YojanaCardFeatureBenefitAssistedHQService,YojanaCardFeatureBenefitDigilocker,YojanaCardFeatureBenefitCashbackOffers,YojanaCardFeatureBenefitBankAccountInfo,YojanaCardFeatureBenefitOtherStatus,YojanaCardLoanInterestStatus,YojanaCardInsurance,YojanaCardUnmetNeedsHealthExpenses,YojanaCardUnmetNeedsChildrensEducation,YojanaCardUnmetNeedsMarriageSupport,YojanaCardUnmetNeedsBusinessSupport,YojanaCardUnmetNeedsNone,YojanaCardUnmetNeedsOther,YojanaCardInterestInPayingForYojanaCard,YojanaCardPriceComfortableToAvailYojanaCard,YojanaCardAcceptanceOfFreeYojanaCard
+Cadie,Scott,Female,24,787-6371-18,Primary,Business,Single,2,Kochi,SC,1,1,1,0,1,1,0,0,1,0,1,0,0,1,1,0,0,1,0,0,1,0,0,0,1,1,1,1,0
+Sophia,Johnson,Female,23,541-7651-79,Illiterate,Teaching faculty,Married,1,Mumbai,OBC,0,0,1,1,1,0,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,0,1
+Lyndon,Scott,Male,20,268-3140-69,Secondary,Pharmacist,Married,3,Patna,NT/DNT,1,1,0,0,1,1,1,1,0,1,0,0,1,0,1,1,1,0,1,0,1,0,0,1,0,1,1,0,1
+Isabella,Phillips,Female,18,837-4334-04,Senior Secondary,Civil Engineer,Married,2,Kochi,ST,1,1,0,0,1,1,1,0,0,1,0,1,0,0,1,1,0,1,0,0,0,1,0,0,0,0,1,0,1
+Ryan,Miller,Male,26,304-2544-67,Primary,Doctor,Single,2,Patna,Prefer Not to say,1,0,0,0,1,1,1,1,1,1,1,0,1,1,1,0,1,0,1,0,1,0,0,0,1,1,1,1,0
+Aston,Evans,Male,28,382-4829-89,Graduation,Accountant,Single,1,Lucknow,Prefer Not to say,1,1,1,0,1,0,0,1,1,1,1,1,0,0,1,0,1,0,0,0,0,0,1,1,1,1,1,1,0
+Kelsey,Anderson,Female,28,880-7346-58,Post graduation,Civil Engineer,Married,1,Mumbai,SC,0,1,0,0,0,1,1,0,1,0,1,1,1,1,0,1,1,1,0,1,1,1,1,0,1,0,0,1,1
+Savana,Russell,Female,26,109-0904-93,Post graduation,Doctor,Married,3,Raipur,ST,0,0,1,1,0,0,1,1,0,1,0,1,1,0,1,0,1,1,1,1,1,0,0,1,1,0,1,0,1
+Abraham,Morrison,Male,20,772-9956-60,Post graduation,Doctor,Single,5,Chennai,General,1,1,1,1,0,0,0,0,0,0,1,0,1,0,0,1,0,1,1,1,0,1,1,0,1,0,0,0,1
+Steven,Barrett,Male,23,334-2584-46,Senior Secondary,Lawyer,Single,4,Chennai,SC,0,1,1,0,0,0,0,0,1,1,0,0,1,1,1,1,1,0,0,0,0,0,1,0,1,1,0,0,0
+Penelope,Harrison,Female,27,568-0505-17,Illiterate,Pharmacist,Single,3,Chennai,OBC,1,1,0,0,0,0,1,1,1,1,1,1,1,1,0,1,0,1,1,1,0,1,0,0,1,0,1,0,1
+Aston,Smith,Male,28,098-5682-02,Graduation,Police,Single,3,Bangalore,SC,1,0,0,0,0,1,0,1,1,0,0,0,1,1,0,0,0,1,1,1,1,0,0,1,0,0,0,0,1
+Roland,Scott,Male,26,745-6938-58,Graduation,Lawyer,Single,5,Kolkata,General,0,1,0,0,0,0,1,1,0,0,1,1,0,0,0,1,1,0,1,0,1,1,0,0,0,0,1,0,0
+Alan,Sullivan,Male,30,567-8992-99,Illiterate,Production Engineer,Single,3,Raipur,Prefer Not to say,0,1,0,1,1,0,0,0,0,0,1,0,0,1,1,1,1,1,0,0,0,1,0,0,1,1,1,0,1
+Lana,Hill,Female,22,982-2056-59,Secondary,Software Developer,Single,5,Kochi,Prefer Not to say,0,1,0,0,0,1,0,0,1,0,1,1,0,0,1,1,1,0,0,0,1,0,0,0,1,0,0,1,1
+Max,Crawford,Male,22,216-3754-41,Senior Secondary,Lawyer,Married,0,Lucknow,ST,1,1,1,1,0,1,0,1,1,0,0,0,0,0,0,1,0,1,0,1,0,0,1,1,0,0,1,1,1
+Alina,Rogers,Female,22,318-7665-94,Graduation,Mechanic,Single,2,Delhi,NT/DNT,1,0,1,0,0,0,1,1,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1
+Blake,Turner,Male,24,927-6868-61,Senior Secondary,Police,Single,0,Bangalore,ST,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1,1,0,0,1,0,0,1,0,0,0,0,1,1
+Alford,Mitchell,Male,29,945-7240-78,Post graduation,Production Engineer,Married,0,Chennai,OBC,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,1,1,1,0,1,0,1,0,1,0,1,0,1,0
+Oliver,Smith,Male,18,694-2816-95,Primary,Accountant,Single,5,Chennai,SC,0,0,1,0,0,1,0,0,1,0,1,0,1,0,1,0,1,1,0,1,0,1,0,1,1,1,0,1,0
+Edward,Armstrong,Male,18,873-6863-72,Senior Secondary,Teaching faculty,Married,4,Kochi,General,0,0,1,1,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0,1,1,1,1,0,1,1,1,0,0
+Martin,Lloyd,Male,22,928-4632-36,Secondary,Lawyer,Single,0,Mumbai,NT/DNT,1,0,1,0,0,1,1,1,1,0,0,0,1,0,1,0,1,0,1,0,0,1,0,1,1,1,0,1,1
+Jessica,Roberts,Female,21,553-3005-13,Graduation,Lawyer,Single,0,Kochi,ST,0,0,0,0,1,1,1,1,0,1,1,0,1,1,1,0,0,0,1,1,0,0,1,0,0,0,0,1,0
+Frederick,Hall,Male,24,475-6910-81,Senior Secondary,Clerk,Married,0,Hyderabad,NT/DNT,1,1,1,0,1,0,0,0,0,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,0,1,0,1,0
+Roland,Harper,Male,22,032-8511-89,Senior Secondary,Police,Single,5,Lucknow,NT/DNT,0,1,0,1,0,1,1,0,1,0,0,0,0,1,1,0,0,0,0,0,1,1,1,1,0,1,1,0,1
+Mike,Owens,Male,22,697-3280-14,Secondary,Civil Engineer,Single,3,Bangalore,General,1,0,1,0,1,0,1,0,0,0,1,0,1,1,0,1,1,0,1,1,0,1,0,1,0,0,1,1,1
+Marcus,Robinson,Male,18,199-6684-63,Post graduation,Architect,Married,0,Chennai,General,0,0,1,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1
+Audrey,Baker,Female,21,453-3393-69,Primary,Business,Single,4,Chennai,OBC,1,1,1,0,1,0,0,1,0,1,0,0,1,0,1,0,0,1,0,0,0,1,1,1,1,1,1,0,0
+Michelle,Ferguson,Female,20,153-5295-77,Secondary,Police,Single,3,Delhi,NT/DNT,0,0,1,0,0,0,1,1,1,0,0,1,1,1,1,0,1,0,0,1,1,0,0,1,0,0,1,0,0
+Freddie,Payne,Male,18,017-3216-82,Illiterate,Accountant,Married,3,Delhi,SC,1,0,0,0,1,1,1,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,1,0,1,1,0,1,0
+Chloe,Watson,Female,18,716-8467-24,Post graduation,Clerk,Married,1,Patna,ST,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,1
+Dexter,Moore,Male,30,981-7985-78,Illiterate,Mechanic,Married,3,Chennai,General,0,1,1,0,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,1,0,1,1,1,1,0,0
+Ellia,Cameron,Female,23,249-5902-32,Post graduation,Software Developer,Single,5,Chennai,SC,1,1,0,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,1,0,1,0,1,1,0,0,0,0,0
+Dale,Riley,Male,28,009-6744-22,Primary,Business,Married,4,Lucknow,ST,0,1,0,1,1,0,1,0,0,0,1,1,0,0,1,1,1,1,1,1,0,1,0,1,0,0,1,0,1
+Preston,Brown,Male,22,476-1302-69,Senior Secondary,Accountant,Married,2,Bangalore,NT/DNT,0,0,0,0,0,1,1,1,0,0,0,0,1,1,1,0,0,0,1,1,0,1,1,0,0,0,1,0,1
+Aiden,Barnes,Male,27,049-0934-29,Secondary,Pharmacist,Married,5,Raipur,ST,1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,1
+William,Wright,Male,27,791-0862-56,Primary,Police,Single,0,Chennai,OBC,0,0,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,0,0,1,0,0,0,1,1,0,0
+Walter,Hill,Male,28,251-3757-46,Primary,Plumber,Single,4,Patna,NT/DNT,0,1,1,1,1,1,0,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,0
+Sarah,Davis,Female,22,685-3674-80,Graduation,Clerk,Married,3,Bangalore,ST,0,1,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,1,0,0,1,0
+Aida,Morgan,Female,26,697-6208-15,Senior Secondary,Software Developer,Married,5,Raipur,OBC,0,0,0,1,1,1,0,0,0,0,0,1,0,1,1,1,1,1,0,0,1,0,0,0,1,1,0,1,1
+Connie,Miller,Female,18,482-5191-06,Illiterate,Lawyer,Single,1,Hyderabad,General,0,1,1,0,0,0,1,1,1,1,0,1,0,0,1,0,1,1,1,1,0,0,0,1,1,1,0,1,0
+Penelope,Richardson,Female,24,440-5133-67,Primary,Clerk,Single,0,Kolkata,General,0,1,1,1,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0,1,1,0,0,0,0
+Abraham,Bennett,Male,29,580-4281-59,Graduation,Pharmacist,Single,1,Kolkata,ST,0,0,0,1,1,0,1,1,0,1,0,1,0,1,1,1,0,0,1,0,1,0,1,0,0,1,1,1,0
+Kelvin,Adams,Male,30,014-9512-38,Illiterate,Teaching faculty,Single,2,Bangalore,SC,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,1,1,1,1,1
+Lucas,Myers,Male,24,136-3908-50,Secondary,Business,Single,4,Delhi,SC,1,1,1,0,1,0,1,1,1,0,0,0,1,1,0,0,0,1,0,1,0,1,1,1,1,0,0,0,1
+Deanna,Hill,Female,24,363-1222-58,Graduation,Software Developer,Single,4,Raipur,SC,1,0,0,0,0,1,0,0,1,0,1,1,1,1,0,0,0,0,1,1,0,1,1,1,1,0,0,1,1
+Jared,Roberts,Male,18,867-4736-32,Graduation,Civil Engineer,Single,5,Delhi,General,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,0,1,1,1,1,1,0
+Clark,Brown,Male,25,600-9504-87,Graduation,Architect,Single,1,Raipur,OBC,1,1,0,1,1,0,1,1,0,1,0,1,1,0,0,0,0,1,1,1,0,1,0,0,0,0,1,0,1
+Kate,Nelson,Female,19,836-3966-85,Senior Secondary,Software Developer,Married,1,Mumbai,Prefer Not to say,0,0,1,1,0,0,1,1,1,0,0,1,1,1,1,1,1,0,0,0,1,1,0,0,0,0,1,1,0
+Amy,Johnston,Female,27,361-5697-93,Primary,Mechanic,Single,4,Kolkata,NT/DNT,1,0,0,0,0,0,0,1,1,0,0,1,1,0,1,1,1,0,1,0,0,1,0,0,1,1,0,1,1
+Adison,Farrell,Male,23,146-6032-17,Primary,Mechanic,Married,3,Delhi,Prefer Not to say,1,0,0,1,1,0,0,0,0,1,0,0,0,1,1,1,0,1,0,0,1,0,0,0,1,1,0,1,0
+Julia,Holmes,Female,25,503-7730-27,Post graduation,Business,Married,0,Chennai,General,1,0,0,1,1,0,0,1,0,0,1,1,1,0,0,1,0,0,1,1,1,0,1,0,0,0,0,0,1
+Myra,Crawford,Female,29,412-9576-19,Illiterate,Production Engineer,Single,0,Delhi,Prefer Not to say,1,1,0,0,1,0,0,1,1,1,1,1,0,0,0,1,0,1,0,0,1,1,1,0,0,1,0,0,1
+Eleanor,Kelly,Female,21,858-1257-40,Primary,Data Analyst,Married,4,Patna,SC,1,1,1,0,1,1,1,0,0,0,1,1,0,0,1,0,1,1,1,1,0,1,1,0,0,1,0,1,1
+Kellan,Kelly,Male,21,043-8471-98,Graduation,Lawyer,Single,4,Kolkata,ST,1,1,0,1,1,1,1,1,0,1,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,0,1,0,1
+William,Stevens,Male,22,510-8331-68,Illiterate,Architect,Single,5,Lucknow,OBC,0,0,0,1,0,0,0,1,0,1,1,0,1,1,1,1,0,1,0,0,0,0,1,0,0,1,0,1,0
+Alexander,Gray,Male,20,978-5223-00,Graduation,Pharmacist,Single,1,Delhi,SC,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,1,0,0,1,1,0,0,1
+Brooke,Barrett,Female,22,162-8007-04,Primary,Software Developer,Single,4,Hyderabad,General,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,1,0,1,0,1
+Robert,Holmes,Male,21,788-4641-54,Illiterate,Business,Single,2,Patna,NT/DNT,1,1,0,0,0,1,1,1,0,0,0,0,0,1,1,1,0,1,0,1,0,1,1,0,0,1,0,1,1
+Emma,Morrison,Female,24,018-4200-38,Secondary,Mechanic,Single,1,Hyderabad,General,0,1,0,0,1,1,0,0,0,0,0,1,1,1,0,0,1,0,0,1,0,0,1,0,1,0,1,0,0
+Darcy,Johnston,Female,23,459-1143-33,Secondary,Accountant,Single,4,Delhi,OBC,0,1,0,1,0,1,0,1,1,0,1,1,0,0,1,1,1,0,0,0,0,0,1,0,1,0,0,0,1
+Belinda,Foster,Female,23,318-8862-58,Post graduation,Architect,Single,1,Patna,General,0,1,1,1,1,1,0,1,0,0,0,1,1,1,1,1,1,1,0,1,0,0,0,1,0,0,0,1,1
+Kristian,West,Male,27,105-8088-84,Illiterate,Software Developer,Married,5,Lucknow,Prefer Not to say,1,1,1,0,0,1,0,1,0,1,0,0,0,1,1,1,0,1,0,0,1,1,1,1,1,1,1,1,1
+Jenna,Sullivan,Female,25,728-7853-78,Graduation,Mechanic,Single,5,Patna,SC,1,0,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1,1,0,0,1
+Albert,Gibson,Male,19,013-1637-59,Senior Secondary,Teaching faculty,Married,4,Raipur,SC,1,0,0,1,0,0,1,1,1,1,0,1,1,0,0,1,1,1,0,1,0,1,0,1,0,1,1,0,0
+Belinda,Clark,Female,30,417-4960-03,Primary,Business,Single,2,Kochi,General,1,0,1,0,1,1,1,1,0,1,1,0,0,0,1,0,0,0,1,1,0,1,1,0,0,0,0,1,1
+Deanna,Stewart,Female,19,507-0121-06,Illiterate,Teaching faculty,Single,3,Raipur,General,1,1,0,0,1,0,1,1,1,1,0,0,0,1,1,1,0,0,1,1,0,0,1,0,1,1,1,1,1
+Audrey,Perkins,Female,24,089-0463-31,Graduation,Lawyer,Married,1,Hyderabad,OBC,0,0,1,0,1,1,1,0,1,1,1,1,1,1,0,1,1,0,0,1,0,0,0,1,1,0,1,1,1
+Andrew,Ross,Male,18,614-9386-30,Graduation,Pharmacist,Single,5,Hyderabad,Prefer Not to say,1,0,0,1,0,1,0,0,0,1,0,1,1,1,0,1,0,1,1,1,1,1,1,1,0,0,1,0,1
+Lana,Miller,Female,26,059-5335-56,Graduation,Teaching faculty,Single,4,Kochi,Prefer Not to say,1,1,1,1,0,1,1,0,1,0,1,0,1,0,1,1,0,0,0,1,1,0,1,1,1,1,0,1,1
+Arnold,Smith,Male,23,392-4507-96,Senior Secondary,Data Analyst,Married,4,Chennai,SC,0,1,0,1,0,0,0,1,1,0,0,1,0,0,1,1,0,0,1,1,1,1,0,1,0,0,0,0,0
+Alford,Wright,Male,19,395-1337-78,Illiterate,Pharmacist,Married,5,Lucknow,Prefer Not to say,1,0,0,1,0,1,0,1,1,1,0,1,1,1,0,1,0,0,1,0,0,1,0,1,1,1,1,0,0
+Albert,Perkins,Male,22,542-5369-27,Secondary,Accountant,Married,2,Lucknow,NT/DNT,0,1,0,0,0,0,1,1,1,0,1,0,1,1,0,1,0,0,0,0,0,1,0,1,1,0,1,1,1
+Carina,Thompson,Female,24,821-9696-00,Primary,Software Developer,Married,2,Bangalore,SC,0,1,0,0,1,0,0,0,1,1,0,1,0,1,0,1,1,0,0,1,1,0,0,0,0,1,0,0,1
+Kristian,Ross,Male,27,993-8372-19,Secondary,Data Analyst,Married,1,Raipur,ST,0,0,1,1,0,0,1,1,0,1,0,0,1,0,1,0,1,0,1,0,0,1,1,0,1,0,0,0,0
+Lana,Gibson,Female,24,359-2085-83,Graduation,Production Engineer,Single,1,Kochi,SC,1,1,1,0,1,0,1,0,0,0,1,0,0,0,0,1,1,1,0,1,1,1,1,1,0,0,1,0,0
+Kelvin,Bennett,Male,24,450-8235-68,Illiterate,Software Developer,Married,3,Chennai,OBC,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,0,0,1,1,0,1,1,0,1,1,0,1,0,1
+Kevin,Farrell,Male,27,841-0547-37,Graduation,Software Developer,Married,5,Raipur,ST,0,1,1,1,1,1,1,0,0,1,1,1,0,1,1,1,0,0,1,1,1,0,1,0,1,1,0,0,1
+Ashton,Johnson,Male,25,913-4311-40,Senior Secondary,Accountant,Married,2,Mumbai,NT/DNT,1,0,0,0,0,1,1,1,0,1,1,0,0,1,1,0,0,1,1,1,1,1,0,0,1,0,0,0,1
+Bruce,Davis,Male,30,375-8260-87,Primary,Lawyer,Married,0,Chennai,SC,0,0,0,0,1,0,1,1,1,1,1,0,0,1,0,0,1,0,1,1,0,1,1,1,0,1,0,0,0
+Vincent,Alexander,Male,20,153-0535-18,Senior Secondary,Data Analyst,Single,1,Hyderabad,General,0,1,0,0,0,0,1,1,1,1,0,1,0,1,0,1,1,1,0,0,0,0,1,0,1,0,0,0,1
+Kevin,Hill,Male,23,596-6379-29,Post graduation,Lawyer,Single,4,Patna,Prefer Not to say,0,0,1,1,1,1,0,1,0,0,0,0,0,1,0,0,1,0,1,1,1,1,1,0,0,1,1,0,0
+Caroline,Wilson,Female,30,211-2542-15,Illiterate,Lawyer,Single,3,Chennai,NT/DNT,1,0,0,1,1,0,1,0,1,0,0,0,0,1,0,1,0,0,1,1,1,1,1,0,1,0,0,1,0
+Carlos,Hawkins,Male,19,924-3906-24,Post graduation,Architect,Single,1,Kolkata,General,0,0,0,1,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,0,0,0,1,0,0,1,1,0,0
+Tyler,Moore,Male,23,842-4582-96,Post graduation,Pharmacist,Married,4,Patna,Prefer Not to say,1,0,0,0,1,1,1,1,1,0,1,0,1,1,1,1,1,0,0,1,0,1,1,0,0,0,0,0,1
+Kate,Miller,Female,20,964-0717-11,Post graduation,Architect,Married,2,Raipur,ST,0,1,1,0,0,1,1,1,1,0,1,1,1,1,0,0,1,0,1,0,0,0,1,1,1,0,0,0,1
+Spike,Robinson,Male,21,992-1556-86,Primary,Lawyer,Married,3,Raipur,SC,1,0,0,0,1,1,1,1,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1,1,1,0,1,0,0
+Tess,Sullivan,Female,21,267-6976-74,Illiterate,Pharmacist,Single,0,Kolkata,SC,1,0,0,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,1
+Lilianna,Owens,Female,21,338-6643-74,Senior Secondary,Mechanic,Married,5,Mumbai,General,1,0,0,0,1,0,0,0,0,1,1,1,1,0,1,0,1,1,0,1,0,0,1,1,0,1,1,0,1
+William,West,Male,18,574-9425-13,Illiterate,Software Developer,Single,3,Bangalore,Prefer Not to say,0,1,0,1,0,0,0,1,1,0,1,0,1,0,1,1,1,1,1,1,0,0,1,0,0,0,0,1,0
+Vanessa,Alexander,Female,29,068-8470-06,Senior Secondary,Software Developer,Married,1,Mumbai,NT/DNT,0,0,1,0,0,0,0,1,1,0,1,0,0,1,1,1,0,1,0,1,1,1,0,0,1,1,1,1,0
+Adrian,Crawford,Male,23,899-1715-81,Primary,Mechanic,Single,3,Bangalore,General,1,0,0,0,0,0,0,1,1,1,1,1,0,1,0,1,0,1,0,1,1,1,1,1,1,1,0,0,0
+Alberta,Stevens,Female,20,366-9318-26,Post graduation,Production Engineer,Single,3,Chennai,Prefer Not to say,1,1,1,0,1,1,1,1,1,0,0,0,0,1,1,1,0,0,0,0,1,1,0,1,0,1,1,0,1
+Oscar,Anderson,Male,24,362-7044-82,Illiterate,Plumber,Single,5,Delhi,General,1,1,1,0,1,1,1,0,1,0,1,0,1,1,0,1,1,0,1,1,1,0,0,1,0,0,0,1,0
+Adam,Cameron,Male,28,523-4064-34,Graduation,Production Engineer,Single,5,Mumbai,Prefer Not to say,1,0,1,1,1,0,0,1,0,0,1,0,0,0,1,1,0,1,0,1,0,1,0,1,0,0,1,1,0
+Ellia,Higgins,Female,22,031-2122-11,Secondary,Production Engineer,Married,3,Kochi,OBC,1,0,0,1,1,1,1,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,1,1
+Wilson,Russell,Male,28,703-8669-51,Illiterate,Mechanic,Married,0,Chennai,General,0,0,1,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,1
+Victor,Clark,Male,18,692-2238-53,Senior Secondary,Teaching faculty,Married,0,Hyderabad,Prefer Not to say,1,0,0,1,1,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,1,1,0,1,1,1,1,1,1
+James,Johnston,Male,29,990-8494-31,Primary,Business,Single,3,Mumbai,ST,0,1,0,1,0,1,1,1,0,1,1,0,1,0,0,1,1,1,1,0,1,0,1,1,1,0,1,0,1
+Sarah,Williams,Female,18,995-8524-43,Post graduation,Business,Single,5,Delhi,Prefer Not to say,1,0,0,0,0,0,0,0,1,0,1,1,0,0,1,1,1,1,0,0,1,0,0,1,0,1,1,1,0
+Jordan,Chapman,Male,20,024-1428-26,Senior Secondary,Plumber,Single,0,Raipur,OBC,0,0,1,1,0,1,1,0,1,1,1,0,1,0,1,1,0,0,1,1,1,1,1,1,0,0,1,0,1
+Derek,Moore,Male,29,620-8521-04,Secondary,Clerk,Single,0,Patna,General,1,0,0,0,1,0,1,0,0,1,0,1,1,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,0
+Chester,Higgins,Male,21,933-5830-79,Illiterate,Production Engineer,Married,1,Chennai,Prefer Not to say,1,0,1,1,0,1,1,1,1,0,0,1,0,1,0,0,0,1,1,1,0,0,1,1,1,0,0,0,0
+Freddie,Thomas,Male,22,491-7009-78,Secondary,Doctor,Single,2,Lucknow,Prefer Not to say,1,0,0,1,1,1,1,0,1,1,0,0,0,0,1,0,1,0,1,1,1,0,0,0,1,0,1,1,0
+Vincent,Moore,Male,27,581-5772-42,Secondary,Plumber,Single,5,Hyderabad,General,0,1,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0,1,0,1,1,0,1,1,0,1
+Grace,Richardson,Female,30,394-0793-17,Secondary,Data Analyst,Single,2,Kochi,General,1,0,0,1,1,0,1,1,0,0,1,1,1,0,1,0,0,0,1,1,1,0,0,0,0,1,0,0,0
+Myra,Bailey,Female,19,814-4887-44,Illiterate,Software Developer,Single,2,Chennai,NT/DNT,0,1,0,0,1,1,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1
+Carlos,Gray,Male,20,979-7987-10,Post graduation,Pharmacist,Married,2,Hyderabad,NT/DNT,1,1,0,0,0,1,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,1,1
+Audrey,Thompson,Female,20,619-4194-53,Senior Secondary,Software Developer,Single,0,Hyderabad,NT/DNT,1,0,0,0,1,1,0,0,1,1,1,1,1,1,0,0,0,1,0,1,0,1,0,1,0,1,0,1,1
+Fiona,Ross,Female,28,594-3622-53,Secondary,Clerk,Married,5,Kolkata,SC,1,1,1,0,1,1,1,0,0,0,1,0,1,1,0,1,0,1,1,0,0,0,0,0,1,1,1,0,1
+Annabella,Stevens,Female,27,740-2403-57,Illiterate,Police,Single,0,Chennai,SC,0,1,1,1,0,1,1,0,0,0,1,1,1,0,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0
+Henry,Adams,Male,21,021-9120-63,Post graduation,Pharmacist,Single,3,Raipur,ST,1,1,1,1,1,1,0,1,1,0,1,0,1,0,1,1,0,0,1,0,0,0,1,0,1,0,0,1,0
+Tyler,Russell,Male,20,070-3408-57,Primary,Civil Engineer,Single,2,Kolkata,NT/DNT,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,1,1,1,1,0,0,1,1,1,0,1,1
+Darcy,Davis,Female,23,466-4754-90,Primary,Business,Single,0,Delhi,OBC,1,1,0,0,0,1,0,1,1,1,0,1,1,0,1,0,1,1,0,1,0,0,0,0,1,1,0,1,1
+Daniel,Kelley,Male,18,831-0216-29,Senior Secondary,Data Analyst,Single,1,Kochi,Prefer Not to say,1,1,0,1,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,1,0,0,1,1,0,1,0,0,1
+Maya,Johnston,Female,29,491-7885-60,Secondary,Plumber,Married,4,Mumbai,ST,0,1,1,1,0,0,0,1,1,0,0,1,0,1,0,1,0,0,1,0,0,0,0,1,0,0,1,0,0
+Garry,Baker,Male,20,131-4224-08,Illiterate,Clerk,Single,5,Hyderabad,Prefer Not to say,0,0,1,1,1,0,1,0,0,0,1,1,1,0,1,0,1,0,0,1,0,0,0,0,0,1,0,1,0
+Tara,Morgan,Female,27,706-6127-33,Secondary,Mechanic,Married,2,Raipur,General,0,0,1,1,0,1,0,1,1,0,1,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,1,0,0
+Arnold,Roberts,Male,18,879-5291-47,Senior Secondary,Data Analyst,Single,3,Chennai,General,1,0,1,0,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1,1,0,0,1,1,1,1,0
+Lucia,Richards,Female,21,332-4490-68,Primary,Production Engineer,Single,0,Kolkata,NT/DNT,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,1,0,1,1,0,0,1,1
+Lucas,Watson,Male,23,554-0899-95,Senior Secondary,Software Developer,Single,2,Kolkata,SC,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,1,1,1,0,1,1,0,0,0,1,0,1,0
+Abraham,Stevens,Male,20,183-3482-60,Secondary,Plumber,Single,1,Raipur,OBC,0,1,1,1,1,0,1,0,1,0,0,1,1,0,1,1,1,0,0,0,1,1,1,1,1,0,0,0,0
+Harold,Perry,Male,19,950-7458-37,Primary,Clerk,Single,5,Kochi,Prefer Not to say,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,1,1,0
+Derek,Miller,Male,25,094-6394-52,Illiterate,Data Analyst,Single,4,Kochi,ST,1,1,1,0,0,0,1,1,0,1,0,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0
+Charlie,Chapman,Male,29,402-0354-58,Graduation,Lawyer,Married,0,Chennai,NT/DNT,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,1,1,0,1,0,1,1,0,1,0
+Nicholas,Morgan,Male,30,273-2669-19,Primary,Pharmacist,Married,1,Bangalore,ST,0,0,1,0,0,1,1,1,0,1,0,1,0,0,1,1,1,0,1,0,1,1,0,1,1,1,0,0,0
+Alissa,Holmes,Female,29,115-0654-05,Illiterate,Data Analyst,Married,1,Mumbai,Prefer Not to say,1,0,1,1,0,1,0,1,1,1,1,0,0,0,1,1,1,1,0,0,1,0,1,1,1,1,1,0,0
+Daniel,Edwards,Male,21,041-6790-87,Graduation,Production Engineer,Single,1,Raipur,OBC,0,0,0,0,0,1,1,0,0,1,1,1,0,1,1,0,0,1,0,1,1,1,0,0,0,0,0,0,1
+Penelope,Hill,Female,23,227-2074-22,Post graduation,Clerk,Single,1,Raipur,SC,0,0,1,1,1,1,0,1,0,0,0,1,0,0,0,0,0,1,0,1,1,1,0,1,0,0,0,0,1
+Robert,Myers,Male,27,367-5862-68,Graduation,Production Engineer,Single,2,Bangalore,General,0,1,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,1,1,0,1
+Alissa,Gray,Female,23,793-6498-56,Illiterate,Mechanic,Single,3,Hyderabad,OBC,1,1,0,1,1,1,1,0,1,1,1,1,0,0,1,0,0,0,0,1,1,0,0,1,0,1,1,1,0
+Belinda,Johnston,Female,27,686-3280-47,Secondary,Civil Engineer,Single,5,Hyderabad,SC,1,0,0,1,1,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,1
+Martin,Stewart,Male,24,894-1004-44,Primary,Architect,Married,5,Chennai,SC,0,0,1,1,0,1,1,1,0,0,0,0,1,0,0,0,1,0,0,1,1,1,1,0,1,1,0,0,0
+Emily,Owens,Female,25,038-2921-41,Secondary,Accountant,Single,3,Delhi,ST,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,1,0,1,0,1,1
+Amelia,Howard,Female,23,898-8687-62,Primary,Pharmacist,Married,1,Mumbai,General,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1,0,0,1,1,0,1
+Edward,Spencer,Male,27,912-0164-91,Post graduation,Production Engineer,Single,3,Bangalore,ST,1,1,0,1,1,0,1,1,1,0,1,0,0,0,1,0,1,0,0,0,1,1,1,1,0,1,0,1,0
+Marcus,Foster,Male,28,179-1561-84,Illiterate,Production Engineer,Single,3,Lucknow,ST,1,0,1,0,0,1,0,0,1,0,1,1,1,0,1,0,1,1,0,1,0,1,0,0,0,1,0,1,1
+Leonardo,Cooper,Male,24,321-1050-81,Primary,Production Engineer,Single,5,Patna,General,1,0,0,0,1,1,0,0,0,1,0,1,1,1,0,0,0,1,0,1,1,0,1,0,1,1,1,0,0
+Stuart,Alexander,Male,26,760-0154-93,Illiterate,Police,Single,2,Hyderabad,SC,1,0,1,1,1,1,1,1,0,0,1,1,1,0,1,1,0,1,1,0,0,0,1,1,0,0,0,1,1
+Honey,Mitchell,Female,27,339-4822-70,Illiterate,Architect,Single,0,Mumbai,General,1,1,1,1,1,1,1,0,0,1,1,0,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,0
+Steven,Brooks,Male,22,946-2676-06,Secondary,Mechanic,Single,0,Raipur,Prefer Not to say,0,0,1,1,0,1,1,0,0,1,1,0,0,1,0,1,0,1,0,1,1,1,1,0,0,0,1,1,1
+Carlos,Cunningham,Male,27,900-6086-43,Senior Secondary,Business,Single,2,Delhi,General,0,0,1,1,0,0,1,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+Blake,Morris,Male,22,765-6915-29,Secondary,Lawyer,Single,5,Kolkata,ST,1,0,0,0,0,0,0,1,0,1,0,1,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0
+Victoria,Turner,Female,19,968-9049-31,Illiterate,Lawyer,Married,0,Kochi,Prefer Not to say,1,1,1,0,1,1,1,1,0,0,0,1,0,1,1,1,0,1,0,0,0,1,1,1,0,0,0,0,1
+Darcy,Cunningham,Female,30,594-0852-58,Graduation,Civil Engineer,Single,2,Patna,General,1,0,1,0,0,0,0,1,0,1,1,0,1,0,1,0,1,1,0,1,0,0,0,0,1,1,1,0,0
+Miller,Evans,Male,18,195-9941-88,Senior Secondary,Architect,Single,0,Patna,NT/DNT,1,1,1,1,1,1,0,1,1,0,1,0,0,1,1,0,1,0,1,0,0,0,1,1,0,1,1,0,1
+Mike,Davis,Male,19,256-2992-27,Graduation,Clerk,Single,3,Delhi,Prefer Not to say,0,0,1,1,0,0,0,1,0,0,1,1,0,1,1,1,0,1,0,0,0,1,0,1,1,1,1,1,0
+Andrew,Turner,Male,24,034-1956-41,Post graduation,Pharmacist,Married,2,Kolkata,General,0,0,0,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,1,1,0
+Carina,Armstrong,Female,26,885-7529-09,Graduation,Lawyer,Single,4,Lucknow,OBC,0,1,1,0,0,0,1,1,0,0,0,1,0,0,1,0,1,1,1,1,0,1,1,1,0,1,1,1,1
+Jared,Armstrong,Male,28,151-3291-46,Primary,Data Analyst,Single,1,Delhi,NT/DNT,1,1,1,1,1,0,1,0,0,1,1,0,1,1,0,1,1,1,1,0,1,1,0,1,0,0,1,1,0
+Arianna,Gray,Female,20,097-8105-71,Senior Secondary,Civil Engineer,Single,0,Mumbai,Prefer Not to say,0,0,0,1,1,1,0,0,1,0,1,0,0,1,0,1,0,1,0,1,1,1,0,1,1,1,0,0,1
+Maximilian,Spencer,Male,25,562-2638-71,Post graduation,Clerk,Married,0,Hyderabad,ST,1,0,0,0,1,1,1,0,0,0,0,1,1,0,0,1,0,0,1,1,0,1,1,0,0,1,0,0,1
+Paige,Johnson,Female,20,562-3671-32,Secondary,Mechanic,Single,4,Kochi,NT/DNT,1,1,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,1,1,0,0,1,1,0,0,0,1,0,1
+Miranda,Walker,Female,21,916-9504-25,Senior Secondary,Civil Engineer,Single,2,Delhi,SC,0,1,0,0,0,0,1,0,1,0,1,0,0,1,1,0,0,1,0,0,0,1,1,0,0,1,0,0,1
+Alisa,Martin,Female,21,184-3712-03,Illiterate,Teaching faculty,Single,4,Raipur,OBC,0,1,1,1,1,0,1,1,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1,0,1
+Honey,Crawford,Female,28,223-2817-38,Post graduation,Teaching faculty,Single,0,Raipur,General,1,0,1,0,1,1,1,0,0,1,1,1,0,1,1,0,1,0,0,1,1,1,0,1,0,0,0,0,0
+Patrick,Fowler,Male,27,297-7757-71,Graduation,Teaching faculty,Married,2,Delhi,ST,1,1,0,0,1,1,1,1,0,1,1,0,1,1,1,1,0,1,1,0,0,0,1,1,1,0,0,1,1
+Caroline,Clark,Female,23,715-7962-20,Primary,Accountant,Married,0,Chennai,ST,0,0,1,0,1,1,1,1,0,1,1,0,1,1,0,0,0,1,0,0,1,1,1,0,0,1,0,0,0
+Lily,Thompson,Female,26,730-5028-98,Post graduation,Police,Married,2,Kolkata,SC,1,0,0,0,1,0,1,0,0,1,0,0,1,0,0,1,1,1,1,0,1,0,0,0,0,0,0,1,0
+Tess,Fowler,Female,21,406-8391-00,Graduation,Business,Married,5,Delhi,General,1,1,1,1,1,0,1,0,1,1,0,0,1,0,1,0,0,1,1,0,1,0,1,0,1,0,1,0,1
+Natalie,Taylor,Female,18,535-7134-51,Primary,Police,Single,2,Mumbai,NT/DNT,1,0,1,1,0,0,1,1,0,1,1,1,0,0,0,0,1,1,1,1,0,1,0,0,1,0,1,1,0
+Kate,Mitchell,Female,25,225-6405-73,Post graduation,Civil Engineer,Single,1,Kolkata,SC,0,1,0,0,1,1,1,1,1,1,0,1,1,1,0,1,1,1,0,1,1,0,1,0,1,0,0,1,1
+Myra,Edwards,Female,29,777-5509-37,Post graduation,Doctor,Married,5,Lucknow,Prefer Not to say,1,1,0,1,0,0,0,1,0,0,0,0,1,0,0,1,1,0,1,0,1,1,0,1,1,1,0,1,0
+Aldus,Gray,Male,19,885-4264-16,Primary,Lawyer,Married,0,Kolkata,Prefer Not to say,0,1,1,1,1,0,0,0,1,0,1,0,0,1,1,1,0,0,1,1,0,0,1,0,1,0,1,1,0
+Thomas,Campbell,Male,24,672-4976-84,Graduation,Lawyer,Single,5,Mumbai,ST,1,1,1,1,1,1,1,1,1,1,0,0,1,0,0,1,1,0,1,0,0,1,0,1,1,0,1,0,0
+Mary,Crawford,Female,23,396-5346-50,Secondary,Lawyer,Married,1,Chennai,SC,1,0,0,0,1,1,0,1,1,0,1,1,0,0,1,1,1,0,0,0,0,0,0,1,1,0,1,1,1
+Evelyn,Montgomery,Female,21,837-1770-11,Illiterate,Clerk,Single,3,Mumbai,OBC,0,1,0,1,1,1,1,1,1,0,1,0,1,1,0,0,0,0,1,0,0,0,1,1,0,1,1,0,0
+Victor,Morris,Male,22,675-7379-73,Illiterate,Business,Married,3,Mumbai,Prefer Not to say,1,0,1,0,0,0,0,1,0,1,1,1,0,1,0,0,0,1,1,1,0,1,0,0,1,1,1,1,1
+Michael,Kelly,Male,25,956-4689-36,Post graduation,Pharmacist,Single,0,Kolkata,NT/DNT,0,0,1,0,0,1,0,0,0,0,1,0,1,1,1,0,0,1,0,1,0,0,0,1,0,1,1,1,1
+Daniel,Carroll,Male,29,350-0125-99,Illiterate,Police,Married,3,Mumbai,OBC,1,0,1,0,1,1,1,0,0,0,0,0,1,1,1,1,1,0,1,0,0,1,1,0,1,0,0,0,1
+Fenton,Smith,Male,23,004-6863-01,Graduation,Business,Married,5,Hyderabad,OBC,1,1,1,0,0,1,0,0,1,0,1,0,1,0,1,1,1,0,0,0,0,1,0,0,0,1,0,0,0
+Lilianna,Rogers,Female,30,421-8155-15,Senior Secondary,Accountant,Married,2,Mumbai,General,0,1,0,0,1,0,0,1,1,1,1,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,1,1,1
+Briony,Scott,Female,22,580-4871-57,Senior Secondary,Data Analyst,Single,4,Patna,Prefer Not to say,0,1,1,1,1,1,1,0,0,1,0,0,1,0,0,1,1,0,1,1,1,0,1,1,1,1,1,1,1
+Melissa,Cooper,Female,22,920-6879-43,Secondary,Data Analyst,Married,0,Chennai,SC,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,1,1,0,1,1,1,1,0,1,1,1,1
+Miller,Brown,Male,29,099-9253-33,Illiterate,Clerk,Married,5,Hyderabad,Prefer Not to say,1,1,1,0,1,0,0,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0
+Mary,Kelly,Female,19,892-4997-20,Secondary,Pharmacist,Married,4,Chennai,ST,0,0,1,1,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,1,1,1,0,1,0,0,0,1,1
+Kate,Ellis,Female,24,072-9509-88,Secondary,Software Developer,Married,2,Mumbai,ST,1,0,0,1,1,0,1,1,1,1,0,1,0,1,0,1,1,0,0,0,0,1,0,0,1,1,1,0,0
+Myra,Grant,Female,20,271-5696-06,Senior Secondary,Mechanic,Single,2,Kolkata,NT/DNT,0,0,1,1,1,1,0,0,0,1,1,0,0,1,1,0,1,0,0,1,0,1,1,0,1,0,0,1,0
+Kirsten,Wilson,Female,19,158-7413-04,Senior Secondary,Plumber,Married,0,Delhi,SC,1,0,0,1,0,0,1,1,1,0,1,0,1,1,1,0,1,0,0,0,0,1,1,0,1,0,1,1,0
+Edgar,Chapman,Male,20,212-6346-36,Graduation,Pharmacist,Married,4,Hyderabad,SC,1,0,0,1,1,1,0,0,1,1,0,1,1,0,1,1,1,1,0,0,1,1,1,1,1,0,0,1,0
+Valeria,Campbell,Female,20,115-5928-25,Graduation,Data Analyst,Single,0,Kolkata,NT/DNT,0,0,0,0,0,1,1,1,0,1,1,0,1,0,1,1,0,1,0,0,1,1,1,1,0,0,1,1,0
+Tyler,Anderson,Male,22,657-8146-73,Graduation,Civil Engineer,Married,5,Chennai,ST,0,0,1,0,0,0,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,1
+Robert,Douglas,Male,29,059-7216-81,Post graduation,Accountant,Married,3,Hyderabad,SC,1,1,1,1,0,0,0,1,0,0,1,1,0,0,1,0,1,0,1,1,1,1,0,1,0,0,0,1,0
+Kellan,Ross,Male,26,804-7049-38,Post graduation,Clerk,Married,5,Chennai,NT/DNT,0,1,0,0,0,1,1,1,0,0,1,0,0,0,1,1,1,1,1,1,0,1,0,1,1,0,1,0,1
+Albert,Casey,Male,18,161-8348-00,Primary,Data Analyst,Married,1,Chennai,Prefer Not to say,0,0,1,1,1,0,1,1,0,1,0,1,1,0,0,1,0,1,1,0,1,1,0,0,0,0,0,0,1
+Jacob,Scott,Male,21,701-5594-74,Illiterate,Data Analyst,Married,3,Lucknow,SC,0,1,1,1,1,0,1,0,0,0,0,1,0,1,1,1,0,1,1,1,1,0,1,0,0,1,1,1,1
+Chelsea,Clark,Female,19,162-5698-91,Post graduation,Plumber,Married,0,Lucknow,SC,1,0,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,0,0,1,1,1,0,1,0,0,0,1,1
+Dainton,Ryan,Male,28,407-8789-88,Secondary,Lawyer,Single,3,Mumbai,SC,1,1,0,1,1,0,1,1,0,0,0,0,1,0,1,0,1,0,1,0,1,0,1,1,1,0,1,1,1
+April,Bennett,Female,26,984-2387-29,Post graduation,Clerk,Married,0,Raipur,SC,0,0,1,1,1,1,0,0,1,1,0,0,0,0,0,0,1,1,1,0,1,0,1,0,0,1,0,0,0
+Byron,Allen,Male,21,768-0182-10,Post graduation,Pharmacist,Married,4,Lucknow,OBC,1,1,1,0,0,1,0,1,1,1,1,0,1,0,0,1,0,0,0,1,1,0,1,0,1,0,0,0,0
+Briony,Johnston,Female,24,527-1884-86,Illiterate,Business,Married,5,Kochi,OBC,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,0,1,1,0,1,1,0,1,1
+Kristian,Sullivan,Male,18,119-1377-37,Secondary,Pharmacist,Married,0,Bangalore,OBC,0,1,0,0,1,0,0,1,0,1,0,1,0,0,1,1,1,1,1,1,1,1,0,0,1,0,0,1,0
+Kelsey,Wilson,Female,23,779-5547-91,Post graduation,Business,Single,3,Bangalore,General,0,1,0,1,0,0,0,0,1,0,0,1,1,0,1,1,0,1,1,0,1,0,0,0,1,0,0,1,1
+April,Parker,Female,29,027-6375-78,Senior Secondary,Mechanic,Married,3,Bangalore,OBC,1,1,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,1,1,1
+Charlie,Rogers,Male,28,884-7327-69,Senior Secondary,Lawyer,Single,5,Raipur,OBC,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,1,1,0,1,1,0,0,0,0,0
+Leonardo,Owens,Male,20,594-1901-29,Post graduation,Civil Engineer,Single,5,Patna,SC,0,1,0,1,1,0,0,0,0,1,1,0,1,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,1
+Ned,Smith,Male,18,557-8479-10,Illiterate,Data Analyst,Single,3,Chennai,ST,1,1,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,0,0
+Sam,Mason,Male,22,315-9508-08,Post graduation,Accountant,Single,0,Kochi,General,1,0,0,1,1,0,0,0,1,0,1,1,0,1,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1
+George,Bailey,Male,21,203-0342-25,Senior Secondary,Accountant,Married,2,Kolkata,Prefer Not to say,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,1,0,0,0,1,0,1,1,1
+Julian,Perry,Male,29,980-6063-72,Secondary,Software Developer,Married,0,Chennai,General,0,0,0,1,1,0,1,0,1,1,0,1,0,1,1,0,0,0,1,0,0,0,1,0,1,1,1,0,1
+Blake,Myers,Male,38,923-3804-41,Primary,Plumber,Single,2,Hyderabad,SC,0,1,0,1,1,1,0,1,0,0,1,1,1,0,0,0,0,1,1,1,1,0,1,0,0,1,1,1,1
+Tony,Harper,Male,30,097-4368-78,Secondary,Production Engineer,Single,5,Bangalore,OBC,0,1,0,1,0,1,0,0,0,0,1,0,1,0,1,0,1,1,1,1,1,0,0,1,1,1,1,1,1
+Madaline,Walker,Female,32,151-2972-93,Graduation,Data Analyst,Married,0,Hyderabad,OBC,1,1,1,0,1,1,0,1,1,0,0,0,1,0,0,1,1,0,0,0,1,1,0,0,0,0,1,1,0
+Adam,Cameron,Male,38,663-6784-58,Primary,Data Analyst,Single,4,Delhi,OBC,0,0,0,0,1,0,0,1,0,0,1,0,1,1,1,1,1,0,1,0,1,1,0,1,0,0,0,1,0
+Arianna,Scott,Female,35,301-9673-09,Illiterate,Business,Married,1,Patna,Prefer Not to say,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,1,1,1,0,0,1,0,0,0,0,0,0,1
+Vanessa,Jones,Female,39,692-6534-62,Secondary,Software Developer,Married,2,Hyderabad,General,0,0,1,0,1,1,1,0,1,0,0,0,1,1,1,0,0,0,0,0,0,1,1,0,1,0,0,0,1
+Kelvin,Foster,Male,39,996-1937-29,Graduation,Business,Married,3,Delhi,Prefer Not to say,1,0,0,0,0,0,0,1,1,0,1,0,0,1,0,1,0,1,1,1,1,0,0,1,0,1,1,0,0
+Violet,Craig,Female,35,109-4343-68,Senior Secondary,Data Analyst,Married,2,Patna,SC,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,1,1,1,0,1,0,1,1,0,1,0,1,0,1
+April,Taylor,Female,40,777-2766-88,Senior Secondary,Data Analyst,Single,5,Raipur,SC,1,0,0,0,0,1,0,0,1,0,1,1,1,1,0,1,0,0,0,1,0,1,1,0,0,1,1,1,0
+Antony,Farrell,Male,38,363-6476-73,Illiterate,Civil Engineer,Married,5,Kolkata,NT/DNT,0,1,0,0,1,1,1,0,0,1,1,0,1,1,0,0,1,0,0,1,1,0,1,0,1,1,0,0,0
+Amanda,Henderson,Female,35,807-5414-38,Illiterate,Clerk,Single,3,Hyderabad,General,0,1,0,0,1,0,0,1,1,0,0,0,1,1,1,1,0,0,1,0,1,0,0,1,0,1,0,1,1
+Sawyer,Martin,Male,34,769-4898-77,Post graduation,Clerk,Single,1,Kochi,ST,1,0,1,0,0,1,0,0,1,1,0,0,0,1,1,1,0,0,0,1,0,1,1,1,1,1,0,0,0
+Belinda,Carroll,Female,39,119-8101-53,Secondary,Police,Married,1,Chennai,OBC,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,1,1,1,0,1,0,0,0,0,1,1,1,0,0
+Grace,Walker,Female,39,336-3020-57,Illiterate,Software Developer,Single,1,Hyderabad,NT/DNT,1,0,0,1,1,1,0,0,0,0,1,1,1,1,1,0,1,1,0,1,0,0,1,0,1,0,1,0,1
+Roman,Williams,Male,30,185-6459-09,Secondary,Plumber,Single,5,Hyderabad,ST,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,1,0,0,1,0,0,1,1,1,1,1
+Annabella,Reed,Female,34,747-3513-13,Secondary,Business,Married,5,Patna,SC,1,0,1,1,1,0,1,0,0,1,0,0,1,0,0,1,1,1,0,1,0,0,1,0,0,1,0,0,0
+Dominik,Ryan,Male,30,936-6814-02,Primary,Business,Single,5,Mumbai,NT/DNT,0,0,1,0,1,1,1,0,0,1,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,1,1,0,1
+Michael,Tucker,Male,34,402-0167-60,Primary,Clerk,Single,4,Mumbai,General,0,1,0,0,0,1,0,0,1,0,0,1,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,1
+Sophia,Douglas,Female,31,474-0969-70,Illiterate,Architect,Single,1,Chennai,General,1,1,1,0,0,1,0,0,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,0
+Daisy,Alexander,Female,34,163-6291-89,Secondary,Pharmacist,Single,0,Patna,NT/DNT,0,0,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,0,0,1,0,0
+Anna,Taylor,Female,37,830-0650-19,Illiterate,Software Developer,Single,4,Bangalore,SC,1,1,0,0,0,1,1,0,0,1,1,0,0,1,0,0,0,1,0,0,1,0,1,0,1,1,0,0,1
+Lily,Chapman,Female,33,267-3088-54,Secondary,Doctor,Married,2,Chennai,SC,0,1,0,1,0,1,0,1,1,1,1,1,0,1,0,1,1,0,1,1,0,1,1,0,1,1,1,0,0
+Elise,Kelly,Female,40,208-0677-43,Primary,Civil Engineer,Married,4,Chennai,General,1,1,1,0,1,1,1,0,0,1,1,0,1,0,0,0,1,0,1,0,1,0,0,1,1,0,1,1,1
+Marcus,Andrews,Male,35,672-4739-51,Senior Secondary,Data Analyst,Married,2,Raipur,OBC,1,1,0,0,0,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,0,1,1,1
+Maximilian,Chapman,Male,40,809-1003-87,Illiterate,Data Analyst,Married,2,Bangalore,Prefer Not to say,1,1,1,0,1,1,1,1,1,0,0,1,0,1,1,0,1,0,0,1,1,1,1,0,0,1,0,1,1
+Naomi,Harper,Female,36,460-5199-62,Illiterate,Lawyer,Single,4,Chennai,OBC,0,0,0,0,0,1,1,1,1,0,1,0,1,0,1,0,0,0,0,1,0,1,1,0,0,1,1,0,0
+Tony,Johnson,Male,30,358-4873-63,Graduation,Doctor,Married,5,Bangalore,ST,1,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,1,1,0,0,1,0,1,0,1,0,1,1,0
+Audrey,Owens,Female,40,193-5123-27,Secondary,Teaching faculty,Married,2,Chennai,ST,0,1,1,1,1,1,0,0,0,1,0,1,0,0,0,0,1,1,1,0,1,1,1,0,0,1,1,0,0
+Aida,Fowler,Female,40,026-4477-97,Senior Secondary,Lawyer,Married,5,Patna,SC,1,1,1,0,0,1,1,1,0,0,1,0,1,1,0,1,1,0,0,0,1,0,1,0,0,0,1,1,0
+Kellan,Thomas,Male,38,711-9947-04,Graduation,Plumber,Married,1,Bangalore,NT/DNT,0,0,0,1,1,0,0,1,1,1,1,0,1,1,1,1,0,1,1,1,0,0,1,0,1,0,1,0,1
+Maximilian,Harris,Male,40,136-5182-24,Senior Secondary,Architect,Single,2,Mumbai,NT/DNT,0,1,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,1,1,0,1,1,1,1,0,1,1,0,0
+Evelyn,Harris,Female,34,109-9533-71,Post graduation,Civil Engineer,Single,0,Kolkata,ST,1,0,1,1,0,1,0,1,1,0,1,0,1,1,1,0,0,1,1,1,1,1,1,1,1,0,1,1,1
+Lucia,Hunt,Female,40,035-6948-64,Senior Secondary,Pharmacist,Single,2,Kolkata,OBC,0,1,0,1,0,1,0,0,0,0,1,1,1,1,0,1,0,1,0,0,1,1,1,1,1,0,0,0,1
+Roman,Crawford,Male,33,536-3280-53,Post graduation,Civil Engineer,Single,2,Kolkata,SC,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,1,0,1
+James,Holmes,Male,34,282-1967-03,Post graduation,Lawyer,Married,4,Hyderabad,General,0,0,0,1,0,0,0,1,0,0,0,1,0,1,1,1,1,0,1,1,1,0,0,0,0,1,0,0,1
+Stuart,Evans,Male,30,585-3091-45,Primary,Accountant,Married,4,Mumbai,ST,0,1,0,1,1,1,0,1,0,0,0,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0
+Maximilian,Thompson,Male,40,995-8512-91,Post graduation,Production Engineer,Married,2,Lucknow,General,0,0,1,1,1,0,0,0,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,0,0,1,0,0
+Brad,Baker,Male,33,498-4673-32,Post graduation,Teaching faculty,Married,5,Delhi,OBC,0,0,0,0,1,0,1,0,0,0,1,1,1,0,1,1,1,0,0,0,1,0,1,0,1,0,1,1,0
+Tara,Andrews,Female,33,395-0155-16,Senior Secondary,Data Analyst,Single,0,Lucknow,Prefer Not to say,1,1,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0,1,1,1,1,1
+Derek,Holmes,Male,30,126-3797-68,Primary,Teaching faculty,Married,2,Lucknow,OBC,0,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,0,0,1,1,1,1,1,0,0,0,1,0
+Catherine,Anderson,Female,34,545-5483-34,Senior Secondary,Software Developer,Married,0,Hyderabad,ST,1,0,1,1,0,0,0,1,0,0,0,1,1,1,1,0,1,1,1,1,1,1,0,0,1,0,1,0,1
+Oscar,Johnson,Male,31,275-5511-51,Illiterate,Teaching faculty,Married,2,Chennai,Prefer Not to say,1,1,0,0,0,0,1,0,0,1,1,0,0,0,1,1,0,0,1,0,1,1,0,0,1,0,0,1,0
+Tara,Reed,Female,31,485-6807-55,Secondary,Accountant,Single,1,Bangalore,ST,1,0,1,0,1,1,0,0,0,1,0,1,1,1,0,0,1,1,0,0,1,1,0,1,0,1,1,1,0
+Dominik,Henderson,Male,37,455-6453-55,Graduation,Civil Engineer,Single,1,Lucknow,ST,0,0,1,0,0,1,0,0,1,1,1,1,1,0,0,0,1,0,0,0,1,1,1,0,0,1,1,1,1
+Jessica,Smith,Female,35,607-2240-29,Illiterate,Pharmacist,Single,0,Kochi,Prefer Not to say,0,0,1,1,1,1,1,1,1,0,0,1,1,0,1,0,0,1,1,1,0,0,1,0,1,1,1,0,0
+Adam,Wright,Male,39,585-3435-71,Illiterate,Civil Engineer,Married,4,Kolkata,NT/DNT,1,1,0,1,0,1,0,1,1,0,1,0,1,0,0,0,1,0,0,0,0,1,1,1,0,0,1,1,1
+Florrie,Crawford,Female,37,774-3484-91,Secondary,Accountant,Single,4,Kolkata,General,0,1,0,0,0,0,1,1,1,0,1,1,1,1,1,0,1,0,0,0,1,1,0,1,1,1,0,1,0
+Maddie,Johnston,Female,37,222-0381-73,Secondary,Pharmacist,Single,3,Hyderabad,SC,0,1,0,1,0,0,1,0,0,1,1,1,1,0,1,1,0,1,0,1,1,0,0,1,0,1,0,0,1
+Aiden,Sullivan,Male,40,390-1820-38,Senior Secondary,Mechanic,Single,1,Chennai,OBC,1,0,1,1,0,0,0,1,0,1,1,1,1,1,0,0,0,1,0,1,0,0,1,1,0,1,1,1,1
+Nicholas,Perkins,Male,38,524-8735-66,Post graduation,Civil Engineer,Married,4,Kochi,General,0,0,0,0,0,1,0,0,0,1,1,0,0,1,1,0,1,0,1,0,0,1,0,1,0,1,1,1,0
+Rosie,Hunt,Female,38,695-7919-70,Illiterate,Data Analyst,Married,3,Mumbai,ST,0,1,1,1,1,0,1,1,0,0,0,1,1,0,0,1,1,0,1,1,1,1,0,0,0,0,0,0,0
+Agata,Richards,Female,31,755-4035-70,Secondary,Data Analyst,Married,2,Bangalore,OBC,0,0,1,1,1,1,1,0,1,1,1,1,0,0,1,1,0,0,1,1,0,1,1,1,0,1,0,0,0
+Nicholas,Richards,Male,36,049-8837-04,Graduation,Architect,Single,3,Kochi,NT/DNT,0,0,0,1,1,1,0,1,1,0,0,0,1,1,0,0,0,0,0,1,0,1,1,1,1,1,1,1,1
+Lyndon,Cunningham,Male,30,347-8879-90,Senior Secondary,Civil Engineer,Single,3,Mumbai,ST,1,0,1,0,0,0,0,1,1,1,1,1,0,0,0,0,0,1,1,1,1,1,1,1,0,0,1,0,0
+Chloe,Barrett,Female,37,469-0529-12,Primary,Doctor,Single,1,Kochi,SC,1,1,1,0,0,1,0,0,1,0,1,0,0,1,0,1,1,0,1,1,0,1,0,0,1,0,0,1,1
+Edwin,Harris,Male,33,548-0371-65,Primary,Teaching faculty,Single,4,Raipur,Prefer Not to say,1,1,1,1,0,1,0,0,0,1,1,0,0,1,1,0,1,0,1,0,1,0,1,1,0,0,0,0,0
+Connie,Kelly,Female,31,347-1485-28,Post graduation,Software Developer,Single,4,Raipur,General,1,1,0,0,1,1,1,0,0,0,1,1,1,0,1,1,1,1,1,0,0,0,1,0,1,0,0,0,1
+Melanie,Taylor,Female,40,628-3634-40,Primary,Police,Married,5,Delhi,ST,0,1,0,1,0,1,0,1,1,1,0,0,0,1,1,0,1,1,1,1,1,0,1,0,1,0,1,1,0
+Chester,Ferguson,Male,32,649-3303-75,Senior Secondary,Production Engineer,Married,2,Bangalore,ST,0,0,0,1,0,1,0,0,1,0,1,1,1,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,1
+Tyler,Williams,Male,30,719-6203-97,Graduation,Business,Single,0,Delhi,SC,0,1,1,0,1,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,1,0
+Myra,Parker,Female,36,897-4376-87,Primary,Data Analyst,Married,0,Kochi,NT/DNT,1,0,0,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,1
+Alen,Hunt,Male,39,304-7774-75,Primary,Pharmacist,Married,2,Raipur,Prefer Not to say,1,1,0,1,1,0,0,0,0,1,1,1,1,0,0,1,1,0,1,0,0,1,1,0,0,0,0,0,0
+Rubie,Morgan,Female,38,163-8272-75,Secondary,Doctor,Single,5,Hyderabad,ST,0,1,0,1,0,0,1,1,1,1,1,0,0,1,0,1,0,0,1,1,1,0,1,1,0,0,1,0,1
+Ned,Stewart,Male,40,858-6879-76,Post graduation,Production Engineer,Married,5,Raipur,SC,1,0,0,1,0,1,0,1,0,1,1,1,1,1,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0
+Blake,Wright,Male,34,495-3459-53,Senior Secondary,Clerk,Married,4,Kochi,SC,1,1,0,1,0,1,1,0,1,1,1,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,1,0,1
+Ada,Campbell,Female,40,061-9657-04,Primary,Civil Engineer,Married,1,Lucknow,OBC,0,1,0,1,0,1,0,1,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Heather,Cunningham,Female,35,748-0433-20,Graduation,Clerk,Single,0,Chennai,SC,1,1,0,0,0,1,1,0,0,0,0,0,1,1,1,1,0,0,1,0,1,0,1,0,1,1,0,1,1
+Andrew,Ryan,Male,39,731-6339-91,Graduation,Pharmacist,Married,0,Kolkata,General,0,0,0,1,1,1,1,0,1,0,1,0,1,1,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0
+Victoria,Allen,Female,35,820-1037-06,Illiterate,Software Developer,Married,4,Raipur,SC,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,1,1,0,0,1,0,0,1,0,0
+Andrew,Riley,Male,33,878-6110-87,Secondary,Production Engineer,Married,2,Mumbai,Prefer Not to say,1,0,1,1,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,1,1,0,0,1,1,0,0,0,0
+Sydney,Carter,Female,40,753-8919-81,Primary,Data Analyst,Married,4,Chennai,Prefer Not to say,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,1,0,1,1,0,0,1,1,0,1,0,1
+Annabella,Lloyd,Female,36,508-5452-93,Secondary,Data Analyst,Single,0,Bangalore,Prefer Not to say,1,0,1,1,0,0,0,0,0,0,1,0,1,1,0,1,1,0,1,1,0,0,1,1,0,0,0,0,1
+Olivia,Warren,Female,37,108-4030-48,Senior Secondary,Architect,Married,5,Kochi,General,0,0,0,0,1,0,1,1,1,0,0,0,1,1,0,1,1,0,0,0,1,1,1,1,1,0,1,0,1
+Olivia,Armstrong,Female,34,284-9554-83,Post graduation,Software Developer,Single,0,Patna,ST,0,0,0,1,1,0,0,0,1,0,1,1,0,0,1,0,1,1,1,1,0,0,0,0,0,0,1,1,1
+Chelsea,Gibson,Female,37,135-0666-60,Illiterate,Teaching faculty,Married,5,Kolkata,OBC,0,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,0,0,1,1,1,0,1
+Caroline,Ryan,Female,30,678-7003-27,Secondary,Architect,Single,2,Raipur,General,1,0,0,1,0,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,1,1,1,0,0,1,0,0
+Michelle,Parker,Female,33,527-1952-77,Primary,Civil Engineer,Single,2,Chennai,ST,1,0,1,0,1,1,1,1,0,1,1,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0
+Jenna,Douglas,Female,39,141-7107-76,Illiterate,Accountant,Single,0,Raipur,Prefer Not to say,0,1,1,0,0,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1,1,1,0,1,1,0,1,0
+Jordan,Grant,Male,37,503-5266-41,Graduation,Plumber,Married,1,Kolkata,SC,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0,0,1,1
+Stella,Perry,Female,30,713-7319-79,Illiterate,Plumber,Married,3,Kolkata,General,0,0,0,1,1,1,1,0,1,0,0,1,0,1,0,0,1,1,0,0,1,0,0,1,0,0,0,1,1
+Amanda,Taylor,Female,33,735-5697-32,Illiterate,Teaching faculty,Married,5,Kochi,OBC,1,1,1,1,0,0,1,0,1,1,0,1,1,0,1,1,1,1,0,1,1,1,0,1,1,0,1,0,0
+Ryan,Wright,Male,34,810-4317-85,Graduation,Police,Married,0,Patna,ST,1,1,1,1,0,0,0,0,0,0,1,1,1,0,1,1,1,0,1,0,0,0,1,0,0,1,0,1,1
+Vivian,Bailey,Female,36,391-4642-04,Primary,Mechanic,Married,1,Mumbai,General,1,1,1,0,1,0,1,1,1,1,1,1,1,0,0,0,1,1,1,0,0,0,1,1,0,1,0,1,0
+Joyce,Fowler,Female,31,667-2318-10,Primary,Teaching faculty,Married,2,Raipur,ST,0,1,0,0,1,1,0,0,1,0,0,1,0,0,1,0,0,0,0,1,1,1,0,0,1,1,0,1,1
+Derek,Hall,Male,32,237-1706-34,Senior Secondary,Doctor,Married,1,Patna,NT/DNT,0,0,1,1,1,1,1,1,0,0,1,0,1,1,0,1,0,1,0,1,0,0,1,1,1,1,0,1,0
+Freddie,Turner,Male,39,465-5473-53,Primary,Architect,Single,1,Kolkata,SC,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,1,0,0,0,0,1,1,1,0,0,1,1,0,1
+Maddie,Moore,Female,34,510-1470-48,Primary,Pharmacist,Married,1,Kochi,OBC,1,1,1,0,0,1,0,0,1,0,1,1,1,0,1,1,1,0,0,1,1,0,0,1,1,1,1,1,0
+Darcy,Morgan,Female,36,100-6978-03,Secondary,Civil Engineer,Single,3,Kochi,NT/DNT,1,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,1,1,0,0,0,0,1,1,0,1,1,1
+Jenna,Phillips,Female,36,826-4370-50,Senior Secondary,Data Analyst,Married,5,Raipur,ST,1,1,0,0,1,1,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0
+Agata,Scott,Female,36,537-7173-36,Graduation,Data Analyst,Married,4,Kolkata,ST,0,1,0,0,1,1,0,1,1,0,0,0,1,1,1,1,1,0,0,0,1,1,1,0,1,0,0,1,1
+Adrianna,Hall,Female,35,533-6560-84,Illiterate,Production Engineer,Single,5,Kolkata,OBC,0,0,0,1,0,0,1,1,0,1,0,0,0,0,1,0,0,0,1,0,1,1,1,0,0,0,0,0,1
+Carl,Richardson,Male,32,276-6563-32,Secondary,Data Analyst,Single,5,Bangalore,OBC,1,0,0,0,1,1,1,1,1,0,1,0,0,1,1,1,0,0,0,0,0,0,1,0,1,1,0,1,1
+Oscar,Evans,Male,37,260-0517-42,Senior Secondary,Mechanic,Married,0,Kolkata,General,1,0,0,0,1,0,1,1,1,0,0,1,0,0,1,0,1,0,1,0,0,1,1,1,1,1,0,0,0
+Myra,Alexander,Female,34,541-4558-39,Graduation,Architect,Married,0,Chennai,NT/DNT,0,1,0,0,0,0,0,1,0,1,1,1,0,1,1,0,1,1,0,1,1,1,1,0,1,0,0,1,1
+Michael,Ellis,Male,36,334-9310-65,Illiterate,Architect,Single,3,Hyderabad,OBC,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,1,1,0,0,1,1,0,1,1,1,0,0,0,0
+James,Turner,Male,35,714-4136-64,Post graduation,Clerk,Single,4,Patna,OBC,1,1,0,0,0,0,0,1,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,1
+Sawyer,Ryan,Male,39,781-8200-52,Illiterate,Software Developer,Single,4,Kolkata,SC,1,1,1,1,0,0,0,1,1,1,0,1,0,1,0,1,0,0,0,1,1,1,0,0,1,0,1,1,1
+Violet,Chapman,Female,34,800-8498-61,Senior Secondary,Pharmacist,Married,4,Hyderabad,SC,1,1,1,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,1,1,0,1,0,0,0,0,1,1,0
+Miranda,Barnes,Female,36,827-8277-70,Primary,Production Engineer,Married,5,Chennai,SC,0,1,1,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1,1,1,1,0,0,1,1,1
+Steven,Morris,Male,38,214-6108-23,Illiterate,Lawyer,Single,2,Kochi,Prefer Not to say,1,1,0,0,0,1,1,0,0,0,1,0,1,0,1,0,1,1,1,1,1,0,1,0,1,0,0,1,0
+Brianna,Chapman,Female,48,484-3162-81,Graduation,Doctor,Single,2,Kochi,OBC,1,0,1,0,0,0,1,1,1,0,0,0,1,1,1,0,1,1,0,1,0,1,0,0,0,1,0,0,0
+Audrey,West,Female,48,385-1824-15,Primary,Business,Single,4,Patna,NT/DNT,0,1,1,1,0,1,0,1,0,1,0,0,1,1,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0
+Daryl,Owens,Male,46,886-1686-70,Post graduation,Production Engineer,Married,0,Raipur,NT/DNT,0,0,0,0,1,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1
+Miller,Brooks,Male,50,100-5903-99,Secondary,Data Analyst,Single,4,Delhi,Prefer Not to say,1,0,0,0,0,1,0,0,0,1,1,1,1,0,1,1,0,1,1,0,0,0,0,1,0,1,0,0,0
+Roland,Crawford,Male,43,327-9692-71,Senior Secondary,Business,Single,2,Mumbai,Prefer Not to say,1,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,0,1,1,1,1,0,0
+Ned,Evans,Male,46,321-5812-14,Secondary,Architect,Single,5,Patna,General,0,0,1,1,1,0,0,1,0,1,1,0,0,0,0,1,0,1,1,1,0,1,1,1,0,1,0,1,1
+Steven,Montgomery,Male,48,587-5463-81,Primary,Plumber,Married,3,Delhi,NT/DNT,0,0,0,1,1,1,0,0,0,1,1,0,1,1,0,1,1,0,0,0,1,0,0,1,0,1,0,0,1
+Eric,Jones,Male,47,007-5214-12,Secondary,Business,Single,4,Mumbai,OBC,0,1,1,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,1,0,0,1,1,0,1,1,1,1
+Jacob,Brooks,Male,43,556-6753-37,Post graduation,Clerk,Single,5,Lucknow,Prefer Not to say,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1
+Jacob,Lloyd,Male,40,724-7316-61,Senior Secondary,Business,Single,2,Raipur,SC,0,1,0,0,1,1,1,0,1,1,0,0,1,0,1,0,1,0,1,0,0,1,0,1,1,0,0,1,0
+Haris,Russell,Male,47,169-4431-48,Secondary,Doctor,Single,0,Raipur,Prefer Not to say,1,0,1,1,1,1,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,1,0,0,1,0,0,1
+Alissa,Cooper,Female,40,160-7774-45,Primary,Mechanic,Single,0,Chennai,General,0,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0
+Lucia,Lloyd,Female,40,862-5206-09,Post graduation,Clerk,Single,2,Chennai,NT/DNT,0,0,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,0,1,1,0,0,1,1,1,1,1,1,0
+Justin,Owens,Male,44,409-5982-33,Illiterate,Mechanic,Married,0,Delhi,Prefer Not to say,1,1,1,0,0,0,1,0,1,1,0,1,1,1,0,0,0,0,0,1,0,1,1,0,1,1,1,0,0
+Maria,Brown,Female,48,727-8386-96,Senior Secondary,Production Engineer,Married,5,Mumbai,ST,1,0,1,0,0,1,0,1,0,0,1,1,1,1,0,1,1,1,0,0,1,1,1,1,0,0,0,0,0
+Alissa,Edwards,Female,50,413-2771-32,Graduation,Accountant,Married,0,Patna,ST,1,0,0,0,0,0,0,0,1,1,0,1,0,1,1,1,0,0,1,1,1,1,0,1,0,0,0,1,0
+Myra,Moore,Female,41,699-4784-15,Senior Secondary,Plumber,Married,0,Raipur,ST,1,0,1,1,0,0,0,0,1,1,1,0,1,0,0,0,1,1,0,1,1,0,1,1,1,0,1,1,0
+Andrew,Turner,Male,43,023-3773-78,Post graduation,Clerk,Married,3,Chennai,Prefer Not to say,0,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,0,0,1,1,0,0,0,1,1,0
+Dexter,Mitchell,Male,44,969-0508-81,Senior Secondary,Production Engineer,Married,4,Delhi,OBC,1,1,0,1,1,0,0,1,1,1,1,1,0,1,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1
+Rubie,Johnston,Female,48,273-6843-18,Senior Secondary,Business,Single,0,Chennai,ST,1,0,1,1,0,0,1,0,1,1,0,1,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,1,0
+Roman,Phillips,Male,44,944-9226-94,Primary,Doctor,Single,4,Raipur,Prefer Not to say,1,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,1,1,1,0,0,0,1,0,0,0,1,0,1
+Fenton,Williams,Male,40,600-3082-91,Illiterate,Accountant,Single,0,Raipur,Prefer Not to say,0,1,0,1,1,0,1,0,1,0,1,1,0,1,0,1,0,1,0,0,1,0,1,1,0,0,0,0,1
+George,Grant,Male,47,956-0168-70,Primary,Architect,Married,0,Mumbai,Prefer Not to say,1,1,0,0,1,0,1,1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,0,1,0,1,1,1,1
+Briony,Spencer,Female,48,784-1833-19,Primary,Lawyer,Married,2,Lucknow,General,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,1,0,1,1,0,1,1
+Justin,Cooper,Male,50,320-8111-42,Senior Secondary,Teaching faculty,Married,2,Chennai,SC,0,1,0,1,0,1,1,0,0,0,0,1,0,0,1,1,1,1,0,1,1,1,0,1,0,0,1,0,1
+Max,Owens,Male,50,058-7512-57,Graduation,Teaching faculty,Single,1,Raipur,General,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,1,1,1,1
+Victoria,Thompson,Female,42,598-8564-02,Primary,Lawyer,Married,0,Chennai,SC,0,1,0,0,1,0,0,0,0,1,1,1,0,0,1,0,1,1,0,1,0,0,0,1,1,0,1,0,0
+Elise,West,Female,42,602-6191-65,Secondary,Clerk,Married,0,Lucknow,SC,0,0,1,1,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,0,1,0,0,1,0,1,1,1
+Charlotte,West,Female,46,903-8142-81,Illiterate,Production Engineer,Married,5,Lucknow,SC,0,0,0,1,1,0,0,1,1,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0,1,0,0,1,1
+Harold,Thomas,Male,48,556-3399-73,Post graduation,Plumber,Married,0,Bangalore,SC,0,1,0,1,1,1,0,0,1,1,0,0,0,0,1,1,1,1,0,1,1,0,0,0,1,0,1,0,1
+Alford,Higgins,Male,41,909-7372-33,Post graduation,Lawyer,Single,0,Raipur,General,1,0,1,1,1,1,1,1,1,0,1,1,1,1,0,1,0,0,0,1,0,0,0,0,1,1,1,0,1
+James,Baker,Male,47,993-6609-36,Senior Secondary,Production Engineer,Married,5,Bangalore,General,1,1,0,0,1,1,0,1,0,1,0,1,1,0,1,0,1,1,1,0,0,0,1,0,0,1,0,1,1
+Lenny,Murphy,Male,48,186-6273-18,Illiterate,Pharmacist,Single,2,Kolkata,OBC,1,0,1,1,1,1,1,0,0,0,1,0,1,1,1,0,1,0,1,1,0,1,1,1,1,1,1,0,0
+Leonardo,Harris,Male,48,194-7351-48,Illiterate,Plumber,Single,5,Mumbai,General,1,1,1,0,0,1,0,1,1,0,1,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0
+Victor,Riley,Male,49,109-2089-16,Primary,Clerk,Married,2,Mumbai,OBC,1,0,0,0,1,0,1,0,1,1,0,1,0,1,1,0,1,1,0,1,1,1,1,0,0,1,0,0,0
+Henry,Mason,Male,49,569-5265-45,Post graduation,Business,Single,2,Patna,ST,0,1,1,0,0,1,0,1,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,1,0,0,1
+Roman,Smith,Male,46,953-6365-83,Senior Secondary,Clerk,Single,4,Mumbai,OBC,1,1,1,1,0,1,1,1,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+Rafael,Farrell,Male,44,993-6998-06,Graduation,Data Analyst,Married,4,Hyderabad,Prefer Not to say,0,0,1,0,0,1,0,1,0,1,1,0,1,0,1,0,0,1,1,0,0,0,1,1,1,1,1,0,0
+Connie,Hunt,Female,43,759-8641-70,Primary,Pharmacist,Single,2,Kochi,NT/DNT,1,0,0,1,0,0,0,1,1,0,1,0,0,1,1,1,0,1,1,0,0,0,1,0,0,1,1,1,1
+Maya,Morrison,Female,44,494-8012-49,Senior Secondary,Data Analyst,Single,1,Patna,ST,1,1,1,0,1,1,0,1,1,1,0,1,0,0,1,1,1,1,0,0,1,0,1,1,0,1,1,1,0
+Arthur,Tucker,Male,41,201-2436-88,Secondary,Software Developer,Married,1,Lucknow,NT/DNT,1,1,1,1,1,0,1,0,0,1,1,1,1,1,1,0,0,0,1,0,1,0,1,1,1,1,1,1,0
+Frederick,Johnston,Male,41,721-3126-88,Senior Secondary,Plumber,Single,5,Kolkata,SC,0,1,1,0,0,1,1,1,0,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1,0,1,1,1,0
+Daniel,Ellis,Male,50,653-2706-91,Graduation,Software Developer,Single,5,Kolkata,OBC,0,0,0,1,1,0,0,1,0,1,0,1,1,1,0,0,0,0,0,1,1,0,0,0,1,1,1,0,1
+Adison,West,Male,41,338-9570-56,Secondary,Lawyer,Married,2,Patna,SC,1,0,1,0,1,0,0,0,1,1,0,0,0,1,0,1,0,1,0,0,0,0,1,1,0,0,0,0,1
+Miranda,Crawford,Female,46,114-9662-29,Secondary,Pharmacist,Single,2,Mumbai,NT/DNT,0,1,1,0,1,0,0,0,0,0,0,1,1,1,1,0,1,1,1,0,1,1,0,0,0,1,0,1,0
+Adison,Morris,Male,46,749-8644-63,Secondary,Production Engineer,Married,3,Raipur,NT/DNT,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0
+Oscar,Martin,Male,46,777-8884-58,Graduation,Clerk,Married,3,Kolkata,ST,0,1,1,0,1,0,1,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,1,0,0,1,0,0,1
+James,Foster,Male,40,750-6119-07,Secondary,Business,Single,3,Lucknow,OBC,0,1,0,0,1,0,0,1,0,1,0,0,0,1,1,1,0,1,1,1,0,0,0,1,1,0,0,1,0
+Tess,Stevens,Female,45,099-7651-77,Illiterate,Architect,Married,4,Hyderabad,Prefer Not to say,1,0,0,1,0,1,0,0,1,1,1,0,0,0,1,1,1,1,1,0,0,0,1,0,1,0,0,0,1
+Lily,Murphy,Female,42,843-6139-78,Post graduation,Mechanic,Married,0,Hyderabad,Prefer Not to say,0,0,1,1,0,1,1,0,0,1,0,1,0,1,1,0,1,1,0,1,1,0,1,1,1,0,0,0,0
+Naomi,Cameron,Female,46,666-6822-71,Graduation,Lawyer,Married,4,Delhi,SC,1,1,1,1,0,1,1,1,0,1,0,1,1,0,0,1,0,0,1,1,0,1,0,1,0,0,0,0,1
+Kevin,Harper,Male,50,528-6755-47,Illiterate,Plumber,Married,2,Patna,SC,1,0,1,1,0,1,0,0,1,1,0,0,0,0,1,1,1,0,1,1,1,0,1,1,0,0,1,1,0
+Edgar,Harper,Male,41,174-7041-88,Secondary,Business,Single,5,Hyderabad,General,1,1,1,1,0,1,0,1,1,0,0,0,0,1,1,1,1,1,1,1,0,1,0,0,1,1,1,0,1
+Walter,Brown,Male,46,425-6503-61,Graduation,Teaching faculty,Married,1,Lucknow,General,1,1,1,1,0,1,0,0,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,1,0,1,0,1
+Nicole,Ellis,Female,42,095-6173-88,Post graduation,Software Developer,Single,2,Delhi,General,0,1,0,1,1,0,1,1,1,0,1,1,0,0,1,0,1,0,1,0,0,1,1,0,1,1,0,1,1
+Adrian,Warren,Male,49,610-1995-90,Primary,Teaching faculty,Married,4,Mumbai,Prefer Not to say,0,1,1,0,0,1,1,1,0,0,1,0,0,1,0,1,1,1,0,1,1,1,1,1,0,1,1,1,0
+Savana,Grant,Female,45,706-2453-41,Post graduation,Lawyer,Married,0,Kochi,ST,0,1,0,1,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0,1,1,0,1,1,1,0,1,0,0
+Andrew,Murphy,Male,50,994-2237-50,Post graduation,Clerk,Married,1,Lucknow,OBC,0,0,0,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,0,1,1,1,0,1,1,1,0
+Kirsten,Holmes,Female,43,929-5213-42,Graduation,Teaching faculty,Married,5,Raipur,NT/DNT,0,1,1,0,1,1,1,0,1,0,1,1,1,1,0,0,0,0,0,0,1,1,0,1,0,1,0,0,1
+Agata,Scott,Female,46,839-3455-42,Primary,Clerk,Single,4,Delhi,General,1,1,1,1,0,0,0,0,0,1,1,1,0,0,0,1,1,0,1,0,1,0,0,1,1,1,0,1,0
+Michelle,Ryan,Female,41,890-5385-06,Secondary,Accountant,Single,2,Mumbai,ST,0,1,0,1,0,1,0,0,1,1,0,0,0,1,0,1,1,0,0,0,0,0,1,1,1,1,0,1,1
+Eleanor,Miller,Female,48,977-3463-35,Senior Secondary,Pharmacist,Married,5,Kolkata,NT/DNT,1,0,1,1,1,1,1,0,1,0,0,0,1,1,0,0,1,1,1,0,0,0,0,0,0,1,0,1,1
+Brianna,Cole,Female,49,034-6626-56,Senior Secondary,Lawyer,Single,3,Mumbai,SC,0,1,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0,1,1,1,1,0,1,1,1,0,0,0,1
+Ted,Richards,Male,43,352-9957-91,Post graduation,Plumber,Married,1,Raipur,NT/DNT,1,0,0,1,0,0,1,0,0,0,0,1,0,1,1,0,0,0,1,0,0,0,1,1,1,1,1,1,1
+Henry,Mitchell,Male,42,279-3934-37,Senior Secondary,Accountant,Married,1,Lucknow,SC,1,0,0,1,0,0,1,0,0,1,1,0,0,0,1,1,1,1,1,1,0,0,1,0,0,1,1,1,1
+Alexander,Phillips,Male,49,610-1242-51,Post graduation,Civil Engineer,Single,1,Mumbai,General,1,0,1,1,0,0,0,1,1,0,1,0,0,1,0,0,1,0,0,1,1,0,1,0,1,1,1,1,0
+Lenny,Farrell,Male,49,643-8684-23,Illiterate,Mechanic,Single,1,Kochi,SC,1,1,1,1,1,1,1,1,0,1,0,0,0,1,0,1,0,1,0,1,1,0,0,1,0,1,0,1,1
+Lilianna,Brooks,Female,43,518-4032-28,Illiterate,Civil Engineer,Single,5,Bangalore,OBC,1,0,1,0,1,0,0,1,0,0,1,0,1,1,0,1,1,0,0,1,1,0,0,0,0,0,0,1,1
+Miller,Martin,Male,49,687-9550-11,Primary,Pharmacist,Married,0,Patna,Prefer Not to say,0,1,0,0,0,1,0,1,1,0,1,1,0,1,0,0,1,1,0,1,1,0,1,1,1,1,1,0,1
+Jasmine,Brooks,Female,40,659-1391-96,Illiterate,Data Analyst,Married,4,Raipur,NT/DNT,0,1,1,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,1,0,1,0,1,0
+Tony,Hill,Male,41,611-8559-31,Illiterate,Plumber,Married,4,Raipur,General,0,0,0,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,1,0,1,1,1,1,1,0,0,0
+Miller,Walker,Male,48,735-4579-27,Post graduation,Data Analyst,Married,1,Mumbai,Prefer Not to say,1,1,1,1,0,0,1,0,1,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,1,1,1,0,1
+Aida,Payne,Female,47,259-1748-99,Illiterate,Civil Engineer,Single,3,Chennai,OBC,1,1,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,0,0,1,1,1,1
+Alen,Harris,Male,46,550-2018-52,Primary,Plumber,Single,4,Delhi,OBC,1,1,0,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1,1
+Sofia,Mason,Female,50,903-4221-48,Senior Secondary,Pharmacist,Married,4,Raipur,General,1,0,0,0,0,1,1,1,0,0,0,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+Mary,Hamilton,Female,41,065-3590-02,Illiterate,Architect,Single,1,Lucknow,OBC,0,1,1,0,1,1,1,1,0,0,1,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,1,1
+Miller,Allen,Male,41,589-1338-20,Illiterate,Pharmacist,Married,3,Patna,SC,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0
+Tara,Harris,Female,42,427-5238-67,Primary,Clerk,Married,1,Lucknow,Prefer Not to say,1,0,0,1,1,0,1,1,0,1,1,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0
+Derek,Riley,Male,43,469-2574-34,Illiterate,Pharmacist,Married,5,Raipur,General,0,0,1,0,0,0,0,1,0,0,1,1,1,0,0,1,0,0,0,1,0,1,1,1,0,1,0,0,0
+Mary,Richards,Female,48,333-2642-46,Illiterate,Software Developer,Married,5,Hyderabad,SC,1,0,1,1,1,0,0,1,1,1,0,1,1,1,1,1,0,1,0,1,0,0,0,0,0,1,0,1,1
+Sabrina,Thomas,Female,46,492-3537-64,Post graduation,Data Analyst,Single,4,Raipur,OBC,0,0,1,1,1,1,1,0,0,0,0,0,1,1,0,0,1,0,1,1,0,0,1,0,1,0,1,1,1
+Roland,Spencer,Male,48,910-5129-29,Illiterate,Pharmacist,Single,1,Delhi,General,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,0,1,1,0,1,1,0,1,0,0,0,1,0,1
+Ada,Montgomery,Female,43,179-8564-07,Illiterate,Mechanic,Married,4,Hyderabad,OBC,0,0,0,1,0,1,1,1,1,1,0,1,1,0,1,0,0,0,0,1,1,0,1,0,1,0,0,0,1
+Violet,Sullivan,Female,47,351-5289-37,Post graduation,Business,Married,5,Chennai,Prefer Not to say,0,0,1,1,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,1,1,1,1,1,0,1,1,0,0
+Chester,Turner,Male,48,793-5046-82,Post graduation,Clerk,Married,1,Lucknow,NT/DNT,1,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0
+Alexia,Murphy,Female,45,330-2049-73,Post graduation,Business,Married,2,Delhi,Prefer Not to say,0,1,1,0,0,1,1,0,1,1,0,1,1,0,1,0,0,1,0,0,0,0,1,0,0,1,1,0,0
+Frederick,Perry,Male,40,439-5251-17,Secondary,Software Developer,Single,1,Patna,Prefer Not to say,1,0,0,1,0,1,1,1,0,1,1,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1
+Alfred,Davis,Male,46,172-1390-12,Senior Secondary,Pharmacist,Married,4,Kolkata,OBC,0,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1
+Honey,Harper,Female,46,713-4400-14,Illiterate,Software Developer,Single,3,Kolkata,General,0,0,1,1,1,0,1,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,1,1,1,1,1,1,0
+Fenton,Richardson,Male,50,314-1462-66,Post graduation,Clerk,Married,2,Kolkata,OBC,0,0,1,1,1,1,1,1,0,1,0,0,1,0,0,0,0,1,1,0,0,1,0,0,1,1,1,0,0
+Emma,Andrews,Female,46,298-1410-03,Graduation,Lawyer,Married,1,Chennai,SC,0,1,1,1,1,0,0,1,1,1,0,0,1,0,1,0,0,1,1,0,1,1,1,1,0,1,0,0,0
+Adrian,Perry,Male,43,039-8182-00,Senior Secondary,Pharmacist,Married,0,Chennai,ST,0,0,1,0,1,0,0,0,1,0,0,1,1,0,0,1,1,0,0,0,0,1,0,0,0,1,0,0,0
+Patrick,Chapman,Male,45,438-0233-48,Secondary,Business,Single,0,Mumbai,ST,1,1,0,0,0,0,0,0,1,0,1,1,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,1,1
+Gianna,Casey,Female,50,066-6078-61,Illiterate,Architect,Married,4,Lucknow,General,1,1,0,0,1,1,0,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,1,0,1
+Thomas,Harper,Male,50,450-9567-32,Post graduation,Plumber,Married,0,Kolkata,NT/DNT,1,0,1,0,1,0,1,0,0,1,0,1,1,0,1,0,0,1,0,0,1,0,1,1,1,0,1,1,1
+Gianna,Morrison,Female,45,461-1826-65,Illiterate,Pharmacist,Married,4,Patna,OBC,1,0,1,0,0,0,0,1,1,0,1,1,0,0,1,0,1,1,1,0,1,0,1,1,0,1,0,0,0
+Richard,Cunningham,Male,42,290-7018-92,Secondary,Teaching faculty,Single,0,Raipur,ST,1,1,0,1,0,1,1,1,0,0,0,1,0,0,0,1,0,1,0,1,1,1,0,0,1,0,1,0,0
+Sarah,Nelson,Female,44,308-3211-43,Graduation,Production Engineer,Married,2,Lucknow,OBC,1,1,0,1,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,1,0,0,1
+Jenna,Reed,Female,48,728-2930-90,Secondary,Production Engineer,Single,3,Patna,ST,0,1,0,0,0,0,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,0,0,0,1,1,0,1,0
+Chelsea,Taylor,Female,49,142-2755-93,Senior Secondary,Plumber,Single,5,Chennai,ST,0,0,1,0,0,0,1,0,0,0,0,1,1,1,0,1,0,1,1,0,0,0,0,0,1,0,0,1,1
+Adam,Sullivan,Male,44,303-4299-10,Senior Secondary,Lawyer,Single,3,Kochi,ST,0,0,0,1,0,1,1,0,1,0,0,1,0,1,0,1,1,0,0,1,1,1,1,0,1,0,1,0,0
+Honey,Alexander,Female,49,577-0788-27,Post graduation,Business,Married,4,Bangalore,SC,1,1,1,0,1,0,1,0,1,1,1,1,1,1,1,0,1,1,0,1,0,0,1,1,1,0,0,0,0
+Brad,Martin,Male,43,818-8742-05,Senior Secondary,Teaching faculty,Single,1,Chennai,OBC,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,1,1,1,1,0,1,1,0,1,0,1,0,0,0
+Melissa,Phillips,Female,41,807-7379-26,Senior Secondary,Data Analyst,Married,5,Mumbai,Prefer Not to say,0,1,0,0,0,0,1,0,0,0,0,1,1,0,1,1,0,0,0,1,1,0,0,0,0,1,0,0,0
+Abraham,Murray,Male,46,554-7344-17,Primary,Business,Married,3,Kochi,General,0,0,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,1,1,1,1,1,1,0,1,1
+Lucy,Harrison,Female,45,566-3909-87,Illiterate,Business,Single,3,Hyderabad,ST,0,1,1,1,0,0,1,1,0,1,1,0,1,1,0,0,0,1,1,0,1,0,1,0,0,0,0,1,1
+Freddie,Ellis,Male,41,991-5375-92,Primary,Architect,Married,1,Chennai,Prefer Not to say,1,0,0,1,1,0,0,1,0,0,1,0,1,1,0,0,0,0,1,1,1,0,1,1,0,0,1,1,0
+Dominik,Stewart,Male,42,270-3020-78,Graduation,Teaching faculty,Single,4,Patna,SC,1,0,0,0,0,1,0,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,0,0,1,1,1,0
+Cherry,Baker,Female,48,399-0238-52,Secondary,Business,Married,5,Lucknow,SC,1,0,1,0,0,1,0,1,0,1,0,0,0,1,0,0,1,1,1,0,0,0,1,0,1,0,1,1,1
+Amber,Murphy,Female,45,528-4037-85,Post graduation,Lawyer,Single,4,Patna,General,1,0,1,1,0,1,0,1,0,0,0,1,1,0,1,1,0,0,1,0,1,1,0,1,1,1,0,0,1
+Blake,Kelley,Male,43,608-4144-11,Senior Secondary,Accountant,Single,1,Kochi,ST,1,0,0,0,0,0,1,0,1,0,0,1,1,0,0,0,0,0,0,1,0,1,1,0,0,1,0,1,0
+Sabrina,Mason,Female,47,931-1152-57,Illiterate,Doctor,Single,1,Kolkata,OBC,1,1,0,1,0,1,1,1,0,0,1,0,1,1,0,1,0,1,1,1,1,0,1,0,1,0,1,1,1
+Cadie,Russell,Female,50,897-2814-42,Secondary,Clerk,Married,2,Mumbai,OBC,0,0,0,1,0,1,0,1,1,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,1
+Vivian,Holmes,Female,46,096-5982-86,Post graduation,Production Engineer,Married,2,Mumbai,General,1,0,1,0,0,1,0,0,0,1,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0
+Aston,Jones,Male,45,435-2369-40,Post graduation,Business,Married,5,Chennai,General,0,1,0,0,1,0,1,1,0,1,0,1,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,1
+Lenny,Jones,Male,48,368-2490-13,Primary,Police,Single,3,Delhi,General,1,0,1,0,0,1,0,1,1,0,0,0,1,1,0,1,1,1,1,1,0,1,1,0,0,0,0,1,1
+Edward,Roberts,Male,41,906-9541-63,Primary,Mechanic,Single,1,Mumbai,OBC,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,1,0,1,0,1,0,0,0,1,0,0,0,1
+Dainton,Harris,Male,49,358-3016-56,Illiterate,Civil Engineer,Married,4,Patna,Prefer Not to say,0,0,0,0,1,0,1,1,0,1,0,1,0,1,1,0,0,1,1,0,1,0,0,0,1,0,1,0,0
+Kelsey,Wright,Female,45,556-9772-97,Graduation,Civil Engineer,Married,1,Mumbai,OBC,0,1,0,1,0,1,0,1,0,0,0,1,1,1,1,0,1,0,1,1,0,1,1,1,0,1,0,0,0
+Savana,Perkins,Female,44,148-1484-42,Primary,Business,Single,5,Kolkata,OBC,0,0,1,1,0,1,0,1,1,1,0,1,1,0,0,1,1,0,1,1,1,0,0,0,1,0,1,1,0
+Eric,Anderson,Male,42,922-0729-99,Post graduation,Pharmacist,Married,2,Lucknow,General,1,1,1,1,1,1,0,0,1,0,1,1,1,1,0,1,1,0,0,1,0,0,0,0,1,0,0,1,0
+Maya,Carter,Female,43,562-3446-43,Illiterate,Business,Single,4,Delhi,ST,1,1,0,0,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,0,1,0,1,0,1,1,0
+Jasmine,Barnes,Female,48,632-9944-40,Primary,Plumber,Single,2,Kochi,SC,1,0,0,1,0,0,0,1,0,1,0,0,1,1,0,1,1,1,1,0,1,1,0,0,0,1,1,0,0
+Florrie,Roberts,Female,46,620-5253-16,Primary,Mechanic,Single,4,Mumbai,OBC,1,0,1,0,0,1,0,0,1,1,0,0,0,1,1,0,0,1,0,0,1,1,0,0,0,1,1,1,1
+Maddie,Robinson,Female,48,878-8296-31,Illiterate,Doctor,Single,0,Kolkata,OBC,0,0,0,1,0,0,1,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,1,1,1,1,1,0,0
+Roland,Martin,Male,50,146-5480-17,Primary,Mechanic,Married,5,Kolkata,NT/DNT,1,1,0,0,1,1,0,0,0,0,1,0,0,1,1,0,1,1,1,0,0,1,1,1,1,1,0,1,1
+Edwin,Hawkins,Male,41,560-4312-93,Senior Secondary,Pharmacist,Married,4,Lucknow,ST,1,0,0,1,1,0,1,0,0,0,0,1,1,1,1,1,0,1,0,1,1,0,1,1,1,1,0,0,1
+Aldus,Owens,Male,40,739-1786-88,Senior Secondary,Software Developer,Single,1,Patna,NT/DNT,1,0,1,1,1,0,1,1,0,1,0,1,0,0,0,1,1,1,0,1,0,0,0,0,1,1,0,1,0
+Lyndon,Morgan,Male,48,402-9379-25,Senior Secondary,Production Engineer,Single,2,Chennai,ST,0,1,0,0,0,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,0,1,1,0
+Emily,Alexander,Female,44,250-7428-16,Secondary,Clerk,Single,3,Kolkata,General,1,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1,1,1,1,0,1,0,1,1,0,1,0,1
+Jordan,Stevens,Male,50,791-6386-76,Primary,Plumber,Married,1,Mumbai,Prefer Not to say,1,1,0,1,0,0,0,1,0,0,0,0,1,1,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0
+George,Parker,Male,40,085-3198-38,Primary,Data Analyst,Married,1,Chennai,Prefer Not to say,0,0,1,1,1,0,0,0,1,1,0,1,1,1,0,1,0,0,0,1,0,0,1,1,1,0,0,1,0
+Edith,Ryan,Female,47,882-5475-82,Illiterate,Civil Engineer,Married,5,Delhi,ST,0,1,0,1,0,0,1,1,0,1,0,0,0,1,0,1,1,0,1,0,1,0,1,1,0,1,1,1,1
+Ellia,Barnes,Female,50,787-6896-64,Post graduation,Production Engineer,Single,1,Kochi,Prefer Not to say,0,1,1,0,1,0,0,0,0,0,1,1,0,1,0,0,1,0,0,1,0,1,1,0,1,1,0,0,1
+Leonardo,Gray,Male,49,765-1260-37,Primary,Business,Married,1,Kochi,SC,0,1,0,1,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,1,0,1,0
+Natalie,Cunningham,Female,42,646-3273-77,Senior Secondary,Police,Single,5,Hyderabad,OBC,0,1,0,1,1,1,1,1,0,0,0,1,1,0,1,0,1,1,1,0,1,1,1,1,1,0,0,1,0
+Charlie,Wells,Male,48,199-6656-95,Illiterate,Business,Single,5,Bangalore,NT/DNT,1,0,0,1,0,0,0,1,0,0,1,0,1,0,0,0,1,1,1,0,0,0,0,1,1,1,1,1,1
+Chester,Wright,Male,47,488-1054-54,Primary,Teaching faculty,Married,0,Bangalore,General,0,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,0,1,0,1,1,0,1,0,0,0,1,1
+Miller,Morris,Male,43,390-3577-32,Secondary,Lawyer,Married,3,Bangalore,General,1,1,0,0,1,0,1,0,0,1,0,1,1,0,1,0,0,1,0,1,1,1,1,0,0,1,0,0,0
+Maya,Johnson,Female,42,982-1100-51,Senior Secondary,Civil Engineer,Married,4,Kolkata,Prefer Not to say,0,1,0,0,0,1,1,0,0,0,0,1,0,1,1,1,1,1,1,0,0,1,1,0,1,0,1,0,0
+Freddie,Thomas,Male,50,424-5805-70,Illiterate,Lawyer,Married,1,Lucknow,OBC,0,0,1,1,0,1,1,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,1,0,0,1,0,1
+Emma,Campbell,Female,47,360-6083-92,Post graduation,Civil Engineer,Single,0,Patna,OBC,1,1,1,1,0,1,1,0,0,1,1,0,1,1,0,0,0,1,1,0,0,1,1,1,0,1,0,0,0
+Owen,Anderson,Male,50,769-2434-78,Secondary,Lawyer,Married,4,Chennai,NT/DNT,1,0,1,0,0,0,0,1,1,1,0,1,1,1,1,1,0,1,1,0,0,0,1,0,1,0,1,1,1
+David,Rogers,Male,45,958-1182-28,Secondary,Production Engineer,Married,1,Mumbai,ST,1,1,1,1,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0,1,1,1,1,0,0,1,1
+Paige,Brooks,Female,40,187-9782-85,Post graduation,Doctor,Married,5,Kochi,NT/DNT,1,0,0,0,1,0,0,1,1,0,0,1,1,0,0,1,0,1,1,1,0,1,1,1,1,0,0,0,1
+Amanda,Allen,Female,47,441-2661-99,Secondary,Plumber,Married,5,Chennai,Prefer Not to say,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0
+Freddie,Mitchell,Male,42,890-5908-79,Secondary,Software Developer,Single,1,Kolkata,ST,0,1,1,0,0,0,0,1,1,1,1,1,1,0,0,1,1,0,1,0,0,1,0,0,1,1,1,0,1
+Victoria,Parker,Female,46,312-9024-40,Post graduation,Police,Single,1,Chennai,OBC,0,1,0,0,0,1,1,0,1,0,0,1,0,1,1,1,1,1,0,0,1,1,0,0,1,0,1,1,0
+Alexia,Andrews,Female,40,648-8783-02,Graduation,Business,Single,2,Patna,Prefer Not to say,1,1,0,0,1,0,0,1,0,1,0,0,0,1,1,1,0,0,1,0,1,0,0,0,0,1,0,1,1
+Valeria,Gibson,Female,44,039-8542-72,Post graduation,Pharmacist,Single,3,Bangalore,OBC,0,0,0,1,1,0,1,0,1,1,1,1,1,0,1,0,1,1,0,0,0,0,1,0,0,1,0,1,0
+Dominik,Murray,Male,43,627-5635-78,Secondary,Doctor,Single,2,Lucknow,Prefer Not to say,0,0,0,0,1,1,0,1,1,1,0,0,0,1,1,1,1,0,1,0,0,1,1,0,1,1,0,1,1
+Dexter,Miller,Male,46,380-5806-99,Post graduation,Civil Engineer,Married,2,Kolkata,General,1,1,1,0,1,1,0,1,1,0,1,0,1,0,1,1,0,0,1,1,1,0,0,0,0,1,1,1,1
+Richard,Allen,Male,47,657-4421-41,Senior Secondary,Pharmacist,Single,2,Patna,NT/DNT,1,0,0,1,1,1,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,1,1,1,1,0,1
+Sophia,Bennett,Female,42,373-2659-75,Post graduation,Business,Single,4,Kochi,SC,0,1,0,1,0,0,1,0,0,0,0,1,0,0,1,1,0,1,0,1,1,0,0,1,0,0,0,1,1
+Miranda,Evans,Female,45,040-8133-39,Secondary,Accountant,Married,5,Delhi,General,0,1,0,1,1,1,0,1,1,1,0,1,0,0,0,1,1,0,1,1,0,1,1,0,0,0,1,0,0
+Briony,Carroll,Female,42,083-5254-00,Primary,Doctor,Single,4,Hyderabad,OBC,1,1,0,1,1,1,0,1,1,0,0,1,1,1,1,1,0,1,1,1,1,0,1,0,0,1,1,1,1
+Alexander,Baker,Male,41,475-9582-44,Primary,Architect,Single,3,Lucknow,NT/DNT,0,0,1,0,0,1,1,1,0,1,0,0,1,1,0,1,1,1,0,1,0,1,0,1,1,1,1,0,1
+Alberta,Barrett,Female,41,360-9880-11,Secondary,Software Developer,Married,1,Kochi,General,0,0,0,1,1,0,0,0,1,1,1,0,0,1,1,1,0,1,1,0,1,0,1,0,1,0,0,1,0
+Byron,Casey,Male,49,260-1318-17,Secondary,Doctor,Single,5,Kolkata,OBC,0,1,1,1,0,0,0,1,0,0,1,0,0,1,0,1,1,0,0,1,1,0,1,1,1,0,1,0,0
+Carina,Dixon,Female,48,038-6369-39,Post graduation,Doctor,Married,0,Kochi,General,0,1,1,0,0,0,1,1,0,0,0,0,0,1,1,1,0,1,1,0,1,0,1,0,1,0,1,0,1
+Sabrina,Clark,Female,41,364-5208-08,Post graduation,Software Developer,Married,3,Delhi,General,1,0,1,0,0,1,1,1,1,1,0,1,0,1,1,0,1,0,0,0,1,1,1,0,1,0,1,0,0
+Miley,Holmes,Female,43,888-3875-57,Senior Secondary,Pharmacist,Single,5,Delhi,OBC,0,1,0,0,1,1,1,0,0,1,0,1,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0
+Sienna,Cole,Female,47,083-2290-86,Graduation,Lawyer,Single,0,Lucknow,ST,1,1,0,0,0,1,1,0,0,0,1,1,1,1,0,1,0,0,1,1,1,1,0,1,1,1,0,0,1
+Adam,Cunningham,Male,47,839-7293-80,Secondary,Data Analyst,Married,5,Kolkata,SC,0,1,0,1,0,1,0,1,1,0,0,1,0,0,1,0,0,0,1,1,1,0,1,0,0,1,1,1,1
+Lucia,Riley,Female,49,769-9129-26,Illiterate,Clerk,Single,1,Lucknow,NT/DNT,0,0,1,0,0,1,1,1,1,0,0,1,1,0,0,0,1,0,0,0,0,1,1,0,1,0,1,0,1
+Samantha,Cole,Female,43,049-5214-50,Graduation,Business,Single,2,Mumbai,ST,0,1,0,1,1,1,0,1,0,0,0,1,1,0,0,0,1,1,0,1,0,0,1,0,1,1,0,0,0
+Sarah,Kelley,Female,42,951-1131-71,Illiterate,Lawyer,Married,1,Mumbai,General,0,0,0,0,0,1,1,1,1,0,0,1,1,0,1,1,0,0,1,1,1,1,1,0,0,0,0,1,1
+Daniel,Richardson,Male,40,545-7043-88,Secondary,Doctor,Single,0,Hyderabad,Prefer Not to say,1,0,0,0,0,1,0,1,1,1,0,1,0,1,1,0,1,1,0,1,1,1,1,1,0,1,0,0,1
+Antony,Farrell,Male,44,395-2192-36,Senior Secondary,Lawyer,Single,5,Hyderabad,General,0,0,1,1,1,0,1,1,0,0,0,0,1,1,1,0,1,0,0,1,1,1,0,0,0,1,0,1,0
+Jared,Cunningham,Male,41,162-0404-65,Post graduation,Architect,Single,5,Kochi,NT/DNT,1,1,1,0,1,1,1,1,0,1,1,0,0,1,1,1,0,0,0,0,1,1,1,0,1,1,0,1,1
+Natalie,Hawkins,Female,44,098-1615-97,Secondary,Mechanic,Married,4,Chennai,General,1,1,1,1,1,0,1,1,1,1,0,0,1,1,1,0,1,0,0,0,1,1,1,0,0,0,0,1,1
+Elise,Lloyd,Female,42,163-3839-31,Senior Secondary,Civil Engineer,Single,0,Mumbai,SC,0,1,0,0,0,1,0,1,1,1,1,0,1,0,0,1,0,0,1,0,1,0,1,1,1,1,1,0,1
+Edith,Evans,Female,46,996-3207-39,Senior Secondary,Software Developer,Married,5,Lucknow,General,1,0,0,1,0,1,1,0,0,1,0,1,1,1,1,1,0,1,0,1,1,1,1,0,1,1,1,1,1
+Adrianna,Owens,Female,40,700-9185-62,Graduation,Police,Married,2,Patna,SC,1,1,0,1,0,0,0,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,1,1,0,0,0,1,1
+Ellia,Hall,Female,42,764-8718-80,Post graduation,Production Engineer,Single,1,Delhi,ST,0,1,0,1,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+Vivian,Bailey,Female,50,857-4311-89,Graduation,Police,Single,2,Patna,Prefer Not to say,0,0,1,1,1,1,0,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,0,1,1,1,0,0
+Alina,Farrell,Female,46,715-2849-85,Primary,Pharmacist,Single,1,Patna,OBC,0,1,1,1,0,1,1,0,1,1,1,1,1,0,0,0,0,0,1,1,1,0,1,1,0,1,1,0,1
+Chloe,Hall,Female,43,184-0515-67,Illiterate,Plumber,Single,5,Kolkata,General,0,1,0,1,1,1,1,0,1,0,0,0,1,1,1,1,1,1,0,0,1,0,1,1,0,0,1,0,1
+Abigail,Payne,Female,45,778-9309-10,Graduation,Mechanic,Single,1,Delhi,SC,0,1,1,1,1,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,1,1,0,1,1,0,1
+Jessica,Murray,Female,46,923-6264-15,Primary,Police,Married,4,Raipur,ST,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,1,1,0,0,0,1,1,1,1,1,1,1
+Marcus,Wilson,Male,45,752-6128-00,Secondary,Plumber,Single,4,Lucknow,General,0,1,1,0,1,1,1,1,0,0,1,1,0,0,0,1,0,0,1,1,1,1,0,1,1,0,1,0,0
+Alford,Carroll,Male,40,781-9174-98,Graduation,Plumber,Married,3,Hyderabad,General,0,0,1,1,0,1,1,1,1,0,1,0,0,1,1,1,1,1,1,0,1,0,1,0,1,0,1,1,1
+Edgar,Harrison,Male,41,045-1720-08,Primary,Pharmacist,Single,5,Mumbai,SC,0,0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,1,1,1,1,1,1,0,1,1,0
+Stella,Craig,Female,48,917-7797-21,Primary,Lawyer,Married,2,Kochi,NT/DNT,0,0,1,1,1,1,1,0,1,0,1,1,1,1,0,0,1,0,0,1,1,0,0,0,1,1,0,0,0
+Miranda,Turner,Female,48,344-1345-31,Graduation,Clerk,Married,5,Lucknow,SC,0,1,0,0,1,0,1,0,0,1,1,1,0,0,1,0,1,1,1,0,1,1,1,0,1,0,0,1,0
+Honey,Walker,Female,46,303-7961-82,Illiterate,Architect,Single,5,Chennai,SC,0,1,0,1,1,0,1,1,1,0,1,1,0,1,0,1,1,0,0,1,0,0,0,1,0,1,1,1,0
+Elise,Taylor,Female,42,072-5180-18,Graduation,Mechanic,Single,5,Bangalore,OBC,1,0,0,1,0,1,0,0,0,0,1,1,1,1,1,0,1,0,0,0,0,0,0,1,0,0,1,1,0
+Sophia,Martin,Female,40,198-1003-90,Post graduation,Teaching faculty,Married,3,Raipur,NT/DNT,1,0,0,1,1,0,1,0,0,0,0,0,1,1,0,1,1,0,0,1,1,0,1,0,1,1,0,1,0
+Henry,Lloyd,Male,41,240-1845-20,Primary,Lawyer,Married,1,Raipur,General,0,1,1,0,1,0,0,0,1,0,1,0,1,1,1,1,1,1,1,1,0,1,0,1,0,0,0,1,0
+Roman,Andrews,Male,43,326-3634-88,Graduation,Pharmacist,Single,3,Bangalore,General,0,1,1,0,1,0,0,1,0,1,1,0,0,0,0,1,0,0,1,1,0,1,0,0,1,1,0,0,1
+Rafael,Hamilton,Male,42,687-6804-69,Senior Secondary,Business,Married,3,Patna,General,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,1,0,0,0,1,1,0,0,1,0,1,1,0,0
+Patrick,Lloyd,Male,48,523-3260-36,Secondary,Pharmacist,Married,1,Lucknow,OBC,1,1,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,1,1,0,1,1,1,0,1,0,1,0
+Martin,Ross,Male,44,247-4567-77,Illiterate,Police,Married,4,Patna,Prefer Not to say,0,1,1,0,0,1,0,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,0,0,1
+Stuart,Rogers,Male,48,035-0798-70,Secondary,Plumber,Single,2,Patna,ST,0,1,1,0,0,1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,0,1
+Briony,Hamilton,Female,42,338-5568-33,Primary,Clerk,Single,3,Lucknow,NT/DNT,0,1,1,0,1,1,0,1,0,0,1,0,1,0,0,1,0,1,0,1,1,1,1,0,1,1,1,0,1
+Stella,Parker,Female,44,329-0873-03,Senior Secondary,Accountant,Married,4,Lucknow,Prefer Not to say,1,1,0,1,1,0,1,0,1,1,0,1,0,0,0,0,1,0,1,1,1,0,1,1,0,0,1,1,1
+Mike,Perkins,Male,46,476-3851-48,Illiterate,Mechanic,Married,1,Delhi,ST,0,1,0,0,1,1,1,1,0,1,1,0,0,1,0,1,1,1,1,0,0,1,0,0,0,1,1,0,1
+Elian,Perry,Male,48,212-6024-28,Secondary,Production Engineer,Married,5,Mumbai,General,0,1,0,0,1,0,1,1,1,1,1,1,0,1,1,1,0,0,1,0,1,0,1,0,1,0,0,0,1
+Aiden,Turner,Male,41,464-2024-65,Senior Secondary,Lawyer,Married,3,Lucknow,Prefer Not to say,1,1,1,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0,1,1,1,0,1,0,1,0
+Ted,Ryan,Male,40,840-5810-35,Senior Secondary,Plumber,Single,2,Patna,Prefer Not to say,0,1,0,1,0,1,1,0,1,1,1,1,0,1,1,1,0,0,0,0,1,0,1,0,1,1,0,1,1
+Elian,Chapman,Male,70,118-2837-55,Senior Secondary,Production Engineer,Single,4,Lucknow,ST,0,0,0,1,0,0,1,0,1,1,0,0,0,0,1,1,1,1,0,0,0,1,0,1,0,0,1,0,1
+Julia,Richardson,Female,69,215-6967-84,Senior Secondary,Civil Engineer,Single,0,Hyderabad,SC,0,0,1,0,0,0,1,1,1,1,0,1,1,0,0,0,0,1,1,1,1,1,0,1,0,1,1,0,1
+Walter,Roberts,Male,62,852-3810-53,Senior Secondary,Lawyer,Single,3,Chennai,Prefer Not to say,0,0,1,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,1,0,1,1,0,1,0,0,1,0,1
+Ryan,Carroll,Male,61,260-5461-07,Senior Secondary,Mechanic,Single,4,Bangalore,SC,0,0,0,0,1,0,0,1,0,1,1,0,0,0,1,0,1,1,1,1,1,0,0,1,1,0,0,0,1
+Deanna,Morrison,Female,66,872-5290-03,Post graduation,Data Analyst,Single,2,Raipur,ST,1,1,0,1,0,0,1,1,1,0,1,1,0,0,1,1,1,0,1,0,1,0,0,0,1,0,0,0,0
+Kellan,Thompson,Male,70,410-6859-05,Primary,Police,Married,0,Patna,ST,1,0,0,1,1,0,1,0,0,1,1,1,1,0,1,0,1,0,1,0,0,0,0,0,1,1,0,1,1
+Thomas,Casey,Male,62,964-1390-26,Illiterate,Production Engineer,Married,0,Mumbai,ST,0,1,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,1,1,0,1,1,1,0,0,0,1,1,1
+Eleanor,Williams,Female,63,530-9413-39,Senior Secondary,Civil Engineer,Married,0,Hyderabad,Prefer Not to say,0,1,0,0,0,1,1,1,1,0,1,0,0,0,1,0,0,1,0,1,1,1,0,0,0,1,1,1,1
+Bruce,Casey,Male,70,685-2515-28,Post graduation,Architect,Married,4,Hyderabad,SC,1,1,1,0,0,1,0,1,1,0,1,0,1,0,1,1,1,1,0,1,1,0,1,1,0,0,0,0,1
+Cherry,Mason,Female,66,182-7939-14,Secondary,Doctor,Single,4,Raipur,Prefer Not to say,1,0,0,1,1,1,1,0,0,1,1,1,0,0,0,1,0,0,0,1,1,1,0,0,1,1,1,1,0
+Mike,Fowler,Male,62,314-5989-89,Primary,Mechanic,Single,1,Kochi,General,0,1,0,1,0,1,0,1,0,0,1,0,1,0,0,1,1,0,0,0,1,1,0,1,0,1,0,1,1
+Amanda,Campbell,Female,63,485-1702-28,Senior Secondary,Pharmacist,Married,5,Chennai,SC,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0,1,0,1,1,1,1,1,0,0,1,0,1
+Martin,Parker,Male,68,884-0667-10,Secondary,Mechanic,Single,1,Raipur,Prefer Not to say,1,0,1,1,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0,0,0
+Michelle,Lloyd,Female,69,332-6941-13,Graduation,Business,Single,3,Lucknow,Prefer Not to say,0,0,0,0,1,1,1,1,0,1,1,1,1,1,1,1,0,1,0,1,1,1,1,0,1,1,1,1,0
+Adrianna,Montgomery,Female,66,811-8280-40,Primary,Software Developer,Married,4,Hyderabad,ST,1,0,1,1,1,0,0,0,1,1,1,1,0,0,0,1,1,0,1,0,1,1,0,0,1,1,1,0,0
+Kevin,Farrell,Male,66,447-7580-25,Illiterate,Data Analyst,Single,4,Delhi,Prefer Not to say,1,1,1,0,1,0,1,1,1,0,1,0,1,0,0,1,1,0,1,1,0,0,0,0,1,1,1,0,0
+Lyndon,Andrews,Male,63,844-4610-89,Illiterate,Clerk,Single,1,Patna,OBC,1,0,1,1,1,1,1,0,0,0,1,0,0,0,1,1,1,1,1,0,0,0,1,1,1,0,1,1,1
+Bruce,Alexander,Male,62,322-2390-91,Primary,Lawyer,Married,2,Kolkata,OBC,1,1,0,0,1,0,1,1,0,1,0,1,1,1,1,1,0,1,0,1,0,0,0,1,1,0,1,0,0
+Melanie,Wilson,Female,63,386-0713-41,Primary,Architect,Single,0,Chennai,General,1,0,1,1,1,0,0,1,0,1,1,0,0,0,1,0,1,1,1,1,1,1,0,0,1,1,1,0,1
+Frederick,Warren,Male,64,680-0421-79,Senior Secondary,Architect,Single,2,Mumbai,Prefer Not to say,0,1,0,1,1,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,1,0,1,0,1,1
+Alberta,Hall,Female,68,295-1762-15,Graduation,Lawyer,Married,3,Kochi,SC,1,0,1,0,1,0,0,0,0,0,0,0,1,0,1,1,1,0,1,1,0,0,0,1,0,1,0,1,1
+Dainton,Johnston,Male,65,782-3550-20,Senior Secondary,Clerk,Married,0,Raipur,Prefer Not to say,0,1,0,0,1,1,0,1,0,0,1,0,1,0,1,1,1,0,1,1,0,0,1,1,0,0,1,0,1
+Lenny,Kelley,Male,62,050-4578-74,Senior Secondary,Plumber,Married,2,Chennai,Prefer Not to say,0,1,1,0,1,0,0,1,0,1,0,1,0,0,1,0,1,0,1,1,0,1,1,1,1,0,0,1,0
+Jordan,Cameron,Male,68,949-3421-64,Post graduation,Police,Single,0,Raipur,Prefer Not to say,1,1,1,1,1,1,0,1,1,1,0,0,1,1,0,1,1,0,0,0,0,0,1,0,1,0,1,0,1
+Florrie,Howard,Female,69,522-5363-14,Senior Secondary,Civil Engineer,Single,0,Raipur,NT/DNT,1,0,0,0,1,0,1,1,1,0,0,1,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,0,1
+Lydia,Harris,Female,70,340-2711-04,Graduation,Software Developer,Single,5,Kolkata,OBC,0,0,0,0,0,0,1,1,0,0,1,1,1,0,1,0,1,1,1,0,1,1,0,1,0,1,1,0,1
+Agata,Clark,Female,62,074-6929-76,Illiterate,Pharmacist,Married,0,Chennai,SC,0,0,0,1,0,1,0,1,1,0,0,0,0,0,1,0,1,1,1,0,1,0,0,1,1,0,1,0,1
+Lucas,Davis,Male,68,927-4253-03,Illiterate,Production Engineer,Single,5,Kochi,NT/DNT,1,0,1,0,0,1,0,1,1,1,1,1,1,1,0,0,0,1,1,1,0,0,0,1,1,0,1,0,1
+Edith,Andrews,Female,62,141-0235-37,Senior Secondary,Production Engineer,Single,1,Lucknow,General,0,0,0,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1
+Charlotte,Morgan,Female,64,682-6979-06,Primary,Software Developer,Married,5,Lucknow,General,1,1,0,0,0,0,1,1,1,0,0,0,0,0,1,1,0,1,0,0,1,0,0,1,0,1,0,0,0
+Stuart,Reed,Male,68,525-6463-93,Primary,Architect,Married,0,Mumbai,Prefer Not to say,0,1,1,1,0,1,1,0,0,0,0,1,0,1,1,0,1,1,1,0,1,1,1,0,0,1,1,1,1
+Sawyer,Phillips,Male,67,518-5920-04,Illiterate,Accountant,Single,5,Patna,General,0,1,1,0,0,0,1,1,1,1,0,0,1,0,1,1,0,0,1,1,0,0,1,0,0,0,1,1,1
+Alan,Myers,Male,62,374-3993-74,Senior Secondary,Data Analyst,Single,5,Chennai,Prefer Not to say,1,1,0,0,0,1,0,1,1,1,0,0,1,1,0,0,0,0,1,0,0,1,0,1,0,0,0,0,1
+Adrianna,Watson,Female,66,504-9489-84,Primary,Lawyer,Single,4,Mumbai,ST,0,0,1,0,0,1,1,1,1,0,0,1,0,1,1,1,0,1,0,1,0,1,0,0,1,1,1,0,1
+Marcus,Fowler,Male,61,482-1878-37,Graduation,Software Developer,Married,1,Lucknow,NT/DNT,1,1,1,1,1,1,1,0,1,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0
+Honey,Cameron,Female,69,465-0006-72,Illiterate,Police,Single,3,Kochi,NT/DNT,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,1,0,1,1,1,1,1,0,0,1,1,0,0
+Julia,Hill,Female,64,409-0594-68,Senior Secondary,Civil Engineer,Married,1,Bangalore,NT/DNT,1,0,0,1,1,1,1,0,1,1,0,0,1,1,0,1,0,1,1,1,0,0,0,1,1,1,0,0,0
+Miller,Tucker,Male,62,211-9946-25,Post graduation,Clerk,Married,4,Bangalore,General,1,0,1,1,1,1,0,1,1,0,0,1,0,0,1,0,0,1,0,0,1,1,0,0,1,0,1,0,1
+Adelaide,Evans,Female,61,960-7767-74,Graduation,Data Analyst,Married,4,Chennai,OBC,1,1,0,0,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0
+Violet,Martin,Female,64,634-6787-86,Graduation,Pharmacist,Single,0,Kolkata,General,1,0,0,0,0,1,0,1,0,1,0,0,1,1,1,0,0,0,1,1,0,1,1,1,0,0,1,1,0
+Ryan,Casey,Male,61,410-6617-62,Graduation,Production Engineer,Married,1,Kolkata,NT/DNT,1,1,0,0,1,1,1,1,0,1,0,0,0,0,0,1,1,1,1,0,1,0,0,1,0,0,1,1,1
+Adrian,Andrews,Male,61,079-4027-89,Secondary,Doctor,Single,5,Patna,OBC,0,0,1,1,0,1,0,0,0,1,0,1,1,1,0,1,0,0,0,1,1,1,1,0,1,1,1,1,1
+Victoria,Ross,Female,69,433-0766-25,Secondary,Teaching faculty,Single,0,Hyderabad,SC,1,0,1,0,0,0,0,1,0,0,1,0,1,1,1,0,0,1,0,1,1,0,0,1,1,1,0,0,0
+Fenton,Campbell,Male,63,137-1107-62,Primary,Accountant,Single,4,Delhi,SC,1,0,0,1,1,1,1,1,0,1,1,1,1,0,1,1,1,0,1,0,0,0,1,1,1,0,1,1,1
+Ryan,Fowler,Male,66,093-4043-72,Senior Secondary,Pharmacist,Single,2,Patna,General,0,0,0,1,0,1,1,0,1,0,1,0,0,1,1,1,0,1,1,1,1,1,0,0,0,0,0,1,0
+Tess,Johnson,Female,64,071-1654-02,Secondary,Police,Single,2,Hyderabad,General,0,0,0,1,1,1,1,1,0,0,0,0,1,1,1,1,0,1,0,1,1,1,0,1,0,1,0,0,0
+Brianna,Chapman,Female,66,256-5111-44,Post graduation,Data Analyst,Married,0,Lucknow,NT/DNT,0,1,0,1,1,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,1,1,1,0,0,0,1,1,1
+Charlie,Armstrong,Male,66,181-2274-45,Secondary,Civil Engineer,Single,1,Kochi,OBC,1,0,1,0,0,0,0,1,0,1,1,1,0,1,1,1,1,1,1,1,0,1,0,0,0,0,0,1,0
+Chelsea,Ellis,Female,65,777-7511-96,Senior Secondary,Mechanic,Single,5,Delhi,NT/DNT,1,1,1,0,1,1,0,1,0,0,0,1,1,1,1,1,0,0,0,1,1,0,0,0,1,1,1,0,1
+Daisy,Sullivan,Female,70,342-2093-48,Senior Secondary,Mechanic,Single,3,Chennai,General,1,1,0,0,1,0,0,1,1,0,0,0,1,0,1,0,0,0,1,1,1,0,1,0,0,1,1,0,1
+Kevin,Thompson,Male,68,427-4456-91,Secondary,Accountant,Married,1,Bangalore,NT/DNT,0,1,0,1,1,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,1,1,1,1,0,1,0,0
+Arianna,Evans,Female,67,459-9630-05,Senior Secondary,Clerk,Single,3,Kolkata,NT/DNT,0,0,0,1,1,1,0,1,0,1,0,0,0,0,1,0,1,1,1,1,0,1,1,1,1,0,1,0,0
+Fenton,Riley,Male,61,050-1212-89,Post graduation,Software Developer,Married,4,Kolkata,General,0,0,0,1,1,0,0,1,0,0,1,0,1,1,1,1,0,1,1,1,0,0,1,1,0,1,0,1,1
+Chloe,Kelley,Female,62,711-1207-83,Primary,Business,Married,2,Chennai,General,1,0,1,0,1,1,1,1,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,1,0,0,1,0,0
+Agata,Kelly,Female,69,830-7160-16,Graduation,Teaching faculty,Married,3,Lucknow,NT/DNT,1,0,1,0,1,1,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Adam,Adams,Male,68,521-4202-88,Graduation,Police,Single,1,Mumbai,SC,0,1,0,0,0,0,0,1,0,1,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+Roland,Cole,Male,68,654-8589-36,Secondary,Architect,Single,1,Raipur,Prefer Not to say,0,0,1,0,1,0,1,1,1,0,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,0,0,1
+Belinda,Roberts,Female,62,318-2612-98,Graduation,Doctor,Single,2,Raipur,Prefer Not to say,0,0,1,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,0,1,0
+Mike,Ross,Male,62,461-1165-21,Senior Secondary,Police,Single,2,Kolkata,OBC,1,1,1,0,0,1,1,1,0,0,1,1,0,1,0,1,0,0,0,1,0,1,1,0,0,0,0,1,0
+Audrey,Parker,Female,62,117-9349-58,Secondary,Plumber,Married,3,Hyderabad,ST,1,0,1,1,1,1,1,0,1,1,0,1,1,0,0,0,0,1,0,0,0,1,1,1,0,1,1,0,1
+Savana,Carter,Female,61,233-8605-85,Primary,Pharmacist,Single,2,Mumbai,Prefer Not to say,0,1,1,1,0,1,1,0,1,1,0,1,0,0,1,1,0,0,0,0,0,0,1,1,1,1,1,1,0
+Jacob,Brooks,Male,69,730-2513-64,Secondary,Police,Single,2,Delhi,SC,0,1,0,1,1,0,0,1,0,0,0,0,1,1,0,1,0,0,1,0,1,0,0,0,1,0,0,0,1
+Ada,Clark,Female,69,811-2921-46,Graduation,Production Engineer,Single,1,Chennai,Prefer Not to say,1,1,0,0,1,0,1,1,0,1,1,1,1,1,0,1,1,1,0,0,1,0,0,1,0,1,0,1,1
+Carlos,Higgins,Male,69,536-6386-36,Senior Secondary,Business,Married,1,Kolkata,Prefer Not to say,0,0,0,1,1,1,1,0,1,0,1,1,0,0,1,0,1,1,1,0,0,1,0,1,1,0,0,1,0
+Sawyer,Payne,Male,69,244-4450-00,Post graduation,Mechanic,Single,5,Mumbai,NT/DNT,1,0,0,1,1,0,0,0,0,1,0,0,0,1,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0
+Alexia,Carter,Female,70,388-6332-70,Post graduation,Business,Single,1,Raipur,General,1,0,1,1,1,0,1,0,1,1,0,1,1,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,1
+Cherry,Montgomery,Female,67,521-8781-83,Senior Secondary,Accountant,Single,0,Kochi,SC,0,0,1,1,1,0,0,0,0,0,0,0,1,0,1,1,0,1,1,1,0,0,1,1,0,1,1,0,0
+Max,Montgomery,Male,60,675-0321-54,Senior Secondary,Data Analyst,Single,1,Raipur,ST,0,0,1,1,1,0,0,0,0,1,1,1,0,1,0,1,0,0,0,1,0,1,0,0,1,1,0,0,0
+Cherry,Wright,Female,62,317-9719-24,Post graduation,Business,Single,2,Bangalore,SC,0,1,0,1,0,0,0,0,0,1,0,0,1,1,1,1,0,0,1,1,0,1,0,0,1,0,1,0,1
+Lucas,Henderson,Male,69,484-4499-24,Graduation,Accountant,Single,1,Kochi,Prefer Not to say,1,0,0,0,1,1,0,0,0,0,1,1,0,0,1,0,1,1,0,1,0,0,1,1,1,0,1,1,0
+Arthur,Morgan,Male,67,152-1938-67,Secondary,Accountant,Married,2,Delhi,General,0,1,0,0,1,1,1,0,1,0,0,1,1,0,0,0,0,1,1,0,1,0,0,0,0,1,0,1,1
+Vivian,Casey,Female,67,530-1515-10,Senior Secondary,Data Analyst,Single,3,Raipur,OBC,1,1,1,0,0,0,0,0,0,0,1,0,1,0,0,1,1,1,0,1,0,1,0,1,0,0,1,1,1
+Tess,Morris,Female,70,783-9616-77,Senior Secondary,Police,Married,4,Chennai,Prefer Not to say,1,1,1,1,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,0,1,1,0,0,0,1,1,1,0
+Dominik,Davis,Male,60,610-2171-63,Post graduation,Police,Single,0,Kochi,ST,0,0,1,1,1,1,1,0,1,1,1,1,0,0,0,1,1,0,0,1,0,1,0,1,0,0,1,0,0
+Michelle,Montgomery,Female,64,884-8933-02,Primary,Accountant,Married,4,Patna,OBC,1,0,0,1,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,1,1,0,1,0,0,0,0,0
+Abigail,Sullivan,Female,65,776-4110-61,Senior Secondary,Plumber,Married,1,Patna,ST,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,1
+Sydney,Douglas,Female,62,564-0345-31,Post graduation,Data Analyst,Single,1,Chennai,Prefer Not to say,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,1,0,0,0,1
+Adelaide,Martin,Female,69,651-6936-85,Senior Secondary,Production Engineer,Married,4,Delhi,OBC,1,0,1,1,0,1,1,0,1,0,1,1,1,0,0,0,1,0,0,0,0,1,0,0,1,1,1,1,0
+Rubie,Barnes,Female,66,169-3178-28,Secondary,Doctor,Married,4,Mumbai,Prefer Not to say,0,1,0,0,1,1,0,1,0,0,0,0,0,1,1,1,1,0,1,0,1,1,1,1,0,1,1,0,0
+Steven,Campbell,Male,62,051-3990-91,Senior Secondary,Pharmacist,Single,5,Delhi,OBC,1,1,0,1,0,0,0,1,0,1,0,1,1,1,1,1,0,1,1,0,0,1,0,0,0,1,1,0,1
+Leonardo,Ross,Male,62,873-7640-75,Senior Secondary,Accountant,Married,3,Kochi,Prefer Not to say,1,1,1,1,1,1,1,1,0,0,1,1,0,0,1,1,0,0,0,1,1,0,0,1,0,0,1,1,0
+Julian,Thompson,Male,68,953-6517-66,Post graduation,Doctor,Single,1,Patna,General,0,0,0,1,1,1,0,0,1,1,0,0,0,0,1,1,1,1,1,0,1,1,1,0,0,1,0,1,1
+James,Kelly,Male,62,269-1542-61,Primary,Architect,Single,3,Delhi,General,1,0,0,1,0,0,1,0,0,1,1,1,1,1,1,0,1,0,0,1,1,0,1,1,1,1,1,1,0
+Garry,Hunt,Male,63,426-0854-51,Senior Secondary,Lawyer,Single,5,Kochi,NT/DNT,0,0,0,1,1,0,0,0,1,1,0,0,0,1,1,0,1,0,0,0,1,0,0,1,1,0,0,0,1
+Jessica,Gibson,Female,69,219-4649-37,Graduation,Software Developer,Married,1,Delhi,SC,0,1,0,1,0,1,1,0,0,0,0,1,1,0,1,1,1,1,1,0,0,1,1,1,1,1,1,0,1
+Edgar,Sullivan,Male,65,857-5349-70,Illiterate,Civil Engineer,Single,5,Patna,OBC,1,1,1,0,0,0,1,0,1,1,0,0,1,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,1
+Jacob,Craig,Male,67,624-0251-27,Secondary,Mechanic,Married,0,Mumbai,General,1,1,0,0,1,1,0,1,0,0,0,1,1,0,1,1,0,1,0,0,1,0,0,0,0,0,1,1,1
+Evelyn,Wright,Female,67,453-5313-97,Illiterate,Police,Married,4,Delhi,OBC,0,1,1,1,0,0,1,0,1,1,1,1,0,1,0,0,0,1,1,0,1,0,1,0,1,0,0,1,1
+Owen,Hall,Male,66,349-3996-78,Primary,Plumber,Single,4,Hyderabad,Prefer Not to say,0,1,1,0,0,0,0,0,0,1,0,1,0,0,1,1,1,0,1,1,1,0,0,0,0,0,0,0,1
+Julia,Henderson,Female,63,518-0326-02,Senior Secondary,Teaching faculty,Single,4,Mumbai,Prefer Not to say,0,0,0,0,0,0,0,1,0,0,1,1,1,0,1,0,1,0,0,0,1,0,1,0,0,1,1,1,1
+Eddy,Barnes,Male,67,214-8433-27,Senior Secondary,Architect,Married,4,Raipur,Prefer Not to say,0,0,0,0,1,0,1,0,0,0,1,1,1,0,1,0,1,1,0,0,1,0,0,0,0,1,0,1,0
+Aston,Farrell,Male,64,362-5037-03,Primary,Data Analyst,Married,3,Kochi,OBC,0,0,1,0,0,0,0,0,1,0,0,1,1,1,0,1,0,0,0,0,1,0,0,0,0,1,1,1,0
+Walter,Miller,Male,69,332-6019-40,Illiterate,Software Developer,Married,1,Chennai,Prefer Not to say,0,1,1,0,1,0,0,0,1,1,0,1,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,1,1
+Walter,Anderson,Male,66,800-3544-46,Illiterate,Lawyer,Single,4,Delhi,SC,1,0,1,1,0,0,1,0,1,0,1,1,1,1,1,1,0,0,0,0,0,0,1,0,0,1,1,0,0
+Elise,Riley,Female,62,847-6251-68,Senior Secondary,Accountant,Single,2,Lucknow,SC,1,1,1,1,0,0,0,0,0,1,1,0,1,1,0,1,0,0,1,1,1,0,0,1,0,0,0,1,1
+Chester,Gibson,Male,62,343-8062-57,Primary,Civil Engineer,Single,3,Lucknow,Prefer Not to say,1,0,1,0,1,0,1,0,1,0,0,0,0,1,1,1,0,0,1,0,1,1,1,1,1,1,0,1,1
+Lana,Parker,Female,67,363-5646-71,Senior Secondary,Architect,Married,3,Hyderabad,General,0,1,1,0,1,1,0,0,1,0,1,1,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,1,1
+Brad,Hill,Male,66,829-2044-92,Graduation,Pharmacist,Single,2,Delhi,Prefer Not to say,1,0,0,0,0,0,0,1,1,1,1,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0
+Lydia,Gibson,Female,60,984-1333-82,Post graduation,Production Engineer,Single,5,Mumbai,NT/DNT,1,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,1,0,1,1,1,0,1,1
+Penelope,Montgomery,Female,60,753-3277-73,Senior Secondary,Production Engineer,Married,5,Lucknow,General,1,1,1,0,0,1,1,0,0,1,1,0,1,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,1
+William,Armstrong,Male,62,240-2751-93,Post graduation,Software Developer,Married,3,Delhi,SC,1,0,0,0,1,0,1,1,0,1,1,1,1,0,1,1,0,1,0,1,0,0,0,1,1,0,1,0,1
+Violet,Hawkins,Female,61,136-5149-49,Primary,Accountant,Single,4,Patna,General,0,0,0,0,1,1,0,1,1,0,0,0,1,1,1,0,0,1,1,1,1,0,1,1,1,0,0,0,0
+Tess,Mason,Female,68,891-3594-16,Senior Secondary,Plumber,Single,1,Mumbai,General,1,0,1,1,0,1,0,0,1,1,0,0,1,1,1,0,0,0,1,1,1,0,0,1,1,0,0,0,0
+Florrie,Dixon,Female,61,953-9523-58,Post graduation,Plumber,Married,3,Kochi,NT/DNT,0,0,1,0,0,1,0,0,0,1,1,0,0,1,0,1,1,1,0,1,1,0,1,0,0,1,0,0,1
+Sawyer,Campbell,Male,65,002-1296-23,Graduation,Software Developer,Married,3,Kolkata,NT/DNT,1,1,1,0,0,1,0,0,1,1,0,1,0,1,1,1,0,1,1,1,0,0,0,0,1,1,1,0,1
+Adam,Crawford,Male,62,286-2565-46,Senior Secondary,Architect,Married,3,Hyderabad,ST,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,1,0,0,1,0,1,0,0,1,1,0,0
+Chester,Lloyd,Male,64,565-0859-67,Post graduation,Plumber,Single,1,Kochi,Prefer Not to say,0,1,0,1,0,0,0,0,1,0,1,0,1,1,0,1,1,0,0,0,1,1,0,1,1,0,0,1,0
+Mike,Wilson,Male,63,397-5262-43,Graduation,Teaching faculty,Single,0,Mumbai,ST,1,0,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0,1,1,0,0,1,0,1,1,1,1,0,1
+Kelvin,Harris,Male,64,787-7768-41,Illiterate,Pharmacist,Single,5,Mumbai,SC,1,0,1,0,0,0,0,1,0,0,1,1,1,1,1,1,0,0,0,1,1,0,1,0,1,0,0,1,1
+Connie,Adams,Female,60,837-9334-99,Secondary,Teaching faculty,Single,0,Hyderabad,ST,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,1
+Alexia,Ross,Female,67,717-1063-44,Senior Secondary,Civil Engineer,Single,5,Raipur,SC,0,0,0,1,0,0,1,0,0,0,1,0,1,1,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0
+Cherry,Holmes,Female,69,519-6330-45,Illiterate,Production Engineer,Married,2,Raipur,Prefer Not to say,0,0,1,1,1,1,0,1,0,0,1,1,1,1,0,0,0,0,0,1,0,0,1,0,1,0,1,1,0
+Catherine,Evans,Female,66,014-1224-78,Secondary,Architect,Single,1,Kochi,General,0,1,0,1,0,0,1,1,0,1,0,0,1,1,1,1,1,0,0,1,1,1,1,0,0,0,0,1,0
+Jack,Phillips,Male,69,511-5737-40,Graduation,Plumber,Single,5,Lucknow,OBC,0,1,0,0,0,0,1,1,1,0,1,0,1,0,1,0,1,1,0,1,0,0,0,0,1,1,0,1,0
+Belinda,Cooper,Female,63,463-4850-12,Post graduation,Accountant,Single,4,Hyderabad,OBC,0,1,0,0,0,1,1,1,1,1,1,0,1,0,1,1,0,0,1,0,0,1,1,1,1,1,1,0,0
+Maria,Cole,Female,67,282-2194-62,Secondary,Data Analyst,Married,4,Kochi,OBC,1,0,1,1,0,1,0,1,1,0,1,0,1,1,0,0,0,1,0,0,1,0,0,1,0,1,1,0,1
+Florrie,Thomas,Female,70,054-3958-25,Senior Secondary,Civil Engineer,Married,0,Mumbai,SC,1,1,0,0,1,1,1,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,1,0
+Emily,Jones,Female,69,782-7749-94,Primary,Data Analyst,Single,2,Kochi,SC,0,1,1,0,1,1,0,0,1,0,1,0,1,0,1,0,0,0,0,1,1,1,0,0,1,0,1,0,0
+Camila,Armstrong,Female,66,499-1256-79,Primary,Lawyer,Single,4,Hyderabad,ST,0,1,1,1,1,0,1,0,1,1,1,0,0,1,1,0,0,1,0,1,0,1,1,0,1,0,1,1,1
+Jack,Farrell,Male,60,386-6317-30,Secondary,Mechanic,Single,1,Raipur,OBC,0,1,0,0,1,0,0,1,0,0,0,0,1,1,0,1,0,1,1,0,0,1,1,1,1,0,1,1,0
+Rafael,Fowler,Male,67,734-7879-99,Graduation,Business,Married,4,Patna,NT/DNT,0,1,0,0,1,0,0,0,0,1,0,1,1,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1
+Aiden,Morrison,Male,60,788-9363-87,Illiterate,Lawyer,Single,1,Kolkata,ST,1,0,0,1,1,1,1,1,1,1,1,1,0,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,0
+Alberta,Stewart,Female,67,312-8805-57,Illiterate,Doctor,Married,5,Raipur,NT/DNT,0,1,1,1,0,0,0,0,0,1,0,0,1,0,0,1,1,1,0,0,1,0,0,0,0,1,0,0,1
+Charlie,Douglas,Male,64,053-4933-45,Primary,Plumber,Married,5,Kolkata,ST,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,1,1,0,1,0,0,1,0,1,0,0,0,0
+James,Perkins,Male,64,225-4012-98,Primary,Business,Married,2,Raipur,OBC,1,1,0,0,1,1,1,0,0,1,0,1,0,0,1,1,1,0,1,0,1,1,1,1,0,1,0,0,0
+Rubie,Reed,Female,62,933-6508-84,Senior Secondary,Police,Married,1,Patna,General,1,0,1,0,1,0,1,0,0,0,1,1,1,1,1,0,1,1,1,1,0,1,0,0,0,1,1,0,1
+Dexter,Kelley,Male,63,311-4207-07,Senior Secondary,Police,Single,2,Lucknow,General,0,0,0,0,1,1,1,1,1,0,1,0,1,0,1,0,0,0,0,1,0,1,0,0,1,1,1,0,1
+Jack,Holmes,Male,68,872-5609-21,Primary,Lawyer,Single,0,Kolkata,ST,0,0,0,1,1,0,0,1,1,1,0,1,1,0,1,1,1,0,1,1,0,0,0,1,0,0,1,0,0
+Nicole,Sullivan,Female,67,966-7167-48,Illiterate,Software Developer,Single,1,Bangalore,SC,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,1
+Rafael,Martin,Male,60,166-5548-48,Graduation,Lawyer,Single,5,Kochi,SC,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,1,1,1,1,0,1,0,0,0
+Mary,Reed,Female,66,207-3105-81,Secondary,Software Developer,Married,1,Kolkata,ST,0,1,0,1,0,1,1,0,1,1,1,0,0,0,0,0,0,0,1,1,1,0,1,1,1,0,0,0,0
+Miller,Hall,Male,69,162-5540-66,Graduation,Business,Married,2,Hyderabad,General,1,0,1,1,1,1,1,0,0,0,1,0,0,1,1,1,1,1,1,0,0,0,1,0,1,0,0,0,0
+Garry,Grant,Male,69,707-5952-13,Post graduation,Civil Engineer,Single,1,Delhi,NT/DNT,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1
+Kirsten,Morrison,Female,66,296-0475-56,Post graduation,Business,Married,4,Raipur,NT/DNT,1,1,0,1,1,0,1,1,0,0,0,1,1,1,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0
+Tess,Baker,Female,62,362-0135-88,Senior Secondary,Police,Single,5,Bangalore,SC,1,1,1,1,0,1,0,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,0,1,0
+Amelia,Ross,Female,68,183-4724-81,Senior Secondary,Mechanic,Married,0,Hyderabad,General,1,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,1,0,0,0,0,1
+Sophia,Parker,Female,68,903-8761-02,Primary,Mechanic,Single,4,Kochi,NT/DNT,1,0,1,0,0,1,0,0,1,0,1,1,1,0,0,1,0,0,1,1,0,1,0,1,0,1,0,1,1
+Ada,Richardson,Female,60,000-8944-28,Senior Secondary,Accountant,Single,0,Delhi,OBC,1,0,1,1,0,0,1,1,1,0,0,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,1
+Evelyn,Harper,Female,63,213-2173-00,Primary,Business,Single,1,Chennai,ST,1,1,1,0,1,0,1,1,0,0,1,1,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,1
+Albert,Murphy,Male,68,762-3564-61,Post graduation,Business,Married,2,Kochi,NT/DNT,1,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,1,1,1,1,0,0,0,0,1,1,0,0
+Sienna,Mitchell,Female,63,953-5428-40,Senior Secondary,Business,Married,1,Raipur,OBC,0,0,0,1,0,1,0,1,0,0,1,0,0,1,0,1,1,1,0,1,0,0,1,1,1,1,1,0,0
+Oliver,Murray,Male,64,673-4388-91,Secondary,Plumber,Single,1,Kochi,Prefer Not to say,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1
+Brianna,Murray,Female,70,095-3391-87,Graduation,Data Analyst,Married,0,Bangalore,SC,1,0,1,1,1,0,0,1,1,0,1,1,0,0,0,1,1,1,0,0,1,0,0,1,0,1,0,0,1
+Olivia,Chapman,Female,70,616-9367-78,Secondary,Data Analyst,Married,3,Raipur,ST,1,0,0,0,1,0,1,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,1,0,1,1,0,0
+Derek,Harper,Male,68,597-4019-17,Post graduation,Lawyer,Single,0,Raipur,Prefer Not to say,1,0,0,0,0,0,1,1,0,0,1,1,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,1,1
+Justin,Thomas,Male,68,296-4065-89,Senior Secondary,Lawyer,Married,4,Mumbai,ST,0,0,0,1,0,0,1,1,0,1,0,1,1,1,1,1,0,1,0,0,1,1,1,1,0,1,1,0,0
+Luke,Davis,Male,69,381-4106-17,Secondary,Teaching faculty,Married,0,Kolkata,SC,0,0,0,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,1,1,1,1,0
+Kevin,Lloyd,Male,70,136-9253-19,Post graduation,Lawyer,Single,5,Bangalore,SC,0,0,1,1,0,0,0,0,1,0,0,1,0,1,1,0,1,1,1,0,0,0,1,1,1,0,1,1,0
+Violet,Andrews,Female,68,717-1082-65,Senior Secondary,Mechanic,Single,1,Kolkata,OBC,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,1,1,1,1,1,1,1,1,0,0,1
+Charlie,Miller,Male,66,114-3926-44,Post graduation,Mechanic,Single,4,Lucknow,OBC,1,1,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,1,1,0,1,0,1,0,0,0,0,1,1
+Jordan,Craig,Male,69,787-7362-97,Post graduation,Pharmacist,Married,1,Raipur,SC,1,1,1,1,0,1,0,1,0,0,1,1,0,1,1,1,0,0,0,1,0,1,1,0,0,0,0,0,0
+Dale,Hall,Male,68,850-7671-69,Illiterate,Business,Married,4,Kochi,NT/DNT,0,1,0,1,0,0,1,1,1,0,0,1,0,1,0,0,1,1,0,1,0,1,0,0,0,0,1,0,0
+Paige,Harrison,Female,63,445-3225-45,Illiterate,Data Analyst,Married,3,Kochi,Prefer Not to say,1,1,1,0,1,0,0,0,1,0,1,1,1,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+James,Tucker,Male,61,745-9629-32,Post graduation,Production Engineer,Married,0,Raipur,NT/DNT,1,1,0,1,1,1,1,0,1,0,0,1,1,0,1,0,1,0,1,0,0,0,1,0,0,1,0,1,1
+Clark,Morgan,Male,68,940-2609-39,Graduation,Clerk,Single,2,Mumbai,General,1,0,1,0,1,0,0,1,0,1,1,1,0,1,1,0,0,0,1,0,1,0,1,0,0,0,0,1,1
+Connie,Harrison,Female,66,288-6110-23,Secondary,Doctor,Single,1,Lucknow,SC,0,0,0,0,0,1,1,0,0,0,0,1,0,1,1,0,1,0,0,0,1,0,1,1,1,1,1,1,0
+Grace,Alexander,Female,67,737-7976-52,Primary,Data Analyst,Single,3,Kochi,Prefer Not to say,1,1,0,1,0,1,0,0,1,0,0,1,1,1,1,1,0,0,1,0,0,1,0,1,1,1,0,1,0
+Gianna,Robinson,Female,61,987-6887-95,Graduation,Pharmacist,Married,3,Patna,NT/DNT,0,1,1,1,0,0,1,1,0,1,1,1,1,1,0,1,0,1,1,1,1,0,0,0,0,0,0,1,0
+Kristian,Clark,Male,63,143-2095-78,Post graduation,Lawyer,Married,5,Patna,NT/DNT,0,0,1,0,1,0,1,1,1,1,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,1,1,1
+Brad,Mason,Male,69,896-3682-19,Post graduation,Clerk,Married,2,Kolkata,General,1,0,1,0,0,0,1,0,0,0,0,1,0,0,1,1,0,1,1,1,1,0,1,0,1,0,1,1,0
+Kelvin,Cameron,Male,65,589-3355-41,Secondary,Architect,Married,5,Chennai,NT/DNT,1,0,0,1,0,1,0,0,1,0,0,1,0,0,0,1,0,1,1,1,1,1,1,0,1,1,0,0,0
+Connie,Armstrong,Female,60,641-2259-57,Secondary,Architect,Single,2,Kochi,NT/DNT,1,1,0,0,0,0,1,0,0,1,1,0,0,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,0
+Alen,Fowler,Male,68,971-0070-05,Secondary,Architect,Single,3,Hyderabad,SC,1,1,0,1,1,0,1,0,1,0,1,1,0,1,1,1,0,0,0,1,1,1,0,0,0,0,1,1,1
+Kirsten,Williams,Female,64,975-0623-14,Senior Secondary,Mechanic,Married,4,Patna,Prefer Not to say,1,0,1,1,0,0,1,0,1,0,0,1,1,0,1,0,1,0,1,0,0,1,1,0,1,1,0,0,1
+Ned,Fowler,Male,64,655-7483-29,Secondary,Mechanic,Married,1,Delhi,SC,1,1,1,0,0,0,1,0,0,0,1,1,1,0,1,0,1,1,0,1,1,1,1,1,0,1,1,1,1
+Annabella,Dixon,Female,68,469-8700-34,Senior Secondary,Mechanic,Married,1,Bangalore,NT/DNT,1,1,0,1,1,0,0,0,1,0,1,0,0,0,1,1,1,1,1,0,1,1,0,0,0,0,1,0,1
+April,Hunt,Female,67,995-3510-32,Post graduation,Architect,Married,3,Raipur,SC,0,0,0,1,0,0,1,1,0,0,1,0,1,0,0,0,1,0,0,1,1,1,1,1,1,1,0,1,0
+Adele,Davis,Female,63,169-1560-93,Illiterate,Data Analyst,Married,0,Lucknow,Prefer Not to say,0,0,0,1,1,0,1,1,0,0,1,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,1,1,1
+Amber,Payne,Female,67,111-4582-65,Senior Secondary,Data Analyst,Single,0,Patna,General,1,1,0,1,0,0,0,1,0,1,1,0,0,1,0,1,1,1,0,1,0,0,1,1,0,0,1,0,1
+Hailey,Brooks,Female,68,558-9648-83,Illiterate,Software Developer,Married,2,Hyderabad,SC,0,1,1,1,1,0,0,0,0,0,1,1,1,1,0,1,1,1,0,1,0,0,0,1,0,1,1,1,0
+Daryl,Nelson,Male,66,980-3167-59,Post graduation,Production Engineer,Married,4,Kolkata,NT/DNT,1,1,1,1,1,0,0,1,0,1,0,1,0,0,1,0,1,1,1,1,0,0,1,1,1,0,0,1,0
+Luke,Morgan,Male,69,680-1592-48,Primary,Doctor,Married,4,Raipur,Prefer Not to say,0,1,1,1,1,0,1,0,1,0,0,0,0,1,0,0,1,0,0,1,0,0,1,0,1,0,0,0,0
+Adrian,Hawkins,Male,64,946-4085-54,Primary,Pharmacist,Married,1,Raipur,NT/DNT,1,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1
+Hailey,Moore,Female,66,245-3857-83,Graduation,Clerk,Married,0,Kolkata,OBC,1,1,0,0,1,1,0,1,0,1,1,0,0,1,0,1,1,0,1,0,1,1,1,0,0,1,0,0,1
+Abraham,Howard,Male,63,903-1718-56,Primary,Data Analyst,Married,3,Hyderabad,General,1,0,0,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,0,1,1,0,1,1,1
+Sawyer,Harrison,Male,68,010-6624-00,Primary,Lawyer,Married,3,Bangalore,SC,0,1,0,1,0,1,1,0,1,1,0,0,1,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,1
+Kimberly,Foster,Female,68,884-1772-15,Graduation,Pharmacist,Married,4,Kochi,OBC,1,0,1,0,0,0,1,1,0,1,1,1,0,1,1,0,0,0,1,0,0,1,0,0,1,0,1,0,0
+Savana,Tucker,Female,70,175-6776-57,Primary,Clerk,Married,3,Bangalore,OBC,0,1,1,0,0,1,0,0,1,1,1,1,1,0,0,0,0,1,0,1,0,0,0,0,1,1,1,1,1
+Spike,Dixon,Male,64,371-8403-53,Post graduation,Software Developer,Married,2,Patna,ST,0,1,0,1,1,0,0,0,1,1,1,0,1,0,0,0,1,0,1,0,0,1,1,1,0,1,1,1,0
+Grace,Montgomery,Female,66,468-7425-30,Primary,Data Analyst,Married,0,Raipur,ST,0,1,1,1,0,1,1,0,1,1,0,0,1,0,1,1,0,1,0,1,1,1,1,0,1,0,1,1,0
+April,Bailey,Female,60,154-4257-22,Secondary,Mechanic,Married,0,Lucknow,NT/DNT,1,0,1,1,1,1,1,0,1,1,1,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,1
+Albert,Stewart,Male,62,710-8388-23,Post graduation,Civil Engineer,Single,3,Kolkata,NT/DNT,1,0,1,1,1,0,0,1,1,0,1,0,1,1,0,0,0,0,1,0,1,0,0,0,1,0,1,1,1
+Dexter,Allen,Male,67,617-3110-29,Secondary,Doctor,Single,2,Raipur,NT/DNT,1,0,1,0,1,1,1,1,0,1,1,1,0,0,1,0,1,0,1,1,1,1,0,0,1,1,0,0,0
+Sabrina,Alexander,Female,65,357-5812-04,Graduation,Pharmacist,Married,1,Mumbai,OBC,1,1,1,0,0,1,1,1,0,1,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,1,1,0,0
+Sofia,Kelley,Female,62,354-5450-56,Post graduation,Plumber,Married,4,Kochi,ST,0,0,1,0,1,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0
+Sofia,Barnes,Female,67,174-7580-54,Secondary,Teaching faculty,Single,4,Patna,Prefer Not to say,0,1,0,0,0,1,1,1,0,1,1,0,1,0,1,0,1,0,1,0,0,0,0,1,1,1,1,0,0
+Lydia,Ross,Female,63,819-2114-07,Illiterate,Data Analyst,Married,4,Chennai,General,0,0,1,1,1,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,1,1,1,1,1,1,1
+Vincent,Tucker,Male,60,725-8166-48,Secondary,Accountant,Single,3,Bangalore,OBC,1,0,0,1,1,1,0,0,0,0,1,1,1,1,0,1,0,1,0,0,0,1,0,1,1,1,0,1,1
+Owen,Kelley,Male,63,369-0692-31,Primary,Plumber,Single,5,Patna,Prefer Not to say,0,1,1,0,1,0,1,1,1,0,1,1,1,0,0,0,1,1,1,1,0,0,1,1,0,0,1,0,0
+Sarah,Henderson,Female,63,773-0871-03,Primary,Architect,Married,2,Bangalore,SC,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,1,0,0,1
+Reid,Foster,Male,60,674-4090-03,Illiterate,Production Engineer,Single,3,Chennai,Prefer Not to say,0,0,1,0,0,1,0,0,0,0,1,1,1,1,0,1,0,0,1,0,1,1,0,1,0,1,0,1,1
+Elian,Kelly,Male,64,055-9442-64,Secondary,Civil Engineer,Married,2,Bangalore,OBC,0,0,1,1,0,0,1,0,1,1,1,1,0,1,0,0,1,1,1,0,0,1,1,1,0,0,0,1,1
+Steven,Anderson,Male,60,154-9742-59,Secondary,Teaching faculty,Single,3,Chennai,General,0,0,1,0,0,0,0,1,0,1,1,1,0,1,0,1,1,1,0,0,0,0,1,0,0,1,0,1,1
+Amelia,Martin,Female,68,303-5622-13,Post graduation,Accountant,Single,3,Hyderabad,Prefer Not to say,0,1,1,0,0,0,0,1,0,1,0,1,0,1,1,0,1,1,0,0,1,0,0,1,1,1,0,1,1
+Frederick,Watson,Male,66,186-5913-04,Senior Secondary,Business,Married,2,Hyderabad,NT/DNT,1,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,0,0,0
+Alen,Hunt,Male,69,906-4949-66,Secondary,Data Analyst,Single,5,Kochi,OBC,1,0,1,0,1,1,0,1,1,1,0,1,0,1,0,0,0,1,0,0,0,1,0,1,0,0,1,1,0
+Cherry,Kelly,Female,60,463-6451-41,Illiterate,Teaching faculty,Single,1,Patna,NT/DNT,0,0,1,0,1,0,1,0,0,1,0,1,1,0,0,0,1,0,1,0,1,1,1,0,1,1,0,0,0
+Marcus,Douglas,Male,61,850-1850-85,Primary,Software Developer,Married,3,Patna,ST,1,0,1,1,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+Stella,Miller,Female,62,781-5331-26,Post graduation,Data Analyst,Single,0,Hyderabad,General,0,1,1,1,1,1,0,0,1,0,0,0,1,0,1,1,0,0,0,1,1,1,1,0,1,0,1,0,1
+Aida,Evans,Female,64,288-8227-15,Senior Secondary,Data Analyst,Single,3,Raipur,ST,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,1,0,0,0,0,0,1,1,1,1,0,1,0
+Tony,Murphy,Male,70,917-8570-05,Primary,Police,Married,2,Hyderabad,NT/DNT,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,1
+Robert,Grant,Male,70,967-0786-84,Senior Secondary,Clerk,Married,5,Chennai,OBC,1,0,0,1,1,1,1,1,1,1,0,1,0,0,1,0,1,0,0,0,1,0,1,1,0,1,1,1,1
+Jenna,Hall,Female,78,056-7815-75,Secondary,Doctor,Married,4,Delhi,SC,0,0,0,1,1,0,1,0,1,0,1,0,0,1,0,0,1,0,0,0,1,0,1,1,1,1,0,1,0
+Byron,Douglas,Male,80,752-1163-28,Senior Secondary,Plumber,Married,0,Chennai,Prefer Not to say,0,1,1,0,0,1,0,1,0,0,1,0,0,0,0,1,1,1,0,0,1,1,0,1,1,1,1,1,1
+Cadie,Higgins,Female,80,584-4498-43,Primary,Data Analyst,Married,0,Bangalore,SC,0,0,1,0,1,0,0,0,1,0,1,0,0,1,1,0,1,0,0,1,1,1,1,0,1,1,0,1,1
+Justin,Stevens,Male,78,516-7728-33,Primary,Mechanic,Single,0,Hyderabad,OBC,1,1,1,0,1,0,0,1,0,1,1,0,1,1,1,0,0,1,0,0,1,0,1,1,0,0,1,0,0
+Marcus,Gibson,Male,74,722-4133-72,Senior Secondary,Mechanic,Married,0,Chennai,OBC,1,0,1,1,1,0,1,0,1,0,1,0,1,1,0,0,0,1,0,0,1,0,1,1,1,0,0,1,0
+Michael,Hunt,Male,80,717-3839-64,Graduation,Production Engineer,Single,4,Bangalore,NT/DNT,0,1,0,1,1,1,0,1,0,1,0,1,0,1,1,0,1,0,0,0,0,1,0,1,0,1,1,0,1
+Tess,Johnson,Female,71,440-6189-19,Secondary,Production Engineer,Married,5,Hyderabad,General,1,1,0,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,1,0,0,0,0,0,1,1,1,1
+Samantha,Murray,Female,75,593-2128-24,Graduation,Software Developer,Married,2,Mumbai,NT/DNT,1,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,1,1,0,0,1,1
+Adison,Murray,Male,73,427-6992-53,Secondary,Police,Single,4,Patna,SC,0,0,0,0,1,0,1,0,1,1,0,1,1,1,0,0,1,0,1,0,1,1,0,0,1,1,0,0,0
+Ellia,Taylor,Female,72,431-0733-57,Post graduation,Business,Married,2,Kochi,ST,0,1,1,1,1,0,1,1,1,0,0,0,0,1,0,1,1,1,0,1,0,0,1,0,1,0,1,0,1
+Garry,Henderson,Male,71,561-4685-67,Senior Secondary,Accountant,Married,4,Lucknow,ST,0,0,0,0,0,1,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,1,1,0,1
+Richard,Myers,Male,78,837-4112-60,Secondary,Accountant,Married,5,Delhi,SC,1,1,1,1,1,0,0,0,1,0,1,0,0,1,0,0,0,1,1,1,0,0,1,0,1,0,0,1,0
+Rosie,Cunningham,Female,80,949-3758-38,Senior Secondary,Software Developer,Single,4,Hyderabad,ST,0,0,0,0,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,0,0,1,1,0
+Adrian,Murray,Male,76,642-2319-94,Secondary,Doctor,Single,3,Kochi,OBC,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,1,0,1,1,0,1,1,1,0,0,1,1,0
+Catherine,Brown,Female,71,715-3874-55,Graduation,Mechanic,Single,3,Kochi,OBC,1,1,0,0,1,1,1,0,1,0,0,1,0,1,1,1,1,1,0,1,1,0,1,1,0,0,0,0,1
+Vivian,Howard,Female,70,533-4478-36,Post graduation,Civil Engineer,Married,0,Patna,General,0,0,1,1,0,0,0,1,1,0,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,1,1
+Tony,Owens,Male,74,702-6029-55,Primary,Pharmacist,Single,2,Kolkata,SC,0,1,1,1,1,1,0,0,0,1,1,1,0,0,0,1,1,1,0,0,1,1,0,0,1,1,1,0,1
+Oliver,Reed,Male,74,087-6405-14,Illiterate,Civil Engineer,Single,0,Bangalore,NT/DNT,1,1,0,1,0,0,0,1,0,1,0,1,0,0,1,0,1,1,1,1,1,0,0,0,0,1,0,0,0
+Adelaide,Myers,Female,75,027-9850-34,Illiterate,Architect,Single,4,Patna,ST,0,1,0,0,1,1,1,0,0,0,0,1,1,1,0,1,1,0,1,0,0,1,0,0,1,0,0,1,1
+Eleanor,Jones,Female,77,337-6679-73,Primary,Accountant,Single,5,Bangalore,SC,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,1,1,1,0,0,1,1,1,0,0,0,0
+Luke,Evans,Male,73,888-7365-80,Graduation,Business,Married,5,Delhi,General,0,1,1,0,0,1,1,0,1,0,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,0,0,1,0
+Owen,Mason,Male,74,977-1380-10,Post graduation,Production Engineer,Married,0,Kochi,Prefer Not to say,0,0,1,0,1,0,0,0,1,0,1,1,0,1,0,0,0,0,0,1,0,1,1,1,1,0,1,0,0
+Savana,Foster,Female,70,423-0980-71,Graduation,Accountant,Married,5,Patna,SC,1,0,1,1,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,1,0,0
+Arthur,Phillips,Male,74,482-1428-54,Graduation,Plumber,Married,4,Kolkata,SC,0,1,1,1,0,0,0,1,1,1,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,1,0,0,0
+Reid,Watson,Male,73,840-5298-75,Post graduation,Civil Engineer,Married,3,Delhi,SC,1,0,0,1,1,1,1,0,0,0,0,1,1,0,1,1,1,1,1,1,1,1,1,0,0,1,0,0,1
+Sawyer,Harris,Male,71,612-9397-73,Illiterate,Lawyer,Single,3,Kochi,General,0,1,1,0,0,0,0,1,1,0,0,1,1,1,1,1,0,0,0,0,1,0,1,0,0,0,1,0,1
+Ada,Payne,Female,72,728-5092-33,Graduation,Pharmacist,Married,3,Kochi,NT/DNT,0,0,1,1,1,1,0,1,0,0,0,0,1,1,1,1,0,1,0,0,1,1,0,1,1,1,1,0,0
+Sophia,Stewart,Female,78,218-3478-76,Primary,Pharmacist,Married,2,Chennai,OBC,0,1,0,1,0,0,1,1,1,0,1,1,1,1,0,1,1,0,1,0,0,0,1,1,1,0,1,0,0
+Belinda,Scott,Female,76,929-9235-32,Primary,Clerk,Married,1,Kolkata,NT/DNT,1,1,1,1,0,0,1,0,1,0,1,1,1,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0
+Heather,Rogers,Female,80,731-9207-32,Senior Secondary,Accountant,Married,3,Hyderabad,SC,1,0,1,1,0,1,0,0,0,1,1,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,1,1,1
+Luke,Grant,Male,76,161-5792-83,Post graduation,Production Engineer,Married,5,Hyderabad,General,0,0,1,0,1,0,1,1,0,1,1,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1
+Hailey,Perry,Female,80,323-6440-88,Secondary,Plumber,Married,3,Raipur,SC,1,1,1,0,1,1,0,1,0,0,0,1,0,1,1,0,1,0,1,0,0,1,0,1,1,1,1,0,0
+Eddy,Alexander,Male,77,218-4442-99,Graduation,Teaching faculty,Married,3,Kolkata,NT/DNT,0,1,1,0,1,1,1,0,0,1,0,1,0,1,0,0,1,1,0,1,1,1,0,0,0,0,0,1,0
+Martin,Carroll,Male,70,029-2751-20,Secondary,Lawyer,Single,3,Patna,OBC,0,1,1,0,1,0,1,0,1,1,1,0,0,0,1,0,0,1,1,0,1,1,1,1,1,0,0,0,0
+Amber,Ferguson,Female,78,637-5025-56,Illiterate,Accountant,Married,5,Lucknow,ST,1,1,1,0,1,1,1,1,1,1,1,0,0,0,1,1,0,0,0,1,1,1,1,1,1,0,0,1,0
+Alen,Dixon,Male,79,070-0728-24,Senior Secondary,Architect,Married,2,Lucknow,General,0,0,0,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,1,1,1,1,1
+Jack,Brown,Male,76,578-7032-58,Secondary,Teaching faculty,Married,5,Bangalore,Prefer Not to say,1,1,0,1,1,0,1,0,1,0,0,0,0,0,0,0,1,0,1,1,0,1,1,0,0,1,1,0,1
+Melissa,Carter,Female,73,520-2781-44,Post graduation,Accountant,Married,3,Bangalore,SC,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,1,1,1,0,1,0,1,0
+Miranda,Reed,Female,76,487-3693-67,Graduation,Mechanic,Married,0,Chennai,NT/DNT,1,0,1,0,0,1,1,1,0,0,0,1,1,1,0,1,1,1,0,0,0,1,0,1,1,0,1,0,0
+Dexter,Mitchell,Male,78,583-7874-92,Primary,Business,Single,4,Hyderabad,ST,1,1,1,0,0,1,0,1,1,0,1,0,1,1,0,1,0,0,1,0,1,0,1,0,1,1,0,0,0
+Alexia,Thomas,Female,75,200-1318-89,Senior Secondary,Data Analyst,Single,2,Kochi,NT/DNT,0,0,1,0,1,1,0,1,0,0,1,0,1,0,0,1,1,0,0,0,1,0,1,1,0,1,1,1,1
+Maria,Cameron,Female,79,561-0792-84,Graduation,Teaching faculty,Single,4,Mumbai,ST,0,0,1,1,0,1,1,1,0,1,0,1,0,1,0,0,0,1,1,0,1,0,0,1,1,0,0,0,0
+Annabella,Watson,Female,79,904-4948-56,Graduation,Accountant,Married,1,Kolkata,General,0,1,1,1,0,1,0,0,1,0,0,1,0,1,1,0,1,0,1,1,1,0,0,0,1,1,0,0,1
+Kevin,Gibson,Male,73,746-5344-68,Graduation,Doctor,Married,0,Mumbai,ST,1,0,0,0,1,1,1,0,0,0,0,0,0,0,1,1,1,1,0,1,0,1,0,0,1,0,1,1,1
+Tiana,Craig,Female,74,218-0757-05,Graduation,Clerk,Married,4,Lucknow,OBC,1,0,1,0,1,1,1,1,0,1,0,0,0,0,0,1,1,1,0,1,0,1,1,1,0,1,1,0,1
+Ned,Cooper,Male,79,378-5232-66,Graduation,Software Developer,Single,1,Raipur,Prefer Not to say,1,1,1,0,0,1,1,1,1,0,0,0,1,0,1,1,1,1,1,0,1,0,1,0,1,0,1,0,0
+Alan,Myers,Male,75,086-1305-12,Senior Secondary,Doctor,Married,3,Kochi,Prefer Not to say,0,1,0,1,1,1,1,0,1,0,1,0,0,1,0,0,1,1,1,0,0,0,0,1,0,0,0,1,1
+Justin,Farrell,Male,71,669-9255-54,Illiterate,Business,Single,2,Kochi,NT/DNT,0,1,1,1,1,1,1,0,1,0,1,0,1,0,0,1,1,1,0,1,0,0,0,1,0,0,1,0,0
+Albert,Ross,Male,79,158-5043-71,Post graduation,Plumber,Married,1,Mumbai,SC,0,1,0,0,0,1,1,1,1,0,0,0,1,1,0,1,1,0,1,1,1,1,0,0,0,0,0,1,1
+Adam,Hawkins,Male,76,615-7236-78,Post graduation,Architect,Single,4,Lucknow,SC,1,0,0,0,0,0,0,1,0,1,1,0,1,1,0,1,1,1,0,0,1,1,0,1,0,1,1,1,1
+Max,Scott,Male,77,540-8058-06,Graduation,Clerk,Single,5,Patna,OBC,1,0,0,1,1,1,0,1,1,0,1,0,1,1,1,0,0,0,1,0,1,0,0,1,1,1,0,0,0
+Abigail,Murphy,Female,72,318-4001-05,Primary,Civil Engineer,Single,5,Raipur,Prefer Not to say,0,0,0,0,1,0,1,0,0,1,1,0,0,1,1,0,1,1,0,0,1,1,0,1,0,0,1,0,0
+Melissa,Murray,Female,73,906-3968-20,Senior Secondary,Accountant,Single,1,Hyderabad,ST,0,1,0,0,1,1,0,1,0,0,1,0,0,0,1,0,0,1,0,1,1,0,1,0,1,1,1,0,1
+Daniel,Carter,Male,73,578-4361-58,Illiterate,Police,Single,1,Bangalore,OBC,1,1,0,0,0,1,0,1,1,1,1,1,1,1,1,1,0,0,1,0,0,0,0,0,1,1,0,0,1
+Sawyer,Fowler,Male,74,258-8592-49,Illiterate,Pharmacist,Single,5,Mumbai,Prefer Not to say,1,0,0,1,1,0,1,0,0,1,1,1,0,0,0,1,1,0,1,0,0,1,1,0,0,0,1,1,1
+Justin,Smith,Male,79,578-5582-39,Post graduation,Data Analyst,Married,5,Patna,ST,0,0,1,0,1,1,1,0,1,1,1,0,1,0,1,0,1,1,0,0,1,0,1,1,1,1,1,1,0
+Sam,Fowler,Male,76,792-5694-10,Illiterate,Teaching faculty,Married,0,Delhi,ST,1,0,1,1,1,1,0,1,0,1,1,1,1,1,1,1,1,0,0,0,1,1,0,1,1,1,1,1,1
+Abraham,Campbell,Male,77,395-7454-43,Secondary,Civil Engineer,Married,2,Lucknow,OBC,1,0,1,1,1,0,1,0,1,1,1,1,1,1,1,0,0,1,1,1,1,1,0,1,0,0,0,0,1
+Roland,Montgomery,Male,80,378-5582-33,Graduation,Pharmacist,Married,0,Chennai,Prefer Not to say,0,0,1,1,0,1,1,0,0,0,0,1,0,1,1,0,1,1,1,1,0,0,0,0,1,0,1,0,0
+Charlie,Mason,Male,72,983-6184-18,Graduation,Plumber,Single,5,Bangalore,ST,1,1,1,0,0,1,0,1,0,1,1,1,0,1,0,0,0,1,0,1,1,1,1,0,1,1,0,0,1
+Grace,Davis,Female,78,267-8236-83,Secondary,Accountant,Married,3,Patna,SC,0,0,1,0,1,0,1,0,1,1,0,0,0,0,1,0,0,1,1,1,0,0,1,0,0,0,1,0,0
+Ada,Murphy,Female,70,797-4070-98,Primary,Civil Engineer,Married,2,Kolkata,NT/DNT,1,0,0,0,1,0,0,1,0,1,1,0,0,1,0,0,0,0,1,1,0,1,1,1,1,0,1,1,1
+Adrian,Thompson,Male,76,088-8552-56,Primary,Mechanic,Single,1,Delhi,NT/DNT,1,0,1,0,0,1,0,0,1,1,0,1,0,0,1,0,1,0,1,0,1,0,1,0,1,1,0,1,1
+Honey,Murray,Female,76,252-9319-19,Post graduation,Police,Single,0,Kochi,OBC,0,1,1,0,0,1,0,0,1,1,1,0,0,1,1,1,0,1,0,0,1,1,1,0,1,1,0,0,1
+Sarah,Martin,Female,72,649-6946-47,Illiterate,Architect,Married,2,Kolkata,SC,0,1,1,0,1,0,0,0,0,1,1,1,0,1,0,1,0,0,0,1,1,1,0,0,1,0,1,0,0
+Adrianna,Cameron,Female,70,379-3213-17,Secondary,Mechanic,Married,3,Delhi,Prefer Not to say,0,0,1,1,1,0,0,0,1,1,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,1,1,0
+Annabella,Farrell,Female,78,138-7328-26,Illiterate,Data Analyst,Married,3,Patna,Prefer Not to say,0,1,1,0,0,0,1,1,1,0,1,1,0,1,1,0,1,0,0,1,1,0,0,0,1,1,1,1,1
+Camila,Armstrong,Female,75,861-4963-84,Secondary,Software Developer,Married,5,Delhi,SC,1,0,1,1,0,1,0,1,0,1,0,0,1,1,0,0,1,0,0,0,1,0,0,1,0,1,1,0,1
+Richard,Sullivan,Male,72,423-4721-48,Illiterate,Mechanic,Married,3,Kochi,ST,0,1,1,0,0,1,0,0,1,1,0,0,0,1,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0
+Patrick,Harrison,Male,79,633-4693-61,Primary,Mechanic,Married,5,Hyderabad,NT/DNT,0,0,0,1,1,1,0,1,1,1,0,0,1,1,1,0,1,0,1,0,0,0,1,1,0,0,1,1,1
+Dainton,Sullivan,Male,78,052-5302-13,Graduation,Production Engineer,Single,3,Hyderabad,ST,0,1,1,0,0,0,1,0,1,0,0,1,1,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,1
+Daisy,Davis,Female,73,088-9316-76,Senior Secondary,Teaching faculty,Married,5,Lucknow,SC,0,0,0,1,1,1,0,0,1,0,1,1,0,0,0,1,1,1,1,0,1,0,0,1,0,1,0,0,0
+Spike,Turner,Male,71,474-5723-59,Primary,Mechanic,Single,2,Kolkata,General,0,0,1,0,1,0,1,0,1,0,1,1,0,1,1,1,0,0,0,1,1,1,0,1,0,0,1,1,1
+Adam,Brown,Male,76,422-0897-28,Illiterate,Police,Single,5,Chennai,Prefer Not to say,0,1,1,0,0,1,0,1,1,1,1,1,0,1,1,0,1,0,1,0,1,1,0,0,0,0,0,0,0
+Natalie,Harris,Female,71,741-7302-78,Secondary,Architect,Single,5,Raipur,Prefer Not to say,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,1,1,0,0,1,1,0,1
+Maya,Jones,Female,80,964-6371-05,Senior Secondary,Business,Married,4,Raipur,SC,1,1,0,0,1,1,0,0,0,1,1,0,0,0,0,0,1,0,1,0,1,0,0,1,0,0,1,0,1
+Jacob,Carter,Male,73,688-0479-39,Primary,Lawyer,Married,5,Lucknow,General,0,0,1,1,1,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,1,1,1
+Kirsten,Douglas,Female,72,694-2145-65,Illiterate,Accountant,Single,2,Chennai,NT/DNT,0,1,1,0,0,1,1,0,1,0,0,0,1,1,1,1,0,0,1,0,1,0,0,1,0,0,1,1,0
+Ryan,Scott,Male,77,810-5946-64,Senior Secondary,Software Developer,Married,2,Lucknow,NT/DNT,1,1,1,0,1,1,1,0,1,0,0,1,0,0,0,0,0,1,1,1,1,1,1,0,0,0,1,0,0
+Anna,Wilson,Female,74,383-5390-68,Illiterate,Lawyer,Married,4,Hyderabad,General,0,1,0,1,1,0,0,0,0,1,0,0,0,1,0,1,0,1,1,0,1,0,0,0,1,1,1,1,0
+Oscar,Reed,Male,78,229-6177-11,Primary,Teaching faculty,Married,4,Patna,Prefer Not to say,1,1,0,1,1,1,1,1,1,1,1,1,0,0,0,0,1,0,1,1,0,0,1,1,1,1,0,0,0
+Fiona,Hill,Female,78,707-9646-61,Illiterate,Plumber,Single,4,Patna,OBC,0,1,0,1,1,1,0,1,1,1,0,0,1,1,1,0,0,1,1,1,0,0,1,1,1,0,0,1,0
+Mike,Henderson,Male,77,624-4008-03,Secondary,Accountant,Single,2,Chennai,OBC,1,0,0,1,0,0,0,1,1,1,0,1,1,1,1,1,0,1,0,1,1,1,0,1,0,1,1,1,0
+Camila,Allen,Female,75,145-5647-96,Graduation,Production Engineer,Single,2,Chennai,SC,0,0,0,1,0,0,1,1,1,0,1,0,0,1,1,1,0,1,1,0,0,1,0,0,0,0,1,0,1
+Robert,Crawford,Male,80,706-6011-77,Post graduation,Civil Engineer,Single,4,Delhi,ST,0,0,1,0,0,1,0,1,0,0,1,0,1,0,1,1,0,0,0,1,0,0,1,0,0,0,1,1,1
+Sarah,Scott,Female,79,466-0081-49,Graduation,Architect,Married,1,Mumbai,General,0,0,0,1,1,0,0,1,0,1,1,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0
+Spike,Casey,Male,70,690-9222-90,Illiterate,Accountant,Married,2,Delhi,SC,0,0,1,0,0,0,1,0,1,1,1,1,0,0,1,1,0,1,1,0,0,1,1,1,1,1,1,1,1
+Robert,Kelley,Male,73,789-0407-21,Post graduation,Data Analyst,Married,1,Patna,Prefer Not to say,0,1,0,0,1,0,1,0,0,1,1,1,0,0,0,0,0,1,0,0,1,0,1,1,0,1,0,0,0
+Alen,Thomas,Male,72,907-4911-18,Post graduation,Data Analyst,Single,5,Lucknow,OBC,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,1,1,1,0,0,1,0,0,0,1,0,0,1
+Darcy,Scott,Female,78,058-4745-61,Secondary,Software Developer,Single,2,Mumbai,NT/DNT,0,0,0,0,1,0,1,1,0,0,0,1,0,0,1,1,1,0,0,0,1,0,1,0,0,1,1,0,0
+Kimberly,Wright,Female,79,645-3756-21,Primary,Software Developer,Married,0,Raipur,ST,0,1,1,0,0,1,0,0,0,0,0,1,1,1,1,1,0,0,0,1,1,0,0,1,0,1,1,1,1
+Walter,Mason,Male,80,550-8429-64,Graduation,Teaching faculty,Single,4,Kochi,SC,1,0,0,0,1,1,1,1,0,1,1,0,0,0,1,1,0,0,0,1,0,1,0,0,1,1,0,0,0
+Rosie,Barnes,Female,80,854-8583-61,Senior Secondary,Software Developer,Married,5,Chennai,NT/DNT,1,1,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,1,0,1,1,1,0,1,1,0,1,0,1
+Paul,Mitchell,Male,77,723-8568-80,Illiterate,Police,Single,1,Hyderabad,ST,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1
+Aida,Crawford,Female,70,383-1374-74,Post graduation,Pharmacist,Single,0,Delhi,ST,0,1,1,1,0,1,0,0,0,1,1,0,1,1,0,1,1,0,1,0,0,1,0,1,1,1,0,0,1
+Miller,Bennett,Male,75,387-0560-06,Illiterate,Plumber,Single,3,Patna,SC,0,1,1,1,1,0,1,0,0,0,0,1,0,1,1,1,0,1,1,0,0,1,0,0,1,0,0,1,1
+Kristian,Lloyd,Male,77,152-7737-21,Post graduation,Clerk,Single,1,Lucknow,SC,0,1,1,0,1,1,1,1,1,0,0,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,1
+Elian,Hill,Male,72,647-8077-63,Primary,Business,Married,5,Raipur,NT/DNT,0,1,1,1,0,1,0,0,0,1,0,1,0,0,1,0,1,0,1,1,0,0,0,1,0,0,0,1,1
+Spike,Perkins,Male,71,014-4057-67,Graduation,Business,Single,1,Raipur,Prefer Not to say,1,1,0,1,0,1,0,1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,1,0
+Chester,Ryan,Male,74,694-5943-00,Post graduation,Civil Engineer,Married,5,Mumbai,Prefer Not to say,1,1,1,1,1,1,1,0,0,0,0,0,0,1,1,1,0,1,1,1,1,0,1,1,0,1,0,1,1
+Tess,Hill,Female,72,628-5829-23,Illiterate,Software Developer,Married,0,Bangalore,NT/DNT,1,1,0,0,1,0,0,1,0,1,0,0,0,1,1,1,0,0,1,1,0,0,0,1,1,0,1,0,1
+Harold,Kelley,Male,77,491-1670-45,Primary,Data Analyst,Married,5,Bangalore,OBC,1,0,1,1,1,0,0,1,1,1,0,0,1,1,0,0,0,1,0,1,1,0,0,1,1,1,0,1,0
+Sam,Miller,Male,80,833-2376-12,Senior Secondary,Clerk,Married,0,Bangalore,General,1,0,0,1,1,0,0,0,1,1,1,0,0,1,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+Belinda,Morrison,Female,79,796-8538-56,Secondary,Police,Single,5,Patna,OBC,1,0,0,0,1,1,0,0,1,0,0,1,0,1,1,0,0,1,1,0,1,0,1,0,0,0,0,0,0
+Oscar,Roberts,Male,79,348-7581-89,Primary,Civil Engineer,Married,5,Patna,ST,0,0,1,0,1,0,0,0,1,1,1,1,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,0
+Sydney,Richardson,Female,70,043-1789-37,Post graduation,Data Analyst,Single,0,Hyderabad,General,0,1,1,0,0,1,1,0,0,0,1,1,1,0,1,0,0,0,0,1,1,0,0,1,1,1,0,0,0
+Cadie,Brooks,Female,74,547-8332-88,Secondary,Data Analyst,Single,0,Lucknow,General,1,1,0,0,0,1,0,1,1,1,0,0,1,1,0,1,1,0,1,1,0,0,1,1,1,1,0,0,0
+Sabrina,Thompson,Female,77,894-8665-74,Illiterate,Data Analyst,Married,1,Delhi,NT/DNT,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,1,1,1,1,1,0,0,0,1,0,1,1,0
+Martin,Cooper,Male,72,859-5578-76,Graduation,Teaching faculty,Single,4,Chennai,General,0,1,1,0,1,1,0,1,1,0,0,0,0,1,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1
+William,Mitchell,Male,72,257-0054-52,Graduation,Police,Married,5,Mumbai,SC,0,0,1,1,1,0,0,0,1,1,1,0,0,0,0,1,1,1,0,0,0,1,0,1,1,0,0,1,0
+Kelsey,Johnson,Female,70,221-3613-16,Post graduation,Teaching faculty,Married,0,Bangalore,ST,0,1,0,0,0,0,0,1,0,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,1,1,0,1
+Maya,Barnes,Female,78,089-6620-05,Post graduation,Police,Married,4,Delhi,ST,1,0,1,0,0,1,0,1,0,1,1,0,0,0,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0
+Antony,Barrett,Male,72,401-3313-93,Primary,Lawyer,Married,3,Hyderabad,NT/DNT,0,0,0,0,0,1,1,1,1,0,1,1,1,1,1,1,0,1,0,1,0,0,0,0,1,0,1,0,0
+Camila,Murray,Female,74,573-8147-26,Illiterate,Data Analyst,Single,3,Delhi,General,1,1,1,1,1,1,0,0,0,1,0,1,0,0,1,1,0,1,1,0,0,1,1,0,0,0,0,1,0
+Kimberly,Casey,Female,74,104-2160-75,Secondary,Data Analyst,Married,3,Chennai,General,1,0,1,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,1,1,1,1,1,0,1,1,0,0,1
+Victoria,Henderson,Female,79,747-1704-82,Post graduation,Accountant,Single,2,Lucknow,ST,0,0,0,1,0,1,1,0,0,1,1,0,1,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0
+Briony,Dixon,Female,71,945-5892-19,Graduation,Plumber,Married,0,Delhi,OBC,0,0,1,1,1,1,0,0,1,0,1,1,1,1,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0
+Garry,Holmes,Male,80,228-7373-31,Graduation,Software Developer,Single,5,Hyderabad,SC,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,1,1,1,1
+Florrie,Foster,Female,78,001-7807-20,Illiterate,Data Analyst,Married,5,Mumbai,SC,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0
+Jessica,Richardson,Female,74,941-2860-86,Illiterate,Software Developer,Married,4,Raipur,ST,1,0,0,1,0,0,1,1,1,1,1,1,1,0,1,0,0,0,0,0,0,0,1,1,0,1,1,1,1
+Miranda,Cole,Female,79,934-5681-57,Illiterate,Lawyer,Single,3,Kolkata,ST,0,1,0,1,0,1,0,1,1,1,0,0,0,0,1,1,0,0,1,0,0,1,0,1,0,0,1,0,1
+Roland,Kelley,Male,72,914-4510-87,Post graduation,Software Developer,Single,2,Chennai,Prefer Not to say,1,1,1,0,0,0,0,1,0,0,0,1,1,0,1,0,1,1,1,0,1,0,1,1,1,0,1,0,0
+Honey,Hunt,Female,79,733-4351-28,Illiterate,Architect,Single,3,Patna,NT/DNT,0,1,0,0,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0
+Kevin,Moore,Male,75,540-3659-76,Secondary,Lawyer,Single,5,Kolkata,NT/DNT,0,1,1,1,1,1,0,1,1,0,0,0,0,1,0,1,1,1,1,1,1,0,0,0,1,1,1,0,0
+Camila,Hall,Female,70,579-9370-05,Secondary,Production Engineer,Married,5,Patna,Prefer Not to say,1,0,0,1,1,0,0,1,1,0,1,0,1,0,0,0,0,1,1,1,0,1,0,1,0,1,0,0,0
+Honey,Crawford,Female,72,589-7101-92,Graduation,Police,Single,2,Lucknow,Prefer Not to say,0,1,1,1,0,1,0,1,1,1,1,0,1,1,0,1,1,1,0,1,0,0,1,1,0,0,0,0,1
+Adrian,Ross,Male,80,521-5389-63,Post graduation,Lawyer,Single,1,Mumbai,Prefer Not to say,0,1,1,0,0,0,0,0,1,0,1,1,1,1,0,0,1,0,1,0,0,1,1,0,1,0,0,0,1
+Arthur,Baker,Male,72,229-8612-16,Secondary,Data Analyst,Single,0,Hyderabad,ST,1,0,0,1,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,1,1,1
+Julian,Perkins,Male,75,539-5172-38,Senior Secondary,Teaching faculty,Single,0,Bangalore,NT/DNT,0,0,1,1,0,0,0,1,1,1,1,1,0,1,1,1,0,0,0,0,1,0,0,1,1,0,0,1,1
+Carlos,Armstrong,Male,72,530-6902-19,Senior Secondary,Pharmacist,Married,4,Bangalore,General,1,0,1,1,0,1,0,1,1,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0
+Preston,Ryan,Male,76,980-8737-67,Senior Secondary,Teaching faculty,Single,2,Mumbai,OBC,1,0,1,1,0,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,1,1,0,0,1,0,0
+James,Foster,Male,73,119-2015-74,Primary,Production Engineer,Single,3,Lucknow,General,0,0,1,1,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,1,1,0,0,0
+Frederick,Sullivan,Male,79,384-1183-48,Illiterate,Clerk,Single,4,Hyderabad,Prefer Not to say,1,0,1,1,0,0,1,0,0,1,0,1,0,1,1,1,0,0,0,0,1,1,1,0,1,0,1,1,1
+Emma,Harris,Female,80,436-5336-98,Primary,Clerk,Married,4,Delhi,Prefer Not to say,1,0,0,1,1,1,0,1,0,0,1,0,0,0,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1
+Melissa,Spencer,Female,74,441-3508-22,Secondary,Doctor,Married,1,Mumbai,ST,0,0,0,0,0,0,1,1,1,1,0,0,1,0,0,1,0,1,0,0,0,1,0,1,0,1,1,0,1
+Adele,Turner,Female,79,330-1843-56,Senior Secondary,Clerk,Single,4,Patna,General,1,0,1,1,0,1,0,1,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,1,1,1,1,1
+Paige,Harper,Female,78,439-1963-46,Secondary,Accountant,Single,0,Chennai,OBC,1,0,1,0,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,1,0,1,1,0,0
+April,Brown,Female,73,946-6105-44,Illiterate,Production Engineer,Single,2,Kolkata,OBC,0,0,1,0,1,1,1,0,0,1,1,0,0,1,0,0,0,1,1,0,1,0,1,1,0,1,0,1,1
+Luke,Mason,Male,73,636-3827-12,Primary,Police,Married,4,Kolkata,ST,1,1,1,1,0,0,0,1,0,1,0,0,1,1,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1
+Vanessa,Campbell,Female,78,960-3441-60,Secondary,Civil Engineer,Married,0,Raipur,SC,1,0,0,0,0,0,0,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0
+Dale,Foster,Male,72,475-9088-14,Graduation,Business,Single,2,Raipur,OBC,1,1,1,1,0,1,1,0,0,0,1,1,0,0,0,1,0,0,0,1,1,1,1,0,1,0,1,0,0
+Richard,Morgan,Male,73,022-6129-25,Senior Secondary,Doctor,Married,5,Raipur,General,1,0,1,0,0,1,1,0,0,0,0,1,0,0,1,0,0,1,1,1,1,0,1,0,1,0,0,1,1
+Alan,Ryan,Male,75,551-4259-94,Secondary,Plumber,Married,2,Chennai,ST,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,1,0,0,1,0
+Brianna,Alexander,Female,75,351-2717-37,Senior Secondary,Police,Married,1,Kolkata,Prefer Not to say,1,0,1,0,0,0,0,1,0,0,1,0,1,1,1,1,1,1,1,0,0,1,1,1,1,0,1,0,1
+Kelsey,Taylor,Female,74,037-0786-00,Primary,Civil Engineer,Married,5,Bangalore,NT/DNT,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,1,0,1,1,1,0,1,1,0,0,0,0
+Preston,Richardson,Male,76,551-0056-42,Senior Secondary,Clerk,Single,1,Kolkata,OBC,1,0,1,1,0,1,1,1,0,1,0,1,0,0,1,1,0,0,0,1,1,0,1,0,0,0,0,0,1
+Sam,Edwards,Male,74,453-7542-53,Senior Secondary,Civil Engineer,Married,2,Lucknow,SC,1,1,1,0,1,1,0,1,0,1,1,0,0,1,1,0,0,0,1,1,1,0,1,1,1,0,1,1,1
+Henry,Bennett,Male,78,388-5577-13,Secondary,Data Analyst,Single,0,Bangalore,OBC,0,1,1,1,0,1,0,1,1,0,0,1,0,0,0,0,1,1,1,1,0,0,1,1,0,0,0,0,1
+Sophia,Stevens,Female,78,743-9745-61,Post graduation,Plumber,Single,2,Kochi,Prefer Not to say,0,1,0,0,1,1,0,0,0,1,1,1,0,1,1,0,1,1,0,1,1,1,0,0,1,0,1,1,1
+Walter,Parker,Male,80,426-1462-24,Illiterate,Plumber,Married,1,Raipur,Prefer Not to say,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,0,1,1,1,0,0,1,1,0,0,0
+Edwin,Riley,Male,80,121-7748-77,Secondary,Mechanic,Single,5,Hyderabad,OBC,0,1,0,1,1,0,1,1,1,0,1,0,0,1,0,0,1,1,1,0,0,1,0,0,0,1,1,0,0
+Elise,Stevens,Female,76,496-3849-44,Secondary,Software Developer,Single,1,Hyderabad,OBC,0,1,0,0,0,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,1,0,0,0,0,1,0
+Valeria,Scott,Female,70,723-5316-40,Primary,Architect,Single,4,Raipur,General,0,0,1,0,0,1,1,1,1,0,1,1,0,1,0,1,1,1,1,1,1,1,0,0,0,1,0,0,0
+Edward,Williams,Male,70,364-0460-41,Senior Secondary,Police,Single,0,Mumbai,SC,0,0,1,1,0,0,0,1,0,1,1,0,1,1,0,0,0,1,1,1,0,1,0,1,1,0,1,1,1
+Anna,Adams,Female,79,525-8865-69,Illiterate,Teaching faculty,Single,5,Mumbai,General,0,1,1,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,1,0,0,0,1,1,1,0,0,0,0
+Kirsten,Henderson,Female,74,024-1609-78,Illiterate,Architect,Married,1,Delhi,NT/DNT,1,0,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,1,1,1
+Frederick,Robinson,Male,80,224-5612-40,Graduation,Mechanic,Single,5,Chennai,Prefer Not to say,0,1,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,0,1,0,1
+George,Perry,Male,77,890-2301-98,Secondary,Clerk,Single,3,Mumbai,SC,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,1,0,1,0,0,1,1,1,0,0
+Mike,Campbell,Male,74,449-2173-54,Post graduation,Plumber,Married,2,Raipur,SC,1,1,1,0,1,0,1,0,0,0,1,1,1,0,1,0,0,1,1,0,1,0,0,1,1,1,0,0,0
+Garry,Carter,Male,79,691-4450-23,Secondary,Accountant,Single,4,Delhi,NT/DNT,1,1,0,0,1,1,1,1,0,1,0,1,1,1,0,0,0,0,0,0,0,1,0,1,1,0,1,1,1
+Cadie,Hunt,Female,70,394-3177-41,Post graduation,Architect,Single,3,Raipur,SC,0,0,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,1,1,0,0,0,1,1,0,1,0,0,1
+Sabrina,Grant,Female,73,951-5329-31,Post graduation,Doctor,Married,0,Lucknow,OBC,1,1,1,1,0,0,1,0,0,1,0,1,1,0,0,0,1,0,0,1,1,0,0,0,1,1,0,1,1
+Adele,Nelson,Female,73,394-9674-53,Primary,Business,Single,0,Patna,SC,1,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0
+Penelope,Brooks,Female,73,333-4418-98,Secondary,Police,Married,2,Delhi,ST,1,1,0,1,0,0,0,1,0,0,0,1,0,1,1,0,0,0,1,0,0,0,1,0,0,1,0,1,0
+Tess,Brooks,Female,74,375-0121-48,Post graduation,Software Developer,Married,1,Kochi,SC,1,0,0,1,0,1,0,0,0,0,0,0,1,1,1,1,1,0,0,1,0,1,0,1,0,0,1,0,1
+Florrie,Russell,Female,70,740-3139-97,Post graduation,Plumber,Single,3,Mumbai,ST,0,1,1,1,0,1,1,0,0,0,1,1,0,0,1,0,0,0,0,1,1,1,1,0,0,0,1,0,0
+Cherry,Payne,Female,71,151-8570-33,Illiterate,Police,Married,2,Raipur,ST,1,0,1,1,1,1,0,0,1,1,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,1,1,0,0
+Frederick,Jones,Male,79,984-6053-23,Senior Secondary,Police,Married,1,Raipur,NT/DNT,0,1,0,1,1,0,1,1,0,0,1,1,0,1,1,1,0,0,0,0,1,1,0,1,0,1,1,0,1
+Melanie,Evans,Female,80,527-4997-17,Post graduation,Lawyer,Single,1,Chennai,General,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,1,1,0,1,1,0,0,0,1,0,0
+Amber,Myers,Female,80,357-9349-56,Senior Secondary,Police,Married,2,Kolkata,SC,1,0,1,1,1,0,0,1,1,1,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,1,0,1
+Jessica,Cameron,Female,74,600-4075-61,Graduation,Architect,Married,1,Mumbai,ST,1,0,0,1,0,1,1,0,0,1,1,0,1,1,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0
+Joyce,Harris,Female,74,081-2430-44,Secondary,Clerk,Single,4,Kochi,OBC,0,1,1,0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,0,1,1,1,0,1,0,1,0,0,1
+Oscar,Wilson,Male,74,514-2181-24,Secondary,Plumber,Single,1,Chennai,SC,0,1,1,1,1,1,1,1,0,0,1,0,0,0,1,1,1,1,1,0,1,0,0,1,0,1,0,1,0
+Lucy,Harris,Female,78,927-0660-45,Primary,Mechanic,Single,0,Kolkata,OBC,0,1,1,0,1,1,1,1,0,1,0,0,1,1,0,1,1,0,0,0,1,1,1,1,0,0,1,1,0
+Carina,Moore,Female,76,557-6662-07,Graduation,Data Analyst,Single,4,Mumbai,OBC,0,1,0,1,1,1,0,0,1,1,0,1,0,1,1,0,1,1,1,0,1,1,1,1,0,1,0,1,1
+Daisy,Morris,Female,77,642-1358-26,Post graduation,Teaching faculty,Single,0,Mumbai,NT/DNT,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,1,1,1,0,1,0,0
+Heather,Carter,Female,75,181-5010-66,Illiterate,Plumber,Single,0,Lucknow,ST,1,0,0,0,0,1,1,0,1,1,0,0,1,1,0,1,0,1,1,1,0,0,1,0,0,0,1,0,0
+Rubie,Gibson,Female,76,785-1946-80,Illiterate,Mechanic,Married,1,Delhi,SC,1,0,0,1,1,0,1,0,1,0,1,1,1,0,0,0,0,0,0,1,1,0,0,0,1,1,1,1,1
+Maya,Campbell,Female,71,940-4371-77,Senior Secondary,Accountant,Married,0,Delhi,OBC,1,1,0,0,0,1,0,1,0,0,1,1,1,0,0,0,1,1,1,0,1,1,1,1,1,1,1,0,1
+Hailey,Gray,Female,76,056-1503-98,Senior Secondary,Data Analyst,Married,3,Patna,General,0,0,1,1,0,1,1,1,0,1,1,1,0,1,0,1,1,1,1,0,0,1,0,1,1,0,1,0,1
+Kelvin,Thomas,Male,75,576-7640-27,Graduation,Mechanic,Single,1,Kochi,NT/DNT,1,1,0,0,1,1,1,0,1,0,0,1,1,1,0,1,0,1,1,1,1,1,0,1,0,1,1,0,0
+Agata,Hall,Female,79,331-7825-71,Senior Secondary,Clerk,Married,3,Mumbai,Prefer Not to say,0,0,1,0,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,0,1,1,1,1,1,0,1
+Roman,Hamilton,Male,72,090-7169-85,Illiterate,Police,Married,2,Hyderabad,ST,1,1,0,0,1,0,0,1,1,1,1,0,0,0,0,0,0,1,1,0,0,1,0,1,1,0,1,1,1
+Heather,Harper,Female,76,563-8174-31,Illiterate,Teaching faculty,Married,0,Patna,ST,0,0,1,1,1,0,1,0,0,1,1,1,0,1,1,0,0,1,1,0,1,1,0,0,1,1,0,0,1
+Jacob,Barrett,Male,77,217-0519-14,Secondary,Civil Engineer,Married,2,Kochi,ST,0,0,1,1,1,1,1,1,0,0,1,0,1,0,1,0,1,0,1,1,0,1,1,1,0,0,0,0,0
+Melanie,Ross,Female,80,234-2798-77,Graduation,Mechanic,Married,0,Kolkata,ST,0,1,1,1,1,1,0,0,1,1,0,1,1,1,1,1,0,0,1,0,1,0,1,0,1,0,1,1,0
+Sophia,Baker,Female,76,769-0422-09,Senior Secondary,Civil Engineer,Single,1,Chennai,General,1,1,1,1,0,1,1,0,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+Fiona,Martin,Female,71,058-8312-32,Senior Secondary,Clerk,Single,5,Chennai,SC,0,0,1,0,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0
+Steven,Foster,Male,72,000-1396-10,Senior Secondary,Business,Single,3,Kolkata,SC,0,0,1,1,1,1,1,0,1,0,1,0,1,0,1,1,1,0,0,1,1,1,0,1,1,1,0,1,0
+Elian,Robinson,Male,79,674-5249-16,Primary,Mechanic,Married,5,Patna,ST,1,1,1,0,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,0,0,0,1,1,1,0,0,0,1
+Thomas,Grant,Male,70,853-2313-74,Graduation,Production Engineer,Married,1,Kolkata,ST,1,1,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,1,1,1,0,1,1,1,0,1,0,0
+Belinda,Owens,Female,71,956-3618-69,Graduation,Production Engineer,Married,3,Kochi,General,1,1,1,0,1,1,0,1,1,1,0,0,1,0,1,1,0,1,1,0,1,1,0,0,1,0,1,0,1
+Frederick,Cole,Male,73,148-8024-99,Graduation,Architect,Single,0,Delhi,NT/DNT,0,0,1,0,0,0,0,0,1,0,1,0,0,1,1,0,1,0,1,1,1,0,0,0,1,1,0,0,0
+Ryan,Nelson,Male,77,433-5926-21,Illiterate,Civil Engineer,Single,4,Mumbai,SC,1,1,0,1,0,1,1,1,1,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,1,1,1
+Elise,Harris,Female,71,718-2030-45,Secondary,Lawyer,Married,3,Hyderabad,SC,1,1,1,0,0,1,0,0,1,0,0,1,1,0,1,0,0,1,1,1,1,1,0,1,0,0,0,1,0
+Tiana,Elliott,Female,74,720-6887-04,Graduation,Clerk,Married,2,Lucknow,ST,0,0,0,1,0,1,1,0,0,1,0,0,1,1,0,1,1,0,1,0,0,1,0,0,1,1,0,0,1
+Amelia,Myers,Female,80,182-2185-24,Post graduation,Architect,Married,0,Kolkata,OBC,1,0,0,0,0,0,1,0,0,1,1,1,0,0,0,1,0,0,1,1,0,1,1,1,1,1,0,0,1
+Sawyer,Watson,Male,73,167-5901-41,Graduation,Teaching faculty,Single,2,Kochi,Prefer Not to say,1,0,1,0,1,1,0,0,0,1,0,0,1,1,1,0,0,0,1,1,1,1,0,0,1,0,1,1,0
+Tony,Hawkins,Male,18,598-7692-56,Senior Secondary,Architect,Single,5,Patna,OBC,0,0,1,1,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,1,1,0,0,0,1,0,1,1,0
+Adison,Fowler,Male,25,846-7474-04,Graduation,Lawyer,Single,5,Raipur,Prefer Not to say,1,1,1,0,1,0,1,1,0,1,1,0,1,0,0,0,0,0,0,1,1,1,0,0,1,0,1,0,0
+Adele,Ross,Female,21,977-6535-08,Illiterate,Data Analyst,Single,0,Kolkata,SC,0,1,1,0,0,1,1,0,1,1,0,0,0,0,0,1,0,0,1,0,1,1,1,1,1,0,1,0,1
+Adrianna,Johnston,Female,28,157-6657-35,Graduation,Accountant,Married,1,Patna,Prefer Not to say,0,1,0,0,0,0,1,1,1,1,0,0,1,1,0,1,1,1,0,1,0,0,0,1,0,1,1,1,1
+Blake,Miller,Male,23,050-8931-34,Secondary,Production Engineer,Married,0,Mumbai,General,0,0,0,1,1,0,1,1,1,1,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,1,1,0
+Reid,Johnson,Male,29,293-4112-16,Post graduation,Architect,Single,2,Mumbai,General,0,1,0,0,1,1,1,0,1,1,1,1,0,0,1,0,1,1,0,1,0,0,1,1,0,0,0,1,1
+Stuart,Davis,Male,27,611-6197-77,Secondary,Software Developer,Married,0,Lucknow,NT/DNT,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,1,1,1,1,0,1,1,0,0,1
+Blake,Turner,Male,26,531-9278-16,Illiterate,Clerk,Married,4,Mumbai,NT/DNT,0,1,1,1,1,0,0,1,0,1,0,1,1,0,0,0,1,0,0,1,1,1,0,1,1,1,1,0,0
+Ada,Henderson,Female,22,834-6536-20,Graduation,Data Analyst,Single,4,Mumbai,General,1,0,1,0,0,1,1,1,1,1,1,1,0,0,1,0,0,0,1,0,1,1,0,0,0,0,1,1,1
+Myra,Barnes,Female,20,798-5526-52,Illiterate,Production Engineer,Married,1,Lucknow,OBC,1,0,0,0,0,1,0,1,0,1,0,0,0,0,1,1,1,0,1,1,1,1,1,0,1,0,1,1,0
+Alberta,Stewart,Female,26,595-2041-96,Illiterate,Plumber,Single,5,Patna,General,0,0,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+Daryl,Foster,Male,18,834-1658-69,Graduation,Accountant,Married,5,Bangalore,SC,0,0,1,0,1,0,1,1,1,1,1,1,0,1,1,1,1,0,0,0,0,0,1,1,1,1,0,1,1
+Adam,Sullivan,Male,27,790-2019-86,Post graduation,Data Analyst,Single,3,Raipur,General,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0
+Alfred,Craig,Male,30,648-5552-68,Senior Secondary,Teaching faculty,Married,5,Kochi,Prefer Not to say,0,1,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,1,0,1,0,1,1,1,0,0,1,1,1
+Edward,Richardson,Male,23,852-6296-19,Illiterate,Teaching faculty,Married,0,Raipur,Prefer Not to say,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1,1,1,1,1,1,0,0,1,1,0
+Daryl,Richards,Male,27,423-5009-43,Senior Secondary,Accountant,Married,2,Kochi,OBC,0,1,1,1,0,1,1,1,1,1,0,1,1,1,0,0,1,1,0,0,1,1,0,1,0,1,0,0,1
+Haris,Barrett,Male,23,914-7916-59,Post graduation,Civil Engineer,Married,3,Mumbai,SC,0,0,1,0,0,0,0,1,0,1,0,0,1,1,1,1,0,0,0,0,1,0,1,1,0,1,1,1,0
+Reid,Allen,Male,21,067-5273-03,Secondary,Mechanic,Single,0,Delhi,SC,0,1,0,0,1,1,0,1,1,0,0,0,1,0,1,0,0,1,1,1,0,0,1,0,1,1,0,1,1
+Maria,Morrison,Female,23,892-8519-50,Primary,Police,Married,3,Bangalore,General,0,1,1,1,0,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,0,1,0,1,1,0,1,1,0
+Carl,Reed,Male,25,361-3888-94,Senior Secondary,Data Analyst,Single,2,Chennai,OBC,0,1,1,1,0,1,0,0,1,0,1,0,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1
+Sam,Anderson,Male,20,885-3902-46,Graduation,Production Engineer,Married,1,Delhi,General,1,0,0,0,1,0,0,0,1,1,1,1,0,0,1,1,1,1,1,1,1,0,0,1,1,1,1,0,0
+Antony,Wilson,Male,29,631-1669-34,Illiterate,Doctor,Married,2,Chennai,NT/DNT,1,0,0,0,0,1,1,1,0,0,0,1,0,1,0,1,0,1,0,0,1,1,0,0,0,0,1,0,1
+Julian,Grant,Male,19,595-4019-36,Primary,Doctor,Married,0,Raipur,NT/DNT,1,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,1,1,1,0,0,1,1
+Aldus,Harrison,Male,22,254-3628-60,Graduation,Civil Engineer,Married,3,Lucknow,General,0,0,0,1,1,1,1,0,1,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+Gianna,West,Female,20,275-6539-31,Primary,Plumber,Married,1,Lucknow,SC,1,0,1,0,1,1,0,0,0,1,0,1,0,1,1,0,1,0,1,1,1,0,1,1,0,1,1,0,0
+Gianna,Stewart,Female,19,554-2169-77,Post graduation,Clerk,Married,4,Bangalore,ST,1,0,0,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,1,1,0,0,1,1,0,0,1
+Eleanor,Ellis,Female,30,549-8138-95,Senior Secondary,Pharmacist,Single,2,Chennai,Prefer Not to say,0,0,1,0,0,0,0,1,0,1,0,1,0,1,1,0,1,0,1,0,1,1,0,1,0,1,1,0,0
+Andrew,Dixon,Male,25,942-4191-26,Senior Secondary,Plumber,Single,2,Bangalore,General,0,1,1,1,1,1,1,1,1,0,1,0,0,0,1,0,1,1,1,0,0,1,0,1,1,0,1,0,1
+Julian,Taylor,Male,26,868-9734-84,Graduation,Doctor,Single,4,Bangalore,ST,0,1,0,1,1,1,0,0,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,1,0,1,0,0,0
+Edward,Gray,Male,27,996-8069-14,Post graduation,Data Analyst,Married,4,Chennai,General,1,0,0,0,1,1,0,0,1,1,0,1,1,0,0,0,0,1,1,0,0,1,1,1,0,1,0,0,0
+Miranda,Barnes,Female,30,352-6334-17,Graduation,Accountant,Married,5,Patna,ST,0,0,1,0,0,0,0,1,0,1,1,1,0,1,0,1,0,1,0,1,0,0,0,1,0,1,1,1,1
+Aiden,Riley,Male,30,518-6964-37,Graduation,Teaching faculty,Single,1,Patna,Prefer Not to say,1,1,0,0,1,0,0,0,1,0,1,0,1,1,1,1,0,1,0,1,1,0,1,0,0,0,0,0,1
+Violet,Gray,Female,27,511-5799-17,Primary,Business,Married,0,Lucknow,SC,0,0,0,0,1,1,0,1,0,0,1,0,1,1,1,0,0,0,1,1,0,0,0,0,1,0,0,1,0
+Isabella,Harper,Female,25,677-7761-86,Graduation,Business,Married,4,Raipur,OBC,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,1,0,1,0
+Myra,Hill,Female,21,634-7980-01,Senior Secondary,Teaching faculty,Single,5,Raipur,General,1,1,1,0,1,1,0,0,1,1,0,0,1,0,1,1,1,0,0,1,0,0,1,0,1,1,1,1,1
+Julia,Reed,Female,30,594-6638-60,Graduation,Accountant,Single,4,Kolkata,OBC,0,1,0,0,1,1,1,1,0,0,1,0,0,1,0,1,0,1,1,0,1,0,0,0,1,1,1,1,1
+Nicholas,Hamilton,Male,21,568-5631-68,Post graduation,Plumber,Single,2,Raipur,Prefer Not to say,0,0,0,1,1,1,1,1,0,1,1,1,0,0,0,1,0,0,1,0,0,1,1,0,1,1,1,1,0
+Chloe,Hamilton,Female,19,743-5837-01,Graduation,Business,Married,1,Raipur,NT/DNT,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,1,1,0,0,1,0,0,0,0
+Marcus,Johnston,Male,21,161-4179-46,Graduation,Data Analyst,Single,5,Kolkata,NT/DNT,1,0,1,0,0,1,0,0,1,0,1,1,1,0,0,1,0,0,0,0,1,1,1,1,1,1,0,0,0
+Rubie,Owens,Female,22,178-9598-89,Secondary,Teaching faculty,Married,4,Lucknow,SC,1,0,0,0,1,0,1,1,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,1
+Tara,Riley,Female,19,252-5036-04,Post graduation,Police,Married,3,Lucknow,OBC,1,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,1,1,1,1,0,1,0,0,0,0,0,1,1
+Brad,Morgan,Male,22,792-0907-63,Secondary,Teaching faculty,Married,2,Raipur,ST,1,1,0,1,0,1,0,0,1,1,0,0,1,1,0,1,1,0,1,0,0,1,1,1,0,1,1,0,1
+Amanda,Howard,Female,28,910-4593-22,Illiterate,Lawyer,Single,3,Hyderabad,SC,1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1
+Caroline,Casey,Female,19,678-0895-70,Secondary,Production Engineer,Married,0,Lucknow,NT/DNT,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,1,0,1,1,1,0,1,1,1,1,0,1,0,1
+Amelia,Adams,Female,28,603-0924-41,Post graduation,Police,Single,4,Chennai,ST,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,1,0,1,1,1,1,0,0,0,1,0,1,0
+Frederick,Phillips,Male,25,604-0945-63,Senior Secondary,Lawyer,Single,0,Kochi,OBC,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0,1,1,1,1,1,0,1,1,1,0,1,0,0
+Darcy,Elliott,Female,27,761-3365-93,Post graduation,Plumber,Single,4,Chennai,SC,1,0,1,1,0,0,0,1,0,0,0,0,1,0,1,1,1,0,0,0,0,0,1,0,1,1,1,1,0
+Spike,Thompson,Male,27,358-7170-15,Primary,Police,Single,3,Hyderabad,ST,1,0,1,1,0,0,1,1,1,0,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,0,1,1,0
+Valeria,Mitchell,Female,21,008-7011-78,Senior Secondary,Software Developer,Single,0,Chennai,SC,1,1,0,0,1,1,1,0,1,1,0,1,0,0,0,0,1,1,0,1,1,0,0,1,1,0,1,0,1
+Abraham,Jones,Male,25,383-1200-79,Graduation,Plumber,Married,2,Hyderabad,NT/DNT,0,1,0,1,1,0,1,1,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,1,0,1
+Tara,Cooper,Female,25,130-3339-00,Senior Secondary,Civil Engineer,Married,0,Patna,NT/DNT,0,1,0,1,0,0,1,0,1,1,1,0,0,1,1,0,0,1,0,1,1,0,1,0,1,0,0,0,1
+Rafael,Fowler,Male,22,299-1155-57,Senior Secondary,Architect,Married,5,Lucknow,SC,0,1,1,0,1,1,0,0,1,0,0,1,1,0,1,1,0,0,1,1,1,1,1,1,0,0,0,1,1
+Paige,Gibson,Female,19,776-3073-27,Graduation,Pharmacist,Single,0,Bangalore,SC,0,1,1,0,0,1,0,1,0,0,1,0,0,1,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0
+Chester,Parker,Male,20,339-2119-72,Secondary,Production Engineer,Married,0,Kochi,General,1,1,0,0,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,0,0,1,0,1
+James,Nelson,Male,19,807-6311-40,Secondary,Software Developer,Married,3,Delhi,Prefer Not to say,0,0,1,1,0,0,1,1,1,0,0,1,0,0,0,1,1,1,1,0,1,1,1,0,0,1,0,0,1
+Mike,Edwards,Male,21,961-6270-93,Senior Secondary,Mechanic,Single,3,Bangalore,General,0,1,0,1,1,0,1,0,0,0,1,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,1,1
+Ted,Lloyd,Male,24,836-0823-38,Primary,Pharmacist,Single,0,Patna,NT/DNT,1,1,1,1,1,1,1,0,1,0,1,1,0,1,0,0,0,0,0,1,0,0,1,0,0,1,0,1,1
+Marcus,Adams,Male,18,901-1164-59,Secondary,Teaching faculty,Married,4,Mumbai,ST,0,0,1,1,0,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1,1,1,0,1,1,1,1,1
+Violet,Campbell,Female,26,779-9773-50,Primary,Business,Married,0,Bangalore,NT/DNT,0,1,0,0,0,1,1,0,0,1,0,1,0,0,1,0,0,1,1,1,1,1,0,1,0,1,1,0,1
+Bruce,Evans,Male,24,282-3884-37,Secondary,Mechanic,Married,3,Raipur,NT/DNT,0,1,1,0,0,1,1,1,0,0,1,1,1,1,1,1,0,1,1,1,0,0,1,0,0,1,0,1,1
+Mary,Hunt,Female,27,024-3747-14,Graduation,Business,Single,3,Hyderabad,NT/DNT,1,1,1,1,0,0,1,1,0,0,1,1,1,0,0,0,1,1,1,0,0,1,0,1,1,0,1,1,1
+Jasmine,Davis,Female,20,188-6574-30,Graduation,Police,Single,1,Delhi,SC,0,1,1,1,0,0,0,0,0,1,1,1,0,1,1,1,1,0,1,0,1,0,0,0,0,0,1,1,0
+James,Taylor,Male,27,804-8556-05,Graduation,Teaching faculty,Married,5,Kochi,OBC,1,0,1,1,1,1,0,0,0,0,0,0,0,1,0,1,0,1,1,1,0,1,0,0,1,0,1,0,1
+Arnold,Smith,Male,19,956-9827-90,Secondary,Software Developer,Married,1,Hyderabad,ST,0,0,0,1,1,1,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0
+Isabella,Johnston,Female,19,088-3049-24,Primary,Accountant,Married,4,Chennai,Prefer Not to say,1,0,0,0,1,1,1,1,1,1,0,1,1,0,1,0,0,1,0,0,1,0,0,1,1,1,1,0,1
+Naomi,Murray,Female,28,278-1374-56,Primary,Doctor,Single,0,Patna,NT/DNT,1,0,1,1,0,1,1,0,0,0,0,0,0,0,1,0,1,1,1,0,1,1,0,0,0,0,1,0,1
+Edgar,Carter,Male,19,459-9419-56,Senior Secondary,Business,Married,1,Raipur,NT/DNT,1,0,1,1,0,1,1,0,0,1,0,1,0,1,0,1,0,1,0,0,0,0,1,1,1,1,0,1,1
+Chester,Thomas,Male,27,682-6404-10,Post graduation,Architect,Single,3,Kochi,ST,0,1,0,1,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,1,1,0
+Patrick,Scott,Male,26,011-0177-47,Graduation,Civil Engineer,Married,2,Lucknow,OBC,1,0,0,1,0,0,0,1,0,1,1,0,0,1,0,0,1,1,0,1,0,0,0,0,0,1,1,0,0
+Charlie,Anderson,Male,28,683-0880-81,Illiterate,Civil Engineer,Married,0,Chennai,OBC,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,1,0,0,0,1,0,1,1,0,0,1
+Alan,Farrell,Male,28,258-8373-32,Senior Secondary,Police,Single,4,Kolkata,General,1,1,1,0,1,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,1,1,1,1,0,1,1,0,1
+Tony,Williams,Male,22,603-1993-00,Primary,Accountant,Single,2,Kochi,General,0,1,0,1,1,1,0,1,1,0,0,1,0,1,1,1,0,1,0,1,1,1,0,0,0,0,1,1,1
+Mike,Harris,Male,24,964-1863-62,Primary,Data Analyst,Single,3,Patna,NT/DNT,1,0,1,0,1,0,1,1,0,1,0,0,1,1,1,1,0,0,1,1,1,0,1,0,1,1,0,1,0
+Thomas,Russell,Male,30,364-0871-62,Post graduation,Police,Single,5,Mumbai,ST,1,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,1,1,1,0,1,1
+Lana,Edwards,Female,22,404-3751-47,Senior Secondary,Accountant,Single,3,Patna,Prefer Not to say,0,0,1,0,1,0,0,0,0,1,1,1,0,1,0,1,1,0,1,1,0,1,1,1,0,1,1,1,1
+Vivian,Lloyd,Female,24,788-5918-19,Senior Secondary,Data Analyst,Married,4,Kochi,NT/DNT,1,1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,0,1,0,1,0,1,0,0,1,1,1,1,0
+Albert,Kelly,Male,25,246-3067-49,Post graduation,Teaching faculty,Married,2,Hyderabad,NT/DNT,0,1,0,1,1,1,1,1,1,0,1,1,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,1,1
+Martin,West,Male,18,416-7739-53,Graduation,Data Analyst,Married,4,Kochi,OBC,1,1,1,1,0,0,0,1,0,0,1,1,1,0,1,0,1,0,0,1,0,1,1,1,1,0,1,1,0
+Robert,Andrews,Male,18,208-9081-95,Illiterate,Doctor,Single,5,Lucknow,ST,1,0,1,0,1,1,0,0,0,0,1,1,1,0,0,1,0,0,0,1,0,1,0,0,1,0,1,1,0
+Derek,Cole,Male,27,320-1695-96,Post graduation,Production Engineer,Married,5,Lucknow,ST,1,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,1,1,1,1,0,1,1,1,0,1,0,1,1
+Lucy,Harris,Female,26,255-5157-67,Primary,Software Developer,Married,1,Raipur,ST,0,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,1,0,0
+Ada,Craig,Female,21,796-7192-91,Graduation,Teaching faculty,Single,4,Raipur,NT/DNT,1,0,1,1,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,1,1,1,0,0,1,1,0,1,0
+Penelope,Owens,Female,26,135-9757-13,Primary,Police,Single,1,Chennai,OBC,1,0,1,1,1,0,0,1,0,1,0,0,0,0,1,0,1,0,1,1,1,1,1,0,1,1,1,0,1
+Alford,Smith,Male,27,116-7448-91,Illiterate,Plumber,Single,3,Raipur,Prefer Not to say,1,1,0,1,1,1,0,1,0,0,0,1,1,1,1,1,0,1,0,1,0,1,0,1,1,1,0,1,1
+Dainton,Richardson,Male,27,168-0063-65,Graduation,Mechanic,Married,0,Raipur,Prefer Not to say,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,1,1,1,0,0
+Madaline,Tucker,Female,25,503-1989-41,Illiterate,Pharmacist,Married,2,Bangalore,Prefer Not to say,0,1,0,0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1
+Sam,Riley,Male,19,475-8677-27,Illiterate,Police,Single,2,Lucknow,Prefer Not to say,1,0,1,1,1,1,0,1,0,1,0,1,1,0,1,1,1,0,1,0,1,1,0,0,1,0,0,0,1
+Rafael,Smith,Male,27,290-6298-17,Illiterate,Police,Single,4,Patna,NT/DNT,1,0,0,0,0,1,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,1,0,1,0,1,1,1,0
+Jenna,Miller,Female,18,460-0384-11,Graduation,Clerk,Single,3,Patna,NT/DNT,1,1,0,1,1,0,1,0,0,1,1,1,1,1,1,1,0,0,1,0,1,1,1,1,1,1,1,1,1
+Ada,West,Female,21,671-4328-79,Secondary,Architect,Married,0,Mumbai,General,1,1,0,1,1,0,0,1,1,1,0,0,0,1,1,1,1,1,0,0,1,0,0,1,0,1,1,1,0
+Victor,Reed,Male,19,880-3928-87,Senior Secondary,Doctor,Single,2,Chennai,NT/DNT,0,0,0,1,0,0,1,0,0,1,0,0,1,1,0,0,1,0,1,0,0,0,1,1,0,1,0,1,1
+Oscar,Alexander,Male,26,904-2889-76,Senior Secondary,Lawyer,Married,1,Kochi,SC,1,0,1,0,1,1,1,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,1,0,0,1,1
+Rebecca,Cameron,Female,19,338-3597-42,Primary,Plumber,Single,2,Lucknow,NT/DNT,1,1,1,1,0,1,0,1,1,1,0,0,1,1,0,1,1,0,0,0,1,0,0,0,1,1,1,1,1
+Haris,Russell,Male,18,077-4240-06,Post graduation,Accountant,Single,2,Patna,SC,0,1,0,0,1,1,1,1,1,1,0,0,0,1,0,1,1,1,1,1,0,0,1,1,0,0,0,1,1
+Amelia,Allen,Female,26,425-7747-24,Secondary,Data Analyst,Married,2,Lucknow,NT/DNT,0,0,1,0,1,0,1,0,1,1,1,1,1,1,0,0,0,1,0,1,1,0,1,0,1,1,1,0,1
+Amelia,Elliott,Female,26,521-2497-47,Senior Secondary,Mechanic,Married,5,Raipur,NT/DNT,0,1,1,0,1,1,0,0,0,1,0,1,1,0,0,1,0,1,1,0,0,0,0,1,0,1,0,0,0
+Frederick,Dixon,Male,19,358-7547-59,Illiterate,Architect,Single,0,Lucknow,Prefer Not to say,1,1,1,0,0,0,1,1,1,0,0,1,0,1,1,0,0,1,1,1,1,0,0,0,1,1,1,1,1
+Antony,Foster,Male,19,314-3656-64,Graduation,Plumber,Single,1,Hyderabad,OBC,0,1,1,0,1,1,1,1,0,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,1,1,0,0,1
+Dominik,Morgan,Male,21,032-7073-24,Senior Secondary,Clerk,Married,1,Chennai,SC,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,1,1,1,0,1,1,0,0,0,1,0,1,1,0
+Chester,Ryan,Male,18,259-2372-77,Senior Secondary,Clerk,Single,1,Delhi,General,1,0,1,0,0,1,1,0,1,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0,1,1,0,0
+Freddie,Grant,Male,20,427-6957-02,Post graduation,Accountant,Married,2,Patna,SC,1,1,1,1,1,0,0,0,1,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,1,1,0
+Rafael,Carter,Male,23,595-5760-54,Post graduation,Plumber,Married,1,Kochi,SC,1,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1,0,1,1,0,1,1
+Max,Hill,Male,22,606-9508-81,Primary,Data Analyst,Married,4,Bangalore,OBC,0,0,1,1,1,0,1,1,0,1,0,1,0,0,0,0,1,0,1,1,1,0,1,0,1,1,1,1,1
+Darcy,Wilson,Female,27,375-9789-89,Secondary,Civil Engineer,Married,3,Mumbai,NT/DNT,1,1,0,1,1,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,1,1,0,0,1,1,0,1,0
+Alina,Higgins,Female,25,374-5727-07,Senior Secondary,Production Engineer,Married,4,Bangalore,General,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,1,0,1,0,0,1,1,0,0,1,1,0,0,0
+Martin,Morgan,Male,27,191-5965-60,Graduation,Doctor,Married,2,Raipur,SC,1,1,0,1,1,0,1,1,0,0,1,0,1,1,1,1,1,1,0,1,1,0,0,0,0,0,0,1,0
+Adam,Walker,Male,20,546-4486-04,Primary,Lawyer,Married,1,Raipur,SC,0,0,1,1,0,0,1,1,0,0,1,1,1,1,1,0,1,0,1,0,0,0,1,0,1,1,1,0,1
+Owen,Payne,Male,28,749-4597-30,Secondary,Plumber,Single,2,Raipur,SC,1,1,1,0,1,1,1,1,0,1,1,1,0,0,0,1,0,0,0,0,1,1,1,0,0,1,0,1,0
+Blake,Bennett,Male,24,241-2686-96,Post graduation,Mechanic,Married,4,Lucknow,SC,0,1,1,0,0,1,0,1,1,1,0,0,0,0,0,1,1,1,1,1,0,1,0,0,1,0,0,0,1
+Harold,Owens,Male,21,447-5695-35,Graduation,Clerk,Single,1,Delhi,ST,0,0,0,1,1,1,1,0,0,1,1,1,1,1,1,0,0,1,1,1,1,0,0,0,1,0,1,0,0
+Tyler,Fowler,Male,29,703-0107-40,Primary,Pharmacist,Married,5,Hyderabad,ST,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,1
+Nicholas,Johnson,Male,19,225-7969-43,Post graduation,Plumber,Single,5,Raipur,OBC,0,1,0,1,1,1,1,0,0,0,1,0,1,1,0,0,1,1,0,0,0,1,0,1,1,1,0,1,0
+Wilson,Montgomery,Male,24,125-7429-55,Illiterate,Civil Engineer,Married,0,Kolkata,General,0,0,1,0,1,1,0,0,1,0,1,1,0,0,1,1,1,0,1,0,0,0,0,1,0,1,0,1,1
+Carlos,Adams,Male,27,110-2832-44,Primary,Production Engineer,Single,1,Mumbai,OBC,1,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,1,0,1,1,1,0,0,0,0,0,0,1,1
+Alexia,Ferguson,Female,22,881-8410-51,Illiterate,Civil Engineer,Single,5,Chennai,Prefer Not to say,1,0,1,0,0,1,0,1,0,1,0,1,1,0,0,1,0,1,0,1,1,1,1,1,1,0,1,1,1
+Carl,Adams,Male,26,048-3622-99,Senior Secondary,Pharmacist,Single,0,Patna,ST,0,0,1,0,1,0,1,1,0,0,1,0,1,1,0,1,0,1,0,0,0,0,0,0,1,0,1,0,1
+Alisa,Miller,Female,19,106-3382-47,Graduation,Police,Single,3,Chennai,NT/DNT,0,0,0,0,1,0,0,1,1,0,1,0,1,0,1,0,0,1,1,1,0,0,0,0,1,1,1,1,0
+Clark,Myers,Male,29,916-2169-57,Illiterate,Mechanic,Married,1,Mumbai,Prefer Not to say,0,1,1,0,0,1,1,0,0,1,0,1,1,0,0,1,1,1,0,1,1,1,1,1,0,0,1,1,1
+Eddy,Carter,Male,28,700-2922-38,Primary,Architect,Single,2,Bangalore,Prefer Not to say,1,1,0,1,1,0,0,0,1,1,0,1,0,1,1,1,0,0,0,1,1,0,1,0,0,1,0,0,1
+Emily,Kelley,Female,21,519-0730-07,Graduation,Architect,Single,4,Raipur,NT/DNT,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,1,1,1,1,0,0,1,0,0,0,1,1,0
+Sarah,Smith,Female,26,306-6439-45,Post graduation,Lawyer,Married,2,Raipur,ST,1,0,0,0,1,0,0,0,1,1,1,1,1,0,1,1,0,0,1,1,1,1,1,1,0,1,0,1,0
+Edith,Dixon,Female,25,165-4911-77,Illiterate,Business,Married,1,Chennai,Prefer Not to say,0,1,1,0,1,1,0,0,0,0,1,1,0,1,1,1,0,1,0,0,1,1,0,1,0,1,1,0,0
+Eleanor,Elliott,Female,18,252-6865-89,Illiterate,Plumber,Single,5,Kolkata,Prefer Not to say,1,0,0,0,1,0,0,1,1,1,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,1,1,1,0
+Dexter,Baker,Male,27,022-3639-10,Illiterate,Accountant,Single,1,Raipur,OBC,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0
+Edith,Martin,Female,18,507-5568-52,Graduation,Architect,Single,4,Raipur,Prefer Not to say,1,1,1,1,0,1,0,0,1,1,1,0,1,1,0,1,1,0,1,1,1,0,1,0,0,0,0,1,0
+Andrew,Bailey,Male,18,857-6261-08,Secondary,Clerk,Married,3,Patna,General,1,1,0,1,0,0,1,1,1,1,0,1,0,0,0,1,1,1,1,0,1,1,0,0,1,0,0,1,1
+Tara,Carroll,Female,26,720-2020-79,Illiterate,Production Engineer,Single,1,Hyderabad,ST,1,1,1,0,1,1,0,1,0,1,0,0,1,0,1,1,1,1,1,0,1,1,1,1,0,0,0,1,0
+Belinda,Cunningham,Female,28,455-2424-86,Post graduation,Lawyer,Married,2,Kochi,OBC,1,1,0,0,0,1,0,0,1,1,1,0,0,1,0,0,1,1,0,1,1,0,1,1,1,1,0,0,0
+Tess,Wilson,Female,24,169-9782-73,Illiterate,Plumber,Single,0,Mumbai,OBC,1,1,0,1,0,0,0,0,1,1,0,1,1,1,1,0,1,1,0,0,1,0,1,1,1,0,1,1,0
+Walter,Chapman,Male,20,358-3215-48,Illiterate,Teaching faculty,Single,5,Delhi,NT/DNT,0,1,1,1,0,1,0,1,1,1,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,1,1,1,1
+Chelsea,Elliott,Female,30,665-8241-93,Senior Secondary,Civil Engineer,Married,0,Hyderabad,SC,1,0,0,1,0,1,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,1,0,0,0,1,0
+Tiana,Perkins,Female,29,728-9691-30,Post graduation,Police,Married,4,Chennai,OBC,1,1,0,0,1,1,0,0,0,1,1,0,0,1,0,0,1,0,0,1,1,1,0,0,0,0,1,1,0
+Gianna,Owens,Female,21,544-9341-09,Primary,Accountant,Married,0,Kolkata,OBC,1,1,0,0,0,1,1,1,1,1,1,0,0,1,1,1,1,0,1,0,1,1,0,0,1,0,0,0,0
+William,Higgins,Male,20,397-2933-48,Secondary,Teaching faculty,Married,5,Chennai,Prefer Not to say,0,1,0,0,1,0,0,0,0,0,1,0,0,1,1,1,0,0,0,1,0,1,1,1,1,0,0,1,1
+Sophia,Richards,Female,28,209-4304-25,Graduation,Lawyer,Married,5,Chennai,ST,0,1,0,1,0,0,1,0,1,1,1,0,1,0,0,1,1,0,1,1,0,0,0,0,0,1,0,1,1
+Edgar,Ross,Male,20,758-7921-70,Primary,Civil Engineer,Single,0,Patna,NT/DNT,1,0,0,1,0,1,0,0,1,1,0,1,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0,1,1
+Myra,Robinson,Female,21,228-3120-98,Graduation,Clerk,Married,3,Patna,General,0,0,1,0,1,0,0,1,0,1,1,1,0,1,0,1,1,0,1,0,1,0,1,0,1,1,1,0,1
+Dainton,Clark,Male,22,312-6469-10,Secondary,Data Analyst,Married,0,Patna,OBC,1,0,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,1,0,0,0,0,0,0,1,0
+Wilson,Ferguson,Male,19,943-7812-42,Post graduation,Teaching faculty,Married,4,Chennai,General,1,1,1,1,0,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,1,1,1,1
+Valeria,Campbell,Female,20,538-3900-97,Illiterate,Plumber,Married,5,Mumbai,ST,0,0,1,1,0,0,1,0,1,0,0,0,1,0,1,0,1,1,1,0,1,1,0,0,1,0,1,1,1
+Alisa,Cameron,Female,28,381-7834-76,Secondary,Plumber,Married,5,Delhi,Prefer Not to say,0,0,0,0,0,1,1,1,0,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,1,0
+Bruce,Johnston,Male,24,676-8286-95,Post graduation,Pharmacist,Single,0,Delhi,Prefer Not to say,0,0,0,0,1,0,0,0,0,1,1,1,1,1,0,1,0,1,1,1,0,1,0,1,0,0,0,0,0
+Lucas,Douglas,Male,24,365-9399-69,Illiterate,Business,Single,5,Patna,SC,1,1,1,1,0,0,1,0,0,0,1,0,1,0,0,0,1,1,1,1,0,0,0,1,0,1,0,0,0
+Natalie,Allen,Female,25,044-0716-88,Illiterate,Police,Single,2,Kolkata,Prefer Not to say,1,1,1,1,0,1,1,0,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1,1,0,0,1,1,0
+Sienna,Sullivan,Female,19,213-4460-28,Illiterate,Lawyer,Married,2,Delhi,SC,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,1,0,1,1,1,0,0,1,1
+Dainton,Andrews,Male,20,474-9923-61,Secondary,Software Developer,Single,3,Hyderabad,OBC,1,0,1,0,1,0,0,1,1,1,1,0,1,1,0,1,1,0,1,0,1,0,1,1,1,1,0,0,1
+Lenny,Dixon,Male,22,684-7774-07,Graduation,Plumber,Single,5,Patna,SC,1,1,0,1,0,1,1,0,1,0,0,1,0,0,1,0,0,0,1,1,0,0,1,1,0,1,1,1,0
+Lucy,Turner,Female,18,203-9482-10,Senior Secondary,Pharmacist,Married,4,Raipur,OBC,1,1,0,1,0,0,0,1,0,0,0,1,1,0,1,0,0,1,0,1,1,0,0,1,1,1,1,1,1
+Paige,Lloyd,Female,24,458-5165-83,Secondary,Accountant,Married,4,Delhi,OBC,0,0,0,1,1,0,0,1,1,1,0,1,1,1,0,1,0,1,1,0,0,0,1,0,0,0,0,0,1
+Julia,Andrews,Female,20,721-0177-06,Senior Secondary,Architect,Married,3,Mumbai,ST,1,0,1,0,1,0,0,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1
+Alan,Morris,Male,29,360-2862-98,Graduation,Plumber,Married,1,Hyderabad,ST,1,0,1,1,1,1,0,1,0,1,1,0,1,0,1,1,0,0,0,0,1,1,0,1,1,0,0,1,0
+Spike,Harrison,Male,19,665-8478-08,Graduation,Business,Single,5,Raipur,NT/DNT,1,0,0,1,1,1,1,0,1,0,0,0,0,0,1,0,0,1,0,1,0,0,1,1,0,1,0,1,1
+Sawyer,Grant,Male,19,629-2895-28,Secondary,Mechanic,Single,5,Chennai,NT/DNT,1,1,0,0,1,1,1,1,0,0,1,1,1,1,0,1,1,0,1,0,1,1,1,1,0,0,1,0,0
+Lily,Roberts,Female,22,213-9503-26,Primary,Lawyer,Single,3,Chennai,ST,0,0,0,1,1,1,1,0,1,1,1,0,0,0,1,1,1,0,1,0,1,1,0,1,0,0,0,0,1
+Byron,Walker,Male,24,558-8029-41,Secondary,Data Analyst,Married,0,Lucknow,SC,1,0,1,0,1,0,0,1,0,0,0,1,1,1,1,1,1,0,1,1,1,0,0,0,0,0,0,0,1
+Kate,Myers,Female,28,624-5423-98,Graduation,Architect,Single,4,Bangalore,Prefer Not to say,1,1,0,1,0,1,0,1,1,1,0,1,0,0,1,1,1,0,1,1,1,1,0,1,0,1,1,1,1
+Samantha,Foster,Female,18,238-5740-74,Senior Secondary,Software Developer,Married,1,Raipur,OBC,0,0,1,0,1,1,0,0,0,0,1,1,0,1,0,1,0,0,1,0,0,0,1,0,1,0,1,0,1
+Nicholas,Adams,Male,22,672-2123-43,Post graduation,Architect,Married,4,Bangalore,SC,0,1,1,1,0,1,0,0,1,1,1,0,1,1,0,0,0,1,0,0,1,0,0,1,0,0,1,1,0
+Tess,Payne,Female,20,744-2783-49,Secondary,Software Developer,Single,5,Kolkata,OBC,0,1,0,0,1,0,0,1,1,1,0,0,0,0,1,1,0,0,1,1,1,0,0,1,0,0,0,0,1
+Roman,Armstrong,Male,27,973-8961-85,Graduation,Architect,Single,0,Raipur,General,0,1,1,0,1,1,0,0,0,1,0,0,1,1,1,1,1,0,1,1,0,0,1,0,1,1,1,0,1
+Chester,Barnes,Male,22,209-1934-52,Senior Secondary,Civil Engineer,Single,4,Mumbai,OBC,0,0,1,0,0,0,0,1,1,1,0,0,1,1,1,1,0,1,1,0,0,0,0,0,0,1,0,1,0
+Jenna,Campbell,Female,26,732-3229-96,Primary,Plumber,Single,1,Kochi,General,1,0,0,0,1,1,0,1,0,0,0,1,1,1,0,1,0,0,0,1,0,1,1,0,0,0,0,0,1
+Justin,Watson,Male,30,500-6136-46,Senior Secondary,Mechanic,Single,2,Patna,Prefer Not to say,1,1,1,1,1,0,1,0,0,0,1,1,0,0,1,1,1,1,1,0,1,1,0,0,1,0,0,0,0
+Oscar,Adams,Male,26,541-3466-95,Graduation,Data Analyst,Married,1,Kolkata,SC,0,0,0,1,0,0,1,1,0,1,0,1,1,0,1,0,0,0,1,1,1,0,1,0,0,1,1,0,0
+Byron,Wilson,Male,29,059-0661-54,Primary,Architect,Married,5,Mumbai,NT/DNT,1,1,0,0,1,1,0,0,1,1,1,0,0,0,1,1,1,0,1,0,1,0,0,0,1,0,0,1,1
+Daryl,Chapman,Male,21,994-0206-49,Illiterate,Police,Married,3,Hyderabad,OBC,0,1,1,0,0,1,1,0,1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,1,1,0,0,0,0
+Kelvin,Scott,Male,23,985-2948-19,Senior Secondary,Pharmacist,Single,1,Bangalore,SC,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,0,1,0,0,1,1
+Daniel,Wilson,Male,22,121-0756-27,Primary,Production Engineer,Single,3,Bangalore,Prefer Not to say,0,0,1,0,0,0,0,0,1,0,0,1,1,1,0,0,0,1,0,1,0,1,0,1,1,0,0,0,1
+Steven,Jones,Male,30,118-3196-68,Illiterate,Data Analyst,Married,5,Lucknow,ST,1,1,0,1,1,0,1,1,0,0,0,0,0,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Penelope,Taylor,Female,22,155-9968-36,Secondary,Pharmacist,Single,1,Bangalore,Prefer Not to say,1,0,1,1,1,1,0,1,0,0,1,1,1,0,1,0,0,1,0,1,1,1,1,1,1,0,0,0,1
+Natalie,Carter,Female,30,106-7210-26,Illiterate,Data Analyst,Single,2,Patna,NT/DNT,0,1,1,1,1,1,0,0,0,1,0,1,0,1,1,0,0,1,1,0,1,1,1,1,1,0,0,0,1
+Steven,Morgan,Male,23,738-1066-49,Illiterate,Doctor,Single,1,Raipur,ST,1,0,0,1,0,1,1,1,0,0,0,0,1,1,1,1,0,1,0,1,0,1,0,1,1,1,0,0,1
+Walter,Williams,Male,27,261-2456-56,Primary,Doctor,Single,2,Kochi,General,1,1,1,0,1,1,0,1,0,0,1,1,1,1,1,1,0,1,1,0,1,0,0,0,1,0,1,1,1
+Maximilian,Martin,Male,29,217-6085-61,Primary,Software Developer,Single,4,Hyderabad,NT/DNT,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,1,0,1,0,0,1,0,1,0,0,1,0
+Miranda,Andrews,Female,23,448-7481-83,Senior Secondary,Clerk,Married,2,Delhi,NT/DNT,0,1,1,0,1,1,0,0,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1
+Madaline,Richards,Female,29,977-3762-45,Primary,Police,Single,5,Raipur,SC,0,0,1,1,1,0,0,0,1,1,1,1,0,1,1,1,1,0,0,1,0,1,1,1,1,0,0,0,1
+Jessica,Murphy,Female,18,924-7787-65,Secondary,Production Engineer,Married,3,Delhi,ST,1,0,1,1,0,1,0,0,1,1,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0
+Jessica,Cole,Female,24,863-1596-87,Primary,Lawyer,Married,2,Lucknow,SC,1,1,0,0,1,0,0,1,1,0,1,1,1,1,1,1,0,1,0,0,0,0,0,1,1,0,1,0,0
+Paul,Wells,Male,29,795-5789-63,Senior Secondary,Teaching faculty,Married,2,Chennai,General,1,1,1,0,1,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,1,1,0,1,1,1
+Oscar,Hunt,Male,19,652-9817-86,Graduation,Accountant,Single,3,Bangalore,OBC,1,1,0,0,1,0,0,0,1,1,0,0,1,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0
+Lilianna,Grant,Female,28,389-5442-40,Primary,Software Developer,Single,5,Chennai,ST,0,0,0,1,0,1,1,0,0,1,0,1,1,0,1,1,0,1,1,0,0,1,0,1,1,0,0,0,0
+April,Bennett,Female,19,931-0160-31,Graduation,Data Analyst,Married,2,Lucknow,General,0,1,0,1,0,1,0,1,1,1,1,0,1,1,0,1,0,0,0,0,1,0,0,1,1,1,1,0,1
+Lydia,Spencer,Female,26,625-1395-93,Graduation,Pharmacist,Married,3,Bangalore,ST,1,0,1,0,1,0,1,0,1,0,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,0,1,0,0
+Audrey,Hunt,Female,20,156-0444-10,Secondary,Data Analyst,Single,0,Raipur,OBC,0,1,1,0,0,1,0,0,1,0,0,1,1,1,0,1,1,0,1,0,1,0,0,0,1,1,1,1,1
+Amelia,Andrews,Female,27,971-4596-23,Graduation,Lawyer,Married,4,Chennai,SC,1,1,0,0,1,1,1,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0,1,1,1,0,1,1,0
+Deanna,Thompson,Female,19,179-9174-41,Primary,Business,Married,3,Patna,OBC,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,1
+Caroline,Henderson,Female,22,356-2476-86,Primary,Architect,Single,0,Bangalore,OBC,1,0,1,1,1,1,0,0,1,0,1,1,0,0,1,1,0,0,1,0,1,0,1,0,0,0,1,1,0
+Eleanor,Williams,Female,25,038-4596-21,Senior Secondary,Lawyer,Married,1,Raipur,SC,1,1,1,0,1,0,0,0,1,1,1,0,0,0,0,0,1,1,1,0,0,1,0,1,0,0,1,1,1
+Joyce,Gibson,Female,20,924-9694-32,Graduation,Accountant,Single,0,Hyderabad,General,1,0,1,0,0,1,0,0,1,1,1,1,0,1,0,1,0,1,0,1,0,1,1,0,0,1,1,1,1
+Samantha,Wilson,Female,22,875-4645-11,Primary,Architect,Married,1,Kolkata,OBC,0,0,0,0,0,1,0,1,1,1,1,0,0,0,1,0,1,1,0,1,1,0,1,0,1,1,0,0,1
+Sabrina,Walker,Female,27,746-7210-90,Illiterate,Accountant,Single,1,Kolkata,General,0,1,1,0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,0,0,1,0,1,1
+Ellia,Grant,Female,24,202-7500-31,Secondary,Software Developer,Single,0,Bangalore,ST,1,1,0,0,1,0,1,1,0,0,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,1,0,0
+James,Brown,Male,26,412-1240-29,Primary,Mechanic,Single,2,Delhi,NT/DNT,1,1,0,0,0,1,0,0,1,0,0,0,0,1,0,1,1,1,0,0,1,0,1,1,0,0,0,0,1
+Melissa,Bailey,Female,25,390-2926-63,Post graduation,Police,Single,1,Raipur,OBC,0,1,1,1,1,0,0,0,1,1,1,1,0,1,0,0,1,1,1,1,1,0,0,0,0,1,0,0,1
+George,Mason,Male,23,861-7954-13,Senior Secondary,Police,Married,2,Delhi,NT/DNT,0,0,1,1,0,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,1,0,0
+Alexia,Perkins,Female,28,956-3679-37,Primary,Lawyer,Married,2,Raipur,Prefer Not to say,1,1,0,0,0,0,1,1,1,0,0,0,0,0,1,0,1,0,1,1,0,0,1,0,1,1,0,1,0
+George,Perry,Male,30,050-1990-03,Primary,Data Analyst,Single,3,Mumbai,OBC,1,1,0,0,1,0,1,0,0,0,1,1,1,0,1,0,0,0,1,1,1,0,0,1,0,1,0,1,0
+Caroline,Evans,Female,27,621-8073-96,Senior Secondary,Data Analyst,Single,5,Kolkata,SC,1,0,0,0,0,1,1,0,0,1,1,1,1,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1
+Anna,Evans,Female,18,101-8153-70,Graduation,Data Analyst,Single,3,Delhi,SC,1,0,1,0,0,1,1,0,0,0,1,0,0,0,1,1,0,1,0,1,0,1,0,1,1,1,0,0,0
+George,Roberts,Male,29,686-1994-99,Post graduation,Plumber,Single,2,Chennai,OBC,0,1,0,1,0,0,0,1,0,1,1,1,1,1,0,0,0,1,0,1,0,0,0,1,1,1,1,1,1
+Valeria,Mitchell,Female,35,020-8058-17,Senior Secondary,Architect,Married,3,Delhi,NT/DNT,1,1,1,1,1,0,1,1,1,0,1,1,0,0,1,0,1,0,0,1,0,1,0,0,1,0,0,0,1
+Adrian,Evans,Male,35,022-7623-38,Secondary,Clerk,Single,0,Patna,OBC,1,1,1,1,1,1,0,1,1,1,1,0,0,1,1,1,1,1,0,0,0,1,0,0,0,1,1,0,0
+Jack,Bennett,Male,39,771-0336-78,Secondary,Plumber,Single,4,Kolkata,OBC,0,1,0,0,1,1,0,1,0,1,1,1,1,0,1,0,0,0,0,1,1,0,0,0,1,1,0,0,0
+Ada,Evans,Female,32,162-3220-83,Senior Secondary,Data Analyst,Single,0,Lucknow,SC,0,1,1,1,1,0,1,1,1,1,1,1,1,0,1,0,0,1,1,1,0,0,1,1,0,0,1,1,0
+Harold,Hunt,Male,30,855-0926-48,Primary,Lawyer,Single,2,Delhi,SC,1,1,1,1,0,0,0,0,1,0,1,0,1,1,1,0,0,1,0,1,0,1,0,0,1,0,1,0,1
+Derek,Higgins,Male,31,498-2794-14,Graduation,Plumber,Married,1,Hyderabad,ST,1,0,0,0,1,0,1,0,0,0,1,1,0,1,1,1,0,1,1,0,1,1,1,0,0,1,1,0,0
+Miller,Sullivan,Male,31,558-6994-77,Primary,Civil Engineer,Married,2,Patna,SC,1,0,0,1,1,0,0,1,1,1,0,1,0,1,0,0,0,1,1,1,0,0,1,0,1,0,1,0,1
+Daisy,Farrell,Female,35,072-4007-97,Graduation,Accountant,Married,0,Hyderabad,Prefer Not to say,0,1,0,0,1,0,1,0,0,1,1,1,0,1,0,0,0,1,0,1,1,1,0,0,0,1,1,1,0
+Chelsea,Johnston,Female,35,250-7364-96,Post graduation,Accountant,Married,2,Delhi,ST,1,0,1,1,0,1,0,0,1,0,1,1,1,1,0,1,1,1,1,1,0,1,0,0,1,0,0,1,1
+Jessica,Hill,Female,32,398-8902-01,Secondary,Mechanic,Married,2,Patna,SC,1,1,1,1,0,0,0,1,1,1,0,1,1,0,0,0,1,1,0,0,0,1,0,0,1,1,1,1,0
+Sabrina,Turner,Female,33,304-4303-98,Graduation,Police,Single,5,Lucknow,SC,0,1,0,0,0,1,1,0,0,1,1,0,1,1,0,0,0,1,1,0,0,0,1,1,0,1,0,0,1
+Carl,Thomas,Male,40,488-5531-57,Illiterate,Business,Married,4,Patna,SC,1,1,0,0,1,0,1,0,1,1,0,1,0,0,1,0,1,1,0,0,0,0,1,1,0,1,0,0,0
+Valeria,Smith,Female,32,461-4040-44,Primary,Police,Single,1,Raipur,Prefer Not to say,1,0,0,1,1,0,1,0,0,1,0,1,1,1,1,1,0,1,0,1,0,0,0,1,1,0,1,0,0
+Lucas,Armstrong,Male,38,889-0043-83,Primary,Civil Engineer,Single,2,Kochi,General,0,1,1,0,0,0,0,0,1,0,1,0,1,1,0,0,0,1,1,1,1,0,1,1,0,1,1,1,1
+Tara,Hill,Female,30,354-4539-49,Graduation,Mechanic,Married,5,Raipur,OBC,1,1,1,1,1,1,1,0,1,1,1,0,1,1,0,1,1,1,1,0,1,0,1,0,0,1,1,1,0
+Julian,Morrison,Male,36,713-4980-64,Secondary,Lawyer,Single,5,Hyderabad,OBC,0,1,1,1,1,0,1,1,0,1,1,1,1,0,1,0,0,1,0,1,0,0,1,1,0,1,1,0,1
+Vivian,Barrett,Female,35,705-2646-59,Post graduation,Clerk,Married,5,Hyderabad,SC,1,1,1,1,1,0,0,0,1,1,0,1,1,1,0,0,1,0,1,0,1,1,0,1,1,1,0,1,1
+Madaline,Grant,Female,34,371-7484-30,Secondary,Teaching faculty,Married,4,Kochi,SC,0,1,1,0,0,0,0,0,0,0,1,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0
+Dainton,Crawford,Male,32,989-3414-33,Illiterate,Police,Single,5,Chennai,NT/DNT,0,0,0,1,1,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,0,1,0,1,0,0,0,0,1
+Arianna,Carter,Female,37,561-7673-20,Illiterate,Police,Single,5,Lucknow,Prefer Not to say,1,1,1,1,0,0,1,1,1,0,1,1,0,0,0,1,0,0,1,1,0,0,0,0,0,1,1,0,0
+Derek,Perry,Male,38,358-0419-39,Secondary,Police,Single,4,Lucknow,OBC,0,0,1,1,1,0,1,0,1,1,0,1,1,1,1,0,1,0,0,1,1,0,0,0,0,1,0,1,0
+Melanie,Rogers,Female,35,287-0213-17,Illiterate,Plumber,Married,0,Bangalore,SC,1,0,1,0,0,1,0,1,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1,1,1,1
+Michelle,Kelley,Female,36,569-1028-23,Illiterate,Mechanic,Single,3,Raipur,NT/DNT,0,1,0,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,1,1,0,1,0,0,0,0,0,0
+Freddie,Holmes,Male,34,000-8199-16,Secondary,Teaching faculty,Married,1,Kochi,General,0,1,1,0,1,0,1,0,0,0,0,1,0,0,1,1,0,0,1,1,1,1,0,0,1,0,0,0,1
+Charlie,Evans,Male,33,512-2963-30,Senior Secondary,Data Analyst,Married,1,Chennai,OBC,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1,1,1,1,0,0,0,0
+Ashton,Gibson,Male,37,193-7418-12,Post graduation,Software Developer,Single,3,Raipur,ST,0,1,0,0,0,1,0,1,0,1,1,0,0,0,1,0,0,1,1,0,1,1,1,0,0,0,0,1,0
+Richard,Johnston,Male,30,417-8169-34,Illiterate,Pharmacist,Single,3,Mumbai,SC,1,1,1,0,0,1,0,0,0,1,1,1,1,1,1,1,0,0,0,0,0,1,1,0,0,0,0,0,1
+Amy,West,Female,39,242-8693-33,Post graduation,Doctor,Married,0,Chennai,NT/DNT,1,0,0,1,1,0,0,0,1,1,0,0,1,1,1,1,1,0,0,1,0,0,1,1,1,1,0,0,1
+Jenna,Martin,Female,30,919-5693-66,Secondary,Software Developer,Single,2,Hyderabad,ST,1,1,0,1,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,1,1,1,0,1,1,1,0
+Violet,Williams,Female,40,056-6529-60,Graduation,Police,Single,1,Patna,ST,1,0,0,0,1,1,0,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+Arianna,Kelley,Female,38,566-7660-40,Post graduation,Production Engineer,Single,5,Chennai,SC,0,0,0,1,1,0,1,1,0,1,1,1,0,0,1,0,0,0,0,0,0,1,0,1,0,1,1,1,0
+Miller,Richardson,Male,30,396-7377-24,Illiterate,Architect,Married,0,Kolkata,Prefer Not to say,0,1,0,0,1,0,0,0,1,1,0,0,0,1,1,0,0,1,1,1,0,0,0,0,1,0,0,1,0
+Kate,Sullivan,Female,40,914-9391-86,Illiterate,Lawyer,Married,2,Patna,SC,1,0,1,1,1,0,0,1,0,0,0,1,1,0,1,1,0,1,0,1,1,1,1,0,1,1,0,1,0
+Jordan,Cole,Male,31,739-0227-51,Illiterate,Business,Single,0,Raipur,SC,1,0,0,0,0,0,0,1,0,1,0,1,0,1,0,1,0,0,0,1,0,1,0,1,0,0,0,1,1
+Violet,Grant,Female,32,190-3698-43,Post graduation,Business,Married,0,Raipur,Prefer Not to say,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,1,0,1,1,1,0,0,0,1,0
+Haris,Phillips,Male,38,581-0047-46,Post graduation,Software Developer,Single,3,Kolkata,General,1,1,0,1,1,0,0,1,1,0,1,1,0,1,0,1,1,0,1,1,1,0,0,0,0,1,1,1,1
+Antony,Brooks,Male,30,434-3649-89,Illiterate,Accountant,Single,1,Mumbai,NT/DNT,1,1,0,1,0,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,1,0,1,1,1,0,1
+Penelope,Moore,Female,38,011-9314-61,Secondary,Pharmacist,Married,2,Bangalore,Prefer Not to say,0,0,0,0,1,0,1,0,1,0,1,0,1,0,1,1,0,0,0,1,0,1,1,0,0,0,0,1,1
+Annabella,Wright,Female,30,016-8329-71,Graduation,Teaching faculty,Single,5,Mumbai,OBC,1,0,1,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,1
+Lydia,Williams,Female,38,066-4460-39,Senior Secondary,Teaching faculty,Single,1,Bangalore,SC,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1,0,1,1,1,1,0,1,1,1
+Adrianna,Martin,Female,38,032-8000-51,Illiterate,Doctor,Single,0,Chennai,SC,0,0,1,1,1,1,1,0,0,0,1,0,1,1,1,0,1,0,1,0,0,1,0,1,0,1,1,1,1
+Briony,Myers,Female,38,000-7207-53,Post graduation,Data Analyst,Married,2,Delhi,Prefer Not to say,1,0,1,1,1,1,0,0,0,1,1,0,0,0,1,1,1,1,0,1,0,0,1,1,0,0,0,1,1
+Justin,Riley,Male,35,832-4523-36,Primary,Production Engineer,Married,4,Mumbai,SC,1,0,0,1,1,0,1,0,1,1,1,0,0,0,0,1,0,0,1,1,1,0,0,1,1,0,0,0,1
+Luke,Hunt,Male,35,827-9947-48,Secondary,Accountant,Married,3,Kochi,OBC,1,0,1,0,1,1,0,1,0,0,1,1,1,1,0,1,0,0,0,0,1,1,0,1,0,0,1,0,0
+Tiana,Foster,Female,33,084-3594-55,Secondary,Software Developer,Single,5,Chennai,SC,0,0,1,1,0,1,1,0,0,1,1,1,1,0,0,0,0,1,1,1,1,1,0,0,1,1,0,1,0
+Jenna,Kelly,Female,31,384-0815-85,Post graduation,Mechanic,Single,4,Hyderabad,OBC,0,1,1,0,1,0,0,0,0,1,0,1,1,0,0,1,1,1,1,1,1,1,0,1,1,0,0,0,1
+Blake,Smith,Male,31,418-7813-33,Senior Secondary,Architect,Married,4,Mumbai,OBC,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,1,1,1,1,0,0,0,1,0
+Edward,Farrell,Male,33,845-3023-58,Secondary,Lawyer,Single,3,Delhi,SC,1,1,0,0,0,1,0,0,1,0,0,1,0,0,1,0,1,1,0,1,1,0,0,0,1,0,0,1,0
+Madaline,Ross,Female,32,989-2027-15,Graduation,Clerk,Married,5,Raipur,OBC,0,0,0,0,0,1,0,0,0,1,1,1,0,0,1,1,1,1,1,1,0,1,0,0,1,0,0,0,0
+Eleanor,Craig,Female,37,345-3308-36,Graduation,Architect,Single,0,Patna,Prefer Not to say,1,1,1,0,0,1,0,1,1,0,1,1,0,1,1,1,0,0,0,0,0,1,1,0,1,1,1,1,0
+Blake,Craig,Male,34,275-3621-34,Illiterate,Lawyer,Single,0,Chennai,Prefer Not to say,0,1,1,0,1,0,0,1,1,1,1,0,0,0,1,1,0,1,0,0,1,0,1,0,1,0,1,1,1
+Dexter,Murray,Male,34,129-1928-80,Graduation,Architect,Married,4,Lucknow,NT/DNT,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,1,1,0,1,1
+Fiona,Campbell,Female,30,047-9916-04,Illiterate,Civil Engineer,Single,4,Hyderabad,SC,0,0,1,1,1,0,1,0,1,0,0,0,1,0,1,0,1,1,0,0,1,1,0,0,1,1,1,1,0
+Martin,Turner,Male,34,694-0052-33,Senior Secondary,Accountant,Single,3,Kochi,Prefer Not to say,0,1,0,1,0,1,1,0,1,0,0,0,0,1,0,0,1,1,0,1,1,1,1,0,0,0,1,0,1
+Chloe,Alexander,Female,38,775-5431-02,Secondary,Mechanic,Single,0,Chennai,NT/DNT,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,1,1,1,0,1,1,0,1,1,1,0,0
+Olivia,Moore,Female,40,288-2084-66,Secondary,Lawyer,Single,2,Hyderabad,OBC,0,1,1,1,0,1,1,1,0,1,0,0,0,0,0,1,1,1,1,0,0,1,0,1,0,1,1,0,1
+William,Walker,Male,31,579-2588-23,Post graduation,Architect,Single,5,Hyderabad,Prefer Not to say,1,1,0,0,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,1,0,1,0,0
+Olivia,Payne,Female,40,456-2950-84,Senior Secondary,Doctor,Single,3,Kolkata,Prefer Not to say,1,1,0,0,1,0,1,0,0,1,0,1,0,1,1,0,1,0,0,0,0,1,0,1,0,0,0,1,0
+Maya,Clark,Female,36,672-3312-72,Graduation,Production Engineer,Married,2,Chennai,General,0,0,0,1,1,1,1,0,0,1,0,1,0,1,0,0,0,1,1,0,1,0,1,0,1,0,1,1,1
+Martin,Fowler,Male,36,658-6104-65,Illiterate,Clerk,Single,5,Raipur,General,0,0,1,0,0,0,1,0,0,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,0
+Mike,Thompson,Male,31,864-0137-27,Illiterate,Teaching faculty,Single,3,Kolkata,OBC,1,0,1,0,1,1,0,1,1,0,0,0,0,1,0,0,0,1,0,0,1,1,1,0,0,1,0,0,1
+Ada,Warren,Female,34,219-7412-97,Post graduation,Plumber,Single,2,Delhi,NT/DNT,1,1,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,1,1,1,0,1,0,0,1,0,1,1
+Sarah,Carroll,Female,40,945-8309-16,Primary,Clerk,Married,4,Kochi,SC,1,1,1,0,0,0,1,0,0,0,1,1,1,1,0,0,1,1,1,0,0,1,0,0,1,1,1,0,0
+Gianna,Mitchell,Female,36,338-9972-74,Senior Secondary,Accountant,Married,0,Mumbai,SC,0,0,1,0,0,1,0,0,0,0,0,1,1,1,0,1,0,1,0,0,1,0,0,1,1,0,0,1,0
+Brianna,Myers,Female,32,264-5270-79,Illiterate,Production Engineer,Single,1,Hyderabad,ST,1,1,0,0,1,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,1,1,0,0,0,0,0,1
+Violet,Ellis,Female,33,130-9073-33,Post graduation,Software Developer,Married,4,Raipur,ST,1,0,1,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,1,1,1,0,1,0,1,1,1,1
+Briony,Bennett,Female,38,361-0175-61,Post graduation,Police,Married,4,Chennai,General,0,1,0,0,1,1,0,1,1,0,1,1,1,0,0,1,1,1,1,1,1,0,1,1,1,1,1,0,0
+Ashton,Kelly,Male,32,488-9111-17,Senior Secondary,Data Analyst,Single,0,Kolkata,General,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1,1,0,0,1,1,0,0,1,1,1,1,0
+Jared,Russell,Male,39,086-3266-13,Primary,Mechanic,Married,4,Kolkata,SC,0,1,1,1,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,1,1
+Owen,Ryan,Male,39,232-4985-21,Senior Secondary,Architect,Married,2,Raipur,SC,0,1,1,0,0,1,0,1,1,0,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,0,0,1,0
+Adrian,Owens,Male,31,520-6891-68,Graduation,Plumber,Single,5,Kochi,OBC,0,1,1,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,1,0,1
+William,Stevens,Male,34,252-7245-74,Senior Secondary,Doctor,Single,3,Kochi,General,0,1,1,0,1,1,1,0,0,1,0,0,1,1,1,1,1,1,0,1,0,1,0,1,0,0,0,1,1
+Jacob,Nelson,Male,35,577-9932-48,Secondary,Plumber,Single,5,Chennai,NT/DNT,1,0,1,0,1,1,0,0,1,1,1,1,1,1,0,1,0,0,0,1,1,1,1,1,1,1,1,0,1
+Daisy,Casey,Female,33,219-6431-34,Primary,Plumber,Married,2,Bangalore,Prefer Not to say,0,0,1,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,1,1,0,1,1,1,0,0,0,0,0
+Evelyn,Chapman,Female,32,295-3763-81,Senior Secondary,Accountant,Single,5,Mumbai,NT/DNT,1,1,1,1,0,1,1,1,1,0,0,1,0,0,0,1,0,0,1,1,0,1,1,1,0,1,0,1,0
+Madaline,Johnston,Female,34,301-1689-94,Senior Secondary,Lawyer,Married,5,Raipur,OBC,1,1,1,0,0,1,0,0,0,1,1,1,1,0,0,1,1,0,1,0,1,0,0,1,0,0,0,1,1
+Lucy,Evans,Female,32,528-1781-39,Graduation,Software Developer,Single,4,Raipur,SC,0,1,1,1,1,1,1,1,0,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,1,0,0,1,0
+Vincent,Warren,Male,31,875-0782-96,Primary,Business,Single,0,Bangalore,OBC,0,0,1,1,0,1,1,0,0,1,1,0,0,1,1,0,1,0,1,0,0,0,0,1,1,0,0,0,0
+Adrian,Spencer,Male,38,143-1734-15,Illiterate,Architect,Married,1,Hyderabad,NT/DNT,1,0,1,1,0,0,0,1,1,1,0,0,0,0,1,0,0,1,1,0,1,0,0,0,0,1,1,1,1
+Eleanor,Wells,Female,34,235-5491-14,Post graduation,Production Engineer,Married,3,Hyderabad,General,1,1,1,1,1,1,1,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,0,1
+Ned,Fowler,Male,40,972-2329-18,Primary,Software Developer,Married,5,Chennai,NT/DNT,0,1,0,0,1,0,1,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,1,1,0,1,1,1,1
+Jack,Hunt,Male,33,961-7963-39,Graduation,Mechanic,Single,1,Delhi,ST,1,0,0,0,0,0,0,0,1,0,1,1,0,1,1,0,1,0,1,0,1,0,1,0,1,0,0,1,0
+Sarah,Roberts,Female,37,308-9378-22,Senior Secondary,Pharmacist,Single,4,Mumbai,ST,0,0,0,1,0,1,1,1,1,0,1,1,0,1,0,0,0,0,0,1,0,0,1,1,0,1,1,0,0
+Olivia,Barnes,Female,35,009-2026-25,Secondary,Production Engineer,Married,3,Bangalore,ST,0,1,0,0,0,1,0,1,0,0,1,1,1,1,0,1,1,0,1,1,0,1,1,0,1,1,1,0,1
+Eleanor,Jones,Female,30,336-0409-58,Primary,Teaching faculty,Married,1,Lucknow,General,1,1,0,1,1,0,0,0,0,0,0,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,1,1
+James,Wells,Male,35,560-4577-85,Primary,Lawyer,Married,4,Patna,ST,1,0,1,1,1,0,1,1,1,0,0,1,0,1,0,1,0,1,0,1,0,0,1,1,0,0,1,0,0
+Carlos,Sullivan,Male,32,150-1948-51,Secondary,Data Analyst,Married,0,Hyderabad,Prefer Not to say,1,1,1,1,1,1,0,0,1,0,0,1,0,1,1,1,0,1,0,1,1,1,1,0,0,0,1,1,1
+Kevin,Kelly,Male,36,660-0076-74,Secondary,Lawyer,Single,1,Mumbai,NT/DNT,0,1,1,1,1,0,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,0,1,1,0,0,1,0,0
+Emily,West,Female,35,656-3979-55,Primary,Accountant,Married,4,Raipur,ST,0,0,1,1,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1
+Dale,Brown,Male,34,828-6398-04,Graduation,Mechanic,Single,4,Delhi,SC,1,0,1,0,1,1,0,0,1,1,0,1,1,0,0,1,1,0,0,1,1,0,0,0,1,0,0,1,0
+Aldus,Ryan,Male,34,103-0167-40,Primary,Clerk,Single,0,Kolkata,NT/DNT,0,0,1,0,1,1,1,1,0,0,1,1,1,0,1,1,1,0,0,0,1,0,1,0,1,1,1,1,0
+Edwin,Owens,Male,30,871-0621-84,Secondary,Pharmacist,Single,5,Kochi,OBC,0,0,0,1,1,0,0,1,1,0,1,0,1,1,0,0,1,1,0,0,0,1,1,0,0,1,1,1,1
+Valeria,Reed,Female,36,217-0322-64,Graduation,Lawyer,Married,1,Patna,OBC,1,0,1,1,1,1,1,1,1,0,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,1,0,0
+Brad,Stewart,Male,30,528-0324-39,Graduation,Production Engineer,Married,3,Patna,General,0,0,0,1,1,0,1,1,1,0,0,0,1,1,0,1,0,1,0,1,1,0,1,0,1,1,0,1,1
+Daryl,Mitchell,Male,31,163-7430-75,Secondary,Mechanic,Single,0,Delhi,General,1,1,1,1,1,1,0,1,1,0,0,0,1,1,0,0,1,0,0,1,0,1,1,1,1,1,0,1,0
+Alexander,Elliott,Male,33,984-5476-83,Secondary,Plumber,Married,3,Kolkata,NT/DNT,0,0,0,0,1,0,0,1,1,1,1,0,1,0,0,0,1,0,1,0,1,1,1,0,1,0,0,0,1
+Roman,Russell,Male,38,151-0993-68,Graduation,Lawyer,Married,1,Lucknow,NT/DNT,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0
+Jasmine,Hunt,Female,39,905-8439-17,Graduation,Teaching faculty,Single,5,Delhi,Prefer Not to say,1,0,0,1,1,0,0,1,1,0,1,1,1,1,1,1,0,1,0,0,0,1,0,0,1,0,0,0,1
+Miley,Murray,Female,31,035-6371-05,Graduation,Plumber,Single,5,Mumbai,General,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1,1,0,0,1,0,0,0,1,1,1,1,1,0
+Oliver,Foster,Male,34,218-6759-67,Primary,Police,Single,0,Hyderabad,NT/DNT,0,0,0,1,1,0,1,0,1,0,0,1,1,0,1,1,1,1,1,0,0,0,0,0,0,1,0,0,0
+Lucia,Stewart,Female,40,917-8388-05,Secondary,Police,Married,0,Kochi,ST,0,1,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,1
+Wilson,Harris,Male,32,335-0501-07,Senior Secondary,Business,Married,0,Delhi,General,1,1,1,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,1,0,0,0,0,1
+Lucy,Martin,Female,31,818-5888-92,Graduation,Software Developer,Married,2,Raipur,NT/DNT,1,1,0,0,1,0,1,1,1,0,0,1,1,1,1,0,0,1,1,0,0,0,0,1,0,1,0,0,1
+Connie,Brooks,Female,30,573-9585-46,Illiterate,Clerk,Single,5,Raipur,NT/DNT,1,0,1,1,1,0,1,1,0,1,0,1,1,1,1,1,0,0,0,0,1,0,0,1,0,1,1,0,0
+Jessica,Cooper,Female,34,272-8064-96,Post graduation,Pharmacist,Married,0,Delhi,ST,0,1,0,0,0,0,0,1,0,1,1,1,1,1,1,0,1,1,0,0,0,1,0,1,1,1,1,0,0
+Mike,Williams,Male,32,997-0849-03,Senior Secondary,Software Developer,Single,4,Chennai,General,1,1,0,1,0,1,0,0,0,0,1,1,1,1,0,1,1,1,0,0,0,0,0,1,0,1,1,1,1
+Alan,West,Male,34,168-1536-45,Primary,Architect,Married,4,Kolkata,Prefer Not to say,0,0,1,0,1,1,1,0,0,1,1,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,1,1,0
+Eleanor,Elliott,Female,36,212-7959-60,Secondary,Mechanic,Single,3,Delhi,NT/DNT,0,1,1,1,1,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,1,1,0,0,1,0,1,0,0
+Florrie,Henderson,Female,36,882-3559-15,Senior Secondary,Clerk,Married,3,Mumbai,ST,0,1,0,1,1,1,1,0,0,1,1,1,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,1
+Alexia,Lloyd,Female,40,168-1806-58,Graduation,Software Developer,Married,2,Kolkata,OBC,0,1,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,1,1,0,0,0,1
+Alfred,Carter,Male,40,700-5886-92,Illiterate,Accountant,Single,2,Lucknow,OBC,0,1,1,0,0,0,1,1,1,1,1,1,1,0,0,1,0,1,0,1,0,0,1,0,1,0,1,1,0
+Sawyer,Russell,Male,40,798-7319-06,Illiterate,Software Developer,Single,5,Kolkata,General,0,0,0,1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,0,0,0,1,1,1,0,1,1,1,0
+Brooke,Howard,Female,32,140-5934-27,Primary,Production Engineer,Single,5,Mumbai,General,1,1,0,1,0,1,1,1,0,0,1,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+Deanna,Spencer,Female,35,349-4983-79,Senior Secondary,Architect,Single,3,Chennai,Prefer Not to say,1,1,1,0,1,1,0,0,0,0,1,0,1,0,0,0,1,1,1,1,0,1,0,0,1,0,0,1,1
+Brooke,Johnston,Female,40,615-5801-62,Graduation,Software Developer,Married,3,Mumbai,General,0,0,1,0,0,1,0,1,1,0,0,1,0,1,1,1,1,1,0,1,0,1,1,1,1,0,1,1,1
+Kellan,Morris,Male,38,103-4748-51,Senior Secondary,Software Developer,Married,0,Mumbai,OBC,1,1,1,0,1,0,0,1,1,1,0,1,0,0,1,1,0,0,0,0,1,1,0,0,1,0,1,1,1
+Penelope,Evans,Female,37,441-1855-77,Primary,Pharmacist,Single,3,Kolkata,SC,0,0,0,1,1,0,0,1,0,0,0,0,0,1,1,1,1,0,1,0,0,0,1,0,1,1,0,0,1
+Valeria,Edwards,Female,37,922-5343-27,Secondary,Teaching faculty,Single,4,Mumbai,Prefer Not to say,0,1,1,0,1,1,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,1,1,1,1,1,1
+Abraham,Taylor,Male,39,899-9142-38,Secondary,Teaching faculty,Single,2,Hyderabad,OBC,1,1,1,0,1,1,0,0,1,0,0,1,0,0,0,1,0,0,1,1,1,1,0,1,0,0,1,1,0
+Jared,Johnson,Male,40,671-1436-61,Primary,Data Analyst,Single,5,Mumbai,NT/DNT,0,1,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,1,0,1,0,1,0,1,0
+Victor,Murphy,Male,35,095-9259-64,Secondary,Accountant,Married,1,Patna,ST,1,0,1,1,1,0,0,0,0,1,1,0,1,1,1,1,1,1,1,0,1,0,1,1,1,0,0,1,1
+Adelaide,Moore,Female,30,799-6981-72,Primary,Lawyer,Single,1,Chennai,NT/DNT,0,0,0,1,1,0,0,1,1,1,0,1,0,1,1,0,1,1,1,1,0,1,1,1,0,1,0,0,0
+Connie,Jones,Female,36,737-2174-36,Post graduation,Teaching faculty,Single,5,Hyderabad,NT/DNT,1,0,0,1,1,0,1,1,1,1,0,1,1,0,1,1,1,0,1,0,1,1,0,1,0,1,0,0,0
+Lucy,Crawford,Female,38,512-4246-38,Primary,Architect,Married,4,Chennai,SC,0,1,1,1,0,1,0,0,1,1,1,1,1,1,0,1,1,1,0,0,1,0,0,0,0,0,0,1,0
+Annabella,Murray,Female,34,927-8951-59,Post graduation,Mechanic,Married,1,Mumbai,ST,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,1
+Daniel,Walker,Male,34,629-6588-84,Primary,Doctor,Single,5,Kolkata,ST,0,0,1,1,0,1,1,1,1,0,1,0,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,0,1
+Myra,Howard,Female,33,378-1697-39,Illiterate,Software Developer,Married,4,Delhi,Prefer Not to say,1,1,0,1,0,0,0,1,0,0,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,0
+Daisy,Kelley,Female,32,501-3836-74,Graduation,Civil Engineer,Married,4,Hyderabad,General,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0,1,1,0,0,0,1
+Melissa,Mitchell,Female,39,892-7547-00,Illiterate,Mechanic,Single,3,Kolkata,ST,1,1,1,1,1,0,0,0,0,1,0,1,1,1,0,0,1,0,1,0,1,0,0,0,0,0,1,1,1
+Rafael,Harris,Male,36,766-6334-38,Illiterate,Teaching faculty,Single,1,Chennai,General,1,0,0,1,1,0,0,1,1,0,1,0,0,1,0,0,1,0,1,0,1,1,0,1,0,1,0,0,0
+Alfred,Moore,Male,38,699-1367-82,Senior Secondary,Architect,Single,3,Hyderabad,General,0,1,0,0,1,1,0,0,1,0,1,1,1,1,1,0,1,1,1,1,1,1,0,0,1,0,1,1,0
+Connie,Taylor,Female,30,052-0532-35,Senior Secondary,Accountant,Single,2,Chennai,SC,0,0,1,0,1,0,1,0,1,0,1,0,1,0,1,1,0,1,0,0,1,1,1,1,0,0,0,0,1
+Elise,Cunningham,Female,34,426-6010-70,Illiterate,Police,Single,3,Chennai,SC,1,1,0,0,1,1,1,1,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,0,1,1,0,1
+George,Ross,Male,35,085-5807-68,Primary,Data Analyst,Single,0,Lucknow,Prefer Not to say,0,1,0,0,1,0,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,1,1,1,1,0,1,1,1
+Carina,Spencer,Female,30,471-9714-32,Secondary,Doctor,Married,1,Lucknow,General,0,1,0,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,1,0,1,0,0,1,1,1,0
+Aida,Wells,Female,33,034-9630-80,Senior Secondary,Pharmacist,Single,2,Mumbai,OBC,1,1,0,1,0,1,0,1,1,1,0,1,1,1,1,0,0,0,1,1,0,0,0,0,0,1,1,1,1
+Henry,Gibson,Male,31,278-8455-93,Illiterate,Production Engineer,Single,2,Raipur,OBC,1,0,0,1,0,0,1,0,1,1,0,1,0,1,0,0,0,0,1,0,0,1,1,1,1,0,0,0,0
+Alfred,Kelley,Male,36,524-2929-55,Graduation,Architect,Married,5,Lucknow,NT/DNT,0,0,0,1,1,0,0,1,1,1,1,1,1,1,0,1,1,0,0,0,1,1,0,0,0,1,0,1,0
+Roman,Payne,Male,35,776-3410-48,Graduation,Clerk,Single,0,Kochi,SC,0,0,1,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0
+Daryl,Brooks,Male,32,568-5987-65,Secondary,Production Engineer,Single,1,Bangalore,OBC,0,0,1,0,0,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,0,0,1,0,1,1,1,1
+Jared,Roberts,Male,33,809-5080-20,Graduation,Police,Married,0,Bangalore,SC,1,0,0,1,1,1,1,1,0,0,0,0,1,0,1,1,1,1,1,0,0,0,1,0,0,1,1,0,1
+James,Clark,Male,37,382-1357-67,Secondary,Doctor,Single,2,Bangalore,General,1,1,0,1,0,0,1,0,0,1,1,1,1,0,0,1,0,1,0,1,0,1,1,0,0,0,1,0,1
+Albert,Thompson,Male,34,223-1023-70,Illiterate,Accountant,Married,2,Raipur,NT/DNT,1,0,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,0,1,1,0,0
+Amanda,Robinson,Female,32,391-5230-70,Secondary,Police,Single,4,Patna,Prefer Not to say,1,1,1,1,1,1,0,1,1,0,0,0,1,1,1,1,1,0,0,1,1,1,1,1,0,1,0,0,0
+Oscar,Johnson,Male,37,136-3080-37,Primary,Business,Single,3,Chennai,General,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,1,1,0,0,1,0,1,0,1,0,0,1
+Aston,Jones,Male,38,092-1182-04,Post graduation,Software Developer,Married,5,Kochi,Prefer Not to say,1,0,0,1,0,0,1,0,1,0,1,1,0,1,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0
+Alexia,Crawford,Female,39,092-6702-51,Post graduation,Clerk,Married,2,Kolkata,SC,0,1,0,1,1,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,1,0,1,1,0,1,1
+Charlie,Bennett,Male,37,972-7979-82,Post graduation,Architect,Single,2,Chennai,SC,0,0,0,1,0,1,0,1,1,1,1,0,1,1,0,1,1,1,0,1,0,0,0,1,0,1,0,0,0
+Adrianna,Holmes,Female,35,636-5006-13,Illiterate,Police,Married,3,Hyderabad,Prefer Not to say,0,0,0,1,1,1,0,1,0,1,0,1,1,0,1,0,1,0,0,0,1,0,0,1,1,0,0,1,0
+Kimberly,Cooper,Female,30,934-4932-40,Senior Secondary,Pharmacist,Married,1,Bangalore,OBC,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,1,0,1,0,0,0,0,0,1,0
+Kelsey,Ross,Female,35,538-9116-70,Graduation,Data Analyst,Married,3,Hyderabad,NT/DNT,1,0,0,1,1,0,1,1,0,1,0,1,1,0,1,0,1,1,1,0,1,1,0,0,0,1,0,1,0
+George,Phillips,Male,40,748-2447-81,Secondary,Software Developer,Single,1,Delhi,ST,1,1,1,1,0,1,1,0,0,0,1,0,0,1,1,1,0,0,0,0,1,0,0,0,1,1,0,0,0
+Sophia,Ryan,Female,37,715-9795-86,Illiterate,Software Developer,Single,4,Patna,General,0,0,1,0,1,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1
+Melanie,Chapman,Female,35,328-5163-77,Secondary,Pharmacist,Married,3,Hyderabad,NT/DNT,0,0,0,0,1,1,0,1,0,1,1,0,0,1,0,1,0,1,0,0,1,1,0,1,0,1,1,1,0
+Isabella,Roberts,Female,33,702-3282-67,Primary,Teaching faculty,Single,5,Delhi,General,0,0,0,0,0,1,0,1,0,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1
+Honey,Smith,Female,30,617-2018-42,Senior Secondary,Software Developer,Single,5,Patna,NT/DNT,1,0,1,1,0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,1,1,0,1,0,1,1,0,0,1
+Jasmine,Elliott,Female,36,209-2027-77,Secondary,Doctor,Single,3,Raipur,NT/DNT,1,0,0,0,0,1,1,1,1,1,0,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,1,0
+Amy,Grant,Female,33,016-7352-08,Illiterate,Business,Married,3,Kolkata,General,1,1,1,1,1,0,0,1,0,1,0,1,1,0,0,1,0,0,1,0,1,0,1,0,0,1,0,1,0
+Rebecca,Cunningham,Female,30,033-8562-09,Secondary,Police,Single,3,Hyderabad,Prefer Not to say,0,1,1,1,1,0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,1
+Melanie,Wilson,Female,35,557-3336-87,Graduation,Accountant,Single,5,Kochi,SC,1,1,0,0,1,0,1,1,0,1,1,0,1,1,1,0,0,0,0,1,0,1,1,1,1,0,1,0,1
+Aldus,Kelly,Male,35,747-3554-44,Graduation,Production Engineer,Married,3,Chennai,NT/DNT,1,0,1,1,1,1,1,0,1,0,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,0,1
+Aiden,Myers,Male,35,575-3362-98,Secondary,Production Engineer,Married,4,Hyderabad,General,1,0,1,0,0,0,0,1,1,1,1,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,1,1,0
+Belinda,Bennett,Female,38,884-4103-26,Illiterate,Doctor,Married,0,Hyderabad,Prefer Not to say,1,0,1,1,0,1,0,1,0,0,1,1,0,1,1,0,1,0,0,1,1,0,1,0,1,0,1,0,1
+Chloe,Harrison,Female,36,680-8774-76,Primary,Business,Married,3,Patna,Prefer Not to say,0,0,0,0,1,1,0,1,0,1,0,1,1,1,0,1,1,0,1,1,1,0,0,1,1,0,1,1,1
+Jordan,Baker,Male,30,025-5740-93,Senior Secondary,Accountant,Married,4,Mumbai,Prefer Not to say,1,1,1,1,0,1,1,1,1,1,0,1,0,1,1,0,1,0,0,1,0,0,1,0,1,0,0,1,0
+Ned,Russell,Male,39,864-1808-45,Primary,Architect,Married,2,Mumbai,Prefer Not to say,0,0,1,0,0,1,1,0,1,0,1,1,1,0,0,0,1,0,1,0,1,0,1,0,1,0,0,1,0
+Frederick,Williams,Male,38,861-4909-00,Secondary,Clerk,Single,5,Chennai,Prefer Not to say,0,0,0,0,0,1,1,1,1,1,0,1,1,0,0,1,1,1,1,1,1,0,1,1,1,0,1,1,1
+Michael,Ryan,Male,32,877-9542-93,Illiterate,Mechanic,Married,1,Patna,OBC,1,1,1,1,1,1,0,1,1,1,0,0,1,0,0,1,0,1,0,1,1,0,0,1,1,0,0,1,1
+Deanna,Hunt,Female,35,027-3478-79,Illiterate,Teaching faculty,Single,0,Bangalore,OBC,1,0,0,0,0,0,0,0,1,0,1,0,1,0,1,1,0,1,1,0,0,1,1,1,0,1,1,0,1
+Lucas,Allen,Male,37,439-8458-32,Illiterate,Lawyer,Married,3,Chennai,SC,1,0,1,0,1,0,0,1,1,1,1,0,0,1,0,0,1,1,1,1,1,0,0,1,1,1,1,0,1
+George,Nelson,Male,33,990-3214-70,Graduation,Plumber,Single,1,Chennai,General,1,1,0,0,1,1,0,1,1,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,1,1,0,1,1
+Spike,Henderson,Male,32,434-8315-78,Secondary,Pharmacist,Single,3,Raipur,General,0,1,0,0,0,1,0,0,1,0,1,0,1,0,0,1,0,0,0,1,1,0,0,0,0,1,0,1,1
+Alen,Richardson,Male,36,339-4319-57,Secondary,Police,Single,3,Bangalore,General,0,1,1,0,0,1,1,1,1,1,0,0,1,1,1,0,0,0,1,1,0,0,0,1,1,1,1,1,1
+Julian,Walker,Male,31,757-3356-11,Illiterate,Plumber,Single,1,Chennai,NT/DNT,0,1,0,0,1,0,1,0,1,1,0,0,0,0,1,1,0,1,1,0,0,1,0,1,1,0,0,1,0
+Abraham,Evans,Male,34,349-8989-15,Illiterate,Accountant,Single,4,Bangalore,SC,0,1,0,1,1,0,1,0,1,0,0,1,0,1,0,0,0,1,0,1,1,0,1,1,1,1,1,0,1
+Tyler,Myers,Male,33,422-8832-80,Senior Secondary,Doctor,Single,3,Chennai,General,1,1,0,0,1,0,0,0,1,0,0,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,0,1,0
+Agata,Warren,Female,36,940-4528-03,Senior Secondary,Software Developer,Married,4,Patna,SC,1,1,0,0,1,0,1,1,1,0,0,0,0,0,1,0,1,0,0,1,1,0,1,0,0,0,0,0,1
+Florrie,Gray,Female,36,114-9444-27,Secondary,Doctor,Single,3,Bangalore,NT/DNT,1,1,0,1,0,0,1,1,0,1,0,1,1,0,0,1,0,0,0,1,0,1,1,0,1,0,0,1,0
+Olivia,Alexander,Female,35,156-9252-60,Primary,Lawyer,Single,2,Mumbai,SC,0,1,1,0,1,0,0,1,0,0,1,1,1,1,0,1,1,0,0,1,0,0,0,0,1,1,0,0,1
+Owen,Cole,Male,36,365-4018-00,Secondary,Teaching faculty,Single,3,Kolkata,Prefer Not to say,1,0,0,1,1,1,1,1,1,1,1,0,0,1,1,0,1,0,0,1,1,0,0,0,0,1,0,1,1
+Edward,Anderson,Male,37,642-9336-07,Senior Secondary,Software Developer,Single,5,Kolkata,NT/DNT,1,0,1,1,0,0,0,1,1,1,1,0,0,1,1,1,1,0,0,1,0,1,0,0,1,0,1,0,0
+Carl,Farrell,Male,38,010-5697-94,Illiterate,Teaching faculty,Single,4,Kolkata,ST,0,1,0,1,1,0,0,0,1,0,1,0,1,0,0,0,1,1,0,0,1,0,0,1,0,1,1,0,0
+Jenna,Turner,Female,36,557-3336-96,Illiterate,Clerk,Married,0,Hyderabad,ST,0,1,0,1,0,1,1,0,1,0,0,1,1,1,1,1,0,0,1,1,1,1,0,1,1,0,1,0,1
+Carlos,Montgomery,Male,40,940-9828-78,Post graduation,Lawyer,Single,2,Mumbai,Prefer Not to say,0,1,1,0,0,1,0,0,1,0,1,1,1,1,0,1,1,1,1,0,0,0,0,0,1,1,1,0,0
+William,Rogers,Male,36,022-9137-53,Graduation,Clerk,Married,2,Lucknow,Prefer Not to say,1,1,0,0,0,1,0,1,1,0,1,1,0,0,0,0,1,1,0,1,1,1,0,0,1,0,1,0,1
+Max,Gibson,Male,31,146-4481-29,Senior Secondary,Software Developer,Single,1,Delhi,General,1,1,0,1,1,1,0,0,1,0,1,0,0,0,0,1,1,1,0,1,0,1,1,1,1,1,0,0,0
+Jessica,Perkins,Female,33,727-1570-53,Post graduation,Pharmacist,Married,4,Lucknow,ST,1,0,1,0,1,1,1,1,1,0,0,1,1,0,0,1,1,1,1,1,0,0,0,0,1,0,1,0,0
+Justin,Crawford,Male,30,413-6763-29,Secondary,Data Analyst,Married,3,Lucknow,NT/DNT,0,1,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1
+Kevin,Hall,Male,34,241-8985-18,Primary,Software Developer,Single,1,Hyderabad,SC,0,1,1,0,1,0,1,1,1,1,0,0,0,1,1,0,1,1,1,1,1,1,0,1,1,1,0,0,1
+Fiona,Douglas,Female,30,175-8712-26,Primary,Teaching faculty,Single,3,Chennai,Prefer Not to say,0,0,1,0,0,1,0,0,0,0,1,1,0,1,1,1,1,0,1,1,0,1,1,0,1,1,1,1,0
+Michael,Sullivan,Male,33,143-8093-68,Primary,Doctor,Single,1,Bangalore,Prefer Not to say,1,1,1,1,0,0,0,1,1,0,0,1,0,0,1,1,1,1,1,1,1,0,0,0,1,0,0,1,0
+Aiden,Rogers,Male,34,605-4911-43,Secondary,Business,Married,0,Lucknow,OBC,1,1,0,1,0,1,0,0,1,1,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1
+Roland,Reed,Male,34,299-0402-83,Illiterate,Plumber,Married,0,Kochi,General,1,0,1,0,1,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,0,0,1,0,0,0,0
+Sarah,Moore,Female,31,091-4846-60,Illiterate,Data Analyst,Married,0,Kolkata,General,1,0,0,1,1,1,0,1,1,0,1,0,0,1,0,1,0,0,0,1,1,1,0,0,0,1,1,1,1
+Camila,Parker,Female,35,846-9081-63,Secondary,Mechanic,Single,4,Kolkata,OBC,1,0,1,0,0,0,1,0,1,1,1,0,0,0,1,0,1,1,0,1,1,0,0,1,0,1,1,0,1
+Maximilian,Spencer,Male,38,302-1504-00,Post graduation,Mechanic,Single,5,Hyderabad,General,1,1,1,0,1,1,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0,0,1,1,1,1
+Adrian,Adams,Male,30,234-9719-33,Senior Secondary,Plumber,Single,1,Chennai,SC,1,1,0,1,1,1,1,0,1,0,0,1,1,0,0,0,1,0,0,1,0,0,1,0,1,1,1,0,1
+Heather,Cameron,Female,37,474-8153-68,Primary,Lawyer,Married,3,Kochi,NT/DNT,1,1,1,0,1,1,1,0,1,0,0,1,1,1,1,0,1,1,1,0,0,0,1,0,1,1,0,1,1
+Maximilian,Farrell,Male,37,119-9818-67,Senior Secondary,Pharmacist,Single,2,Mumbai,OBC,1,0,0,1,1,0,0,0,1,0,1,0,0,0,1,1,1,0,0,1,0,0,0,0,0,1,0,1,0
+Oliver,Holmes,Male,30,638-7003-28,Primary,Data Analyst,Married,0,Bangalore,NT/DNT,0,0,0,0,1,0,0,1,0,0,0,1,1,1,0,1,0,0,0,0,1,0,1,1,0,1,0,1,0
+Oliver,Thompson,Male,30,361-5284-30,Primary,Civil Engineer,Married,0,Kochi,NT/DNT,0,0,0,1,1,1,0,1,1,0,1,0,0,0,1,0,1,0,0,0,1,1,1,1,1,1,1,0,0
+Sabrina,Davis,Female,23,735-8590-84,Senior Secondary,Business,Married,2,Mumbai,NT/DNT,1,0,1,1,1,0,1,0,0,1,0,1,0,1,1,0,1,1,1,0,1,1,1,0,1,0,1,1,0
+Reid,Brown,Male,27,075-7660-85,Post graduation,Software Developer,Married,3,Kochi,General,1,0,0,1,0,0,1,1,0,0,1,0,1,0,1,1,1,0,1,0,1,0,1,1,1,1,0,0,0
+Sawyer,Cunningham,Male,29,621-2764-22,Senior Secondary,Lawyer,Married,3,Raipur,OBC,0,0,0,0,0,1,0,1,1,0,1,1,0,1,1,0,1,0,1,0,0,0,1,1,0,0,0,1,0
+Frederick,Hall,Male,26,485-0096-01,Secondary,Plumber,Married,0,Raipur,NT/DNT,1,0,0,1,1,0,1,1,1,0,0,0,1,1,1,1,1,0,1,0,1,1,0,1,0,1,0,1,1
+Dominik,Wells,Male,30,794-8623-61,Senior Secondary,Police,Single,1,Delhi,NT/DNT,0,0,1,1,1,1,1,0,0,1,1,1,1,1,1,0,0,1,0,0,1,0,0,0,1,1,1,1,1
+Ted,Hall,Male,29,019-7094-77,Post graduation,Production Engineer,Married,4,Bangalore,ST,0,1,1,1,0,1,1,1,0,1,0,1,0,1,0,0,0,1,1,0,1,0,1,1,0,0,0,1,1
+Cherry,Martin,Female,27,359-8008-92,Graduation,Business,Married,4,Delhi,OBC,1,1,0,0,0,0,0,1,1,1,0,0,0,1,1,0,1,1,0,0,1,0,0,0,1,1,0,0,1
+Clark,Murphy,Male,27,409-3154-81,Senior Secondary,Teaching faculty,Married,5,Kochi,ST,1,1,1,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1,1,1,0,1,0
+Adelaide,Allen,Female,25,221-4940-01,Senior Secondary,Business,Single,5,Raipur,ST,0,0,1,0,1,0,1,1,0,0,0,1,0,0,0,1,1,1,0,1,1,1,0,1,0,1,0,1,0
+Carina,Harper,Female,30,060-5255-70,Secondary,Production Engineer,Married,2,Hyderabad,Prefer Not to say,1,0,1,1,1,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0
+James,Hill,Male,19,940-5012-95,Illiterate,Clerk,Single,3,Raipur,General,0,0,1,0,1,1,0,1,1,1,0,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0
+Daniel,Armstrong,Male,22,629-6808-18,Senior Secondary,Doctor,Married,4,Kochi,SC,0,1,0,0,0,0,0,0,0,1,1,0,0,1,0,1,1,1,0,1,1,0,1,0,0,1,0,1,1
+Melanie,Stevens,Female,27,905-5469-61,Post graduation,Software Developer,Single,4,Lucknow,Prefer Not to say,0,0,1,1,1,1,1,0,0,1,1,0,1,0,1,0,0,1,0,0,1,0,0,1,1,0,1,1,1
+Sienna,Phillips,Female,23,941-3254-85,Primary,Civil Engineer,Single,1,Chennai,SC,1,1,1,1,0,0,1,1,1,0,0,1,0,0,1,0,0,0,1,1,0,0,0,1,1,1,1,1,1
+Eddy,Lloyd,Male,22,494-0171-18,Senior Secondary,Production Engineer,Married,3,Kolkata,General,0,1,1,1,1,0,1,0,0,1,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+Frederick,Casey,Male,28,794-1879-43,Illiterate,Data Analyst,Single,5,Raipur,ST,0,1,0,1,1,0,0,1,1,1,0,1,0,1,1,0,1,0,0,1,0,0,0,1,1,1,0,1,0
+Alan,Reed,Male,25,837-7166-13,Graduation,Architect,Married,2,Mumbai,NT/DNT,0,1,1,0,0,1,1,0,1,0,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1,1,1,0,0
+Clark,Edwards,Male,20,268-1031-77,Graduation,Accountant,Single,0,Chennai,Prefer Not to say,0,1,1,0,1,1,1,0,0,0,0,0,1,0,1,1,1,1,0,0,1,1,1,1,0,1,0,0,0
+Amanda,Hunt,Female,27,006-8646-62,Graduation,Doctor,Single,4,Bangalore,ST,0,0,1,1,0,0,1,1,0,0,1,0,0,1,0,1,1,0,1,1,1,1,1,1,0,1,0,0,0
+Michelle,Chapman,Female,25,299-1865-93,Illiterate,Lawyer,Single,1,Kochi,General,1,1,1,0,1,0,1,1,1,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0,1,0,1,0
+Eddy,Roberts,Male,28,652-3395-50,Secondary,Pharmacist,Single,0,Patna,NT/DNT,1,1,0,0,0,0,0,1,1,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,1
+Robert,Wells,Male,29,248-1889-03,Illiterate,Pharmacist,Married,2,Kolkata,OBC,1,0,0,1,1,0,0,0,0,1,1,1,1,1,0,0,1,1,1,1,1,0,0,0,1,1,0,1,1
+Sofia,Armstrong,Female,26,984-6971-47,Graduation,Teaching faculty,Married,2,Raipur,NT/DNT,0,0,0,1,1,0,1,1,0,1,1,0,1,1,1,0,1,0,1,1,1,1,0,0,1,0,0,1,1
+Wilson,Harris,Male,21,958-4232-32,Primary,Software Developer,Married,2,Chennai,ST,0,0,1,1,0,1,0,1,0,0,0,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,0
+Martin,Myers,Male,22,812-5422-17,Primary,Plumber,Single,5,Raipur,NT/DNT,0,0,0,1,1,1,1,0,1,1,1,0,0,0,1,1,1,0,1,1,1,1,1,1,1,1,0,1,0
+Maria,Armstrong,Female,28,982-4492-21,Senior Secondary,Production Engineer,Single,2,Kolkata,SC,0,0,1,0,0,1,0,1,1,0,0,1,1,1,0,1,0,1,0,1,0,0,1,1,1,0,1,0,1
+Steven,Hunt,Male,23,531-9713-25,Post graduation,Civil Engineer,Single,0,Kolkata,OBC,1,1,1,0,0,1,1,1,1,0,1,1,1,0,0,1,0,0,1,1,0,1,1,1,1,1,1,1,1
+Jasmine,Higgins,Female,28,628-8545-51,Secondary,Clerk,Single,2,Kochi,NT/DNT,1,0,1,1,0,1,1,0,0,0,0,1,1,1,1,1,1,0,1,1,0,0,1,0,0,1,0,0,0
+Charlotte,Morrison,Female,23,476-8292-07,Post graduation,Mechanic,Married,1,Patna,General,0,0,0,1,0,0,0,1,1,0,1,1,1,0,0,0,1,1,1,0,0,0,1,1,0,1,1,1,1
+Ellia,Reed,Female,25,856-3614-37,Secondary,Doctor,Single,1,Mumbai,SC,1,0,1,0,0,0,1,1,1,1,1,0,0,0,1,1,0,0,0,1,1,1,0,1,0,1,0,1,1
+Adele,Jones,Female,24,079-7937-52,Post graduation,Data Analyst,Married,3,Raipur,General,1,1,0,1,1,0,1,1,0,0,0,1,0,0,0,1,0,1,1,0,1,1,0,0,1,0,1,0,0
+Sawyer,Spencer,Male,28,248-2004-50,Secondary,Software Developer,Single,0,Patna,General,1,1,0,0,1,1,1,1,1,1,1,1,1,0,0,1,1,1,0,1,1,1,1,0,1,1,0,1,0
+Sienna,Nelson,Female,28,365-7484-78,Secondary,Architect,Married,0,Kolkata,ST,1,0,0,1,1,0,0,1,0,0,1,1,0,0,0,1,1,1,0,0,0,0,1,0,0,1,0,1,1
+Arianna,Dixon,Female,23,947-0301-64,Secondary,Software Developer,Single,0,Kochi,NT/DNT,1,0,1,1,0,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,0
+Jared,Williams,Male,20,161-5707-69,Senior Secondary,Business,Single,3,Kochi,General,1,0,1,1,1,0,0,0,0,0,1,0,0,0,1,1,1,0,0,1,0,1,1,0,0,0,0,0,0
+Dainton,Johnson,Male,27,743-1009-13,Secondary,Plumber,Married,1,Raipur,ST,1,1,0,1,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,1,0,1,0,1,0,1,0,1,1
+Adele,Ross,Female,23,491-3950-89,Primary,Pharmacist,Married,1,Kolkata,General,0,0,1,1,1,0,0,0,0,1,1,1,1,1,1,1,0,1,1,0,1,1,0,0,0,1,0,1,0
+Spike,Clark,Male,29,183-2117-95,Secondary,Teaching faculty,Married,1,Kolkata,NT/DNT,0,1,0,0,1,1,1,1,0,1,0,1,0,0,1,1,1,0,0,0,1,0,1,1,0,1,1,1,1
+Brad,Armstrong,Male,24,712-5272-96,Post graduation,Pharmacist,Married,2,Bangalore,General,0,1,1,0,1,1,0,1,0,1,0,1,1,0,1,1,1,1,0,1,1,0,1,1,1,1,0,0,1
+Alford,Spencer,Male,22,503-4626-74,Graduation,Pharmacist,Single,4,Kolkata,General,0,1,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,1,0,0,1,0
+Olivia,Wright,Female,27,155-7075-72,Post graduation,Data Analyst,Single,5,Chennai,NT/DNT,0,1,1,1,0,1,1,1,0,0,0,0,1,1,1,1,0,1,0,0,1,1,0,1,0,1,0,1,1
+Alina,Harper,Female,21,280-9308-96,Primary,Data Analyst,Married,4,Hyderabad,OBC,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,1,0,0,1,1,0,1,1,0,0,1,1,0
+Sam,Harris,Male,28,025-0993-91,Illiterate,Pharmacist,Single,2,Patna,SC,1,1,1,1,1,1,1,0,1,0,0,0,1,1,0,1,1,1,1,0,1,0,0,1,1,0,1,0,0
+Cadie,Clark,Female,25,817-5508-07,Secondary,Architect,Married,4,Kolkata,Prefer Not to say,0,1,1,1,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,1,1,1,0
+Michelle,Reed,Female,24,905-5226-86,Primary,Pharmacist,Single,3,Hyderabad,Prefer Not to say,1,1,1,0,1,0,1,0,0,0,0,1,1,1,1,0,1,0,0,1,1,1,0,0,1,0,1,1,1
+Miller,Johnson,Male,30,822-5474-61,Graduation,Data Analyst,Single,1,Chennai,NT/DNT,1,0,0,1,1,1,0,1,0,1,0,0,1,1,0,0,0,1,1,1,0,0,1,1,1,0,0,1,1
+James,Stevens,Male,28,259-4529-41,Post graduation,Civil Engineer,Single,5,Kochi,OBC,0,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,0,0,0,1,1,1,1,1,1,0,0,1,1
+Isabella,Riley,Female,18,277-0526-03,Primary,Pharmacist,Single,4,Kochi,General,1,0,1,1,1,1,1,1,1,0,1,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,1
+Eddy,Davis,Male,24,415-1387-47,Illiterate,Architect,Married,2,Patna,ST,0,1,0,0,1,0,0,1,0,1,1,0,1,0,1,1,1,0,0,0,1,1,1,1,1,1,1,0,1
