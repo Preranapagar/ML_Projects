@@ -2,7 +2,7 @@
 
 # Data Gathering
 
-1. Handlin messy csv file
+1. Handling messy csv file
 
 # Exploratory Data Analysis (EDA)
 
