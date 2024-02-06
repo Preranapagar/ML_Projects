@@ -1,5 +1,7 @@
 # Modeling 
 
+* Hyperparameter Tunning :
+
 1. Hyperparameter Tunning
 
     - Implementation of Regression Model
@@ -8,7 +10,7 @@
 
     - Implementation of Model using RandomSearchCV
 
-2. Halving Grid Search CV
+## 2. Halving Grid Search CV
 
     - Libraries
 
