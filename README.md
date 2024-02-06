@@ -35,7 +35,7 @@
 
    * GridSearchCV & RandomSearchCV
    * HalvingSearchCV
->>>>>>> 6939fb280ca3a8da842a935bdd1c65a2554673d2
+   * Optuna
 
 # Step 7 : Model Evaluation
 
