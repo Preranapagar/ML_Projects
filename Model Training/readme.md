@@ -26,4 +26,14 @@
 
             * HalvingGridSearchCV with n_estimators
 
+3. Optuna
+
+    - Libraries
+
+    - Create Model
+
+    - Tune Optuna
+
+    - Optuna Vizualization
+
             
