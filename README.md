@@ -1,7 +1,6 @@
 * Steps for Machine Learning Project :
-# <span style='color:blue;'>Step 1 : Understanding Problem Statement </span>
+# Step 1 : Understanding Problem Statement
 
-<span style="color:red;"> Hello </span>
 # Data Gathering
 
 1. Handling messy csv file
