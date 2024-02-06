@@ -1,11 +1,11 @@
 * Steps for Machine Learning Project :
 # Step 1 : Understanding Problem Statement
 
-# Data Gathering
+# Step 2 : Data Gathering
 
 1. Handling messy csv file
 
-# Exploratory Data Analysis (EDA)
+# Step 3 : Exploratory Data Analysis (EDA)
 
 1. 11 Key Code Blocks for EDA - Regression Task
 
@@ -15,7 +15,7 @@
 
 4. Data Analysis
 
-# Feature Engineering
+# Step 4 : Feature Engineering
 
 1. Handling Missing Values
 
@@ -27,11 +27,17 @@
 
 5. Outlier Detectiob & Removal
 
-# Modeling
+# Step 5 : Feature Selection
+
+# Step 6 : Model Training
 
 1. Hyperparameter Tunning
 
 2. Halving GridSearchCV
+
+# Step 7 : Model Evaluation
+
+# Step 8 : Deployment
 
 # Project
 
