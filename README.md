@@ -1,4 +1,5 @@
 * Steps for Machine Learning Project :
+# Step 1 : Understanding Problem Statement
 
 # Data Gathering
 
