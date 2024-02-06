@@ -33,7 +33,8 @@
 
 1. Hyperparameter Tunning
 
-2. Halving GridSearchCV
+1.1 GridSearchCV & RandomSearchCV
+1.2 HalvingSearchCV
 
 # Step 7 : Model Evaluation
 
