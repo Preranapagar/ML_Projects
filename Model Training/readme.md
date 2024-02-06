@@ -20,11 +20,11 @@
 
     - Tests :
 
-            * GridSearchCV
+        * GridSearchCV
 
-            * HalvingGridSearchCV with n_samples
+        * HalvingGridSearchCV with n_samples
 
-            * HalvingGridSearchCV with n_estimators
+        * HalvingGridSearchCV with n_estimators
 
 3. Optuna
 
