@@ -36,4 +36,14 @@
 
     - Optuna Vizualization
 
+4. Optuna
+
+    - Libraries
+    - Load Dataset
+    - Model Building
+    - Hyperparameter Tunning
+    - Visualization
+    - Model Tunning
+
+
             
