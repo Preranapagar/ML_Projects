@@ -33,9 +33,9 @@
 
 1. Hyperparameter Tunning
 
-    * GridSearchCV & RandomSearchCV
-    * HalvingSearchCV
-    * Optuna
+   * GridSearchCV & RandomSearchCV
+   * HalvingSearchCV
+>>>>>>> 6939fb280ca3a8da842a935bdd1c65a2554673d2
 
 # Step 7 : Model Evaluation
 
