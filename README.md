@@ -1,5 +1,5 @@
 * Steps for Machine Learning Project :
-# Step 1 : Understanding Problem Statement
+# <span style='color:blue;'>Step 1 : Understanding Problem Statement </span>
 
 # Data Gathering
 
