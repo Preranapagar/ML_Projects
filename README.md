@@ -36,6 +36,7 @@
    * GridSearchCV & RandomSearchCV
    * HalvingSearchCV
    * Optuna
+   * HyperOpt & HyperOpt-SKlearn
 
 # Step 7 : Model Evaluation
 
