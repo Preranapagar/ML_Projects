@@ -34,9 +34,6 @@
         - Visualization
         - Model Tunning
 
-4. HyperOpt & HyperOpt-SKlearn:
-    - Installation of Library
-    - HyperOpt-SKlearn for Classification
 
 
             
