@@ -41,6 +41,10 @@
 
 # Step 8 : Deployment
 
+# Explainable AI
+
+1. SHAP
+
 # Project
 
 1. Titanic
