@@ -39,6 +39,13 @@ Task Performed :
 4. Preprocessing
 5. Baseline Modelling
 6. Hyperparameter Tuning
-7. Exporting Data for SHAP
+7. Exporting Model
 
 # SHAP : RTA
+
+1. Libraries
+2. Import Data
+3. Import Model
+4. Calculate Shap Values
+5. Visualization using SHAP
+    - Summary Plots
