@@ -82,3 +82,5 @@
 16. Household Electricity Comsumption
 
 17. Site Energy Intensity Prediction
+
+18. Wild Blueberry Yeild Prediction
